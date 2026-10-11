@@ -1,0 +1,168 @@
+# First conversations|Start here|Say what you need and understand simple requests.|chat
+hello|interjection|A friendly word used when you meet or greet someone.|سلام؛ ہیلو|say hello|Say hello to your new classmate.|Use hello as a greeting, not as a farewell.
+name|noun|The word or words used to identify a person or thing.|نام|full name|Please write your full name on this form.|A full name usually includes a given name and a family name.
+please|adverb|A word that makes a request more polite.|براہ کرم|please help|Please help me find the classroom.|Put please at the beginning or end of a polite request.
+thank|verb|To tell someone that you are grateful for something.|شکریہ ادا کرنا|thank someone|I want to thank you for your help.|Say thank you, or thank someone for something.
+help|verb|To make it easier for someone to do something.|مدد کرنا|help someone|Can you help me carry this bag?|Say help someone do something or help someone with something.
+need|verb|To require something because it is necessary.|ضرورت ہونا|need help|I need help with this question.|Need describes something necessary; want describes a wish.
+# People around you|Start here|Talk about people and everyday relationships.|people
+friend|noun|A person you know well and like spending time with.|دوست|close friend|My close friend lives near our school.|A close friend is someone you know particularly well.
+family|noun|A group of people related to one another.|خاندان|family member|Each family member helped prepare the meal.|A family can include relatives beyond parents and children.
+neighbour|noun|A person who lives near you.|پڑوسی|next-door neighbour|Our next-door neighbour watered our plants.|Neighbour is British spelling; neighbor is American spelling.
+teacher|noun|A person whose work is to help others learn.|استاد|English teacher|Our English teacher explained the new word.|Use teach for the action and teacher for the person.
+student|noun|A person who is learning at a school, college or other place.|طالب علم|new student|The new student asked where the library was.|Student can refer to learners of different ages.
+guest|noun|A person invited to visit or stay with someone.|مہمان|welcome a guest|We welcome every guest with a cup of tea.|A guest is invited; a customer pays for a service.
+# Everyday actions|Start here|Use practical verbs in simple sentences.|spark
+ask|verb|To say a question or request something from someone.|پوچھنا؛ درخواست کرنا|ask a question|You can ask a question after the lesson.|Ask someone a question, or ask for something.
+answer|verb|To say or write a reply to a question.|جواب دینا|answer a question|Please answer the question in one sentence.|Say answer the question, without to before question.
+bring|verb|To carry something to the place where someone is or will be.|لانا|bring a notebook|Please bring a notebook to class tomorrow.|Bring usually means movement towards the speaker or destination.
+leave|verb|To go away from a place.|روانہ ہونا؛ چلے جانا|leave home|We leave home at eight every morning.|Say leave a place, without from when naming the place directly.
+wait|verb|To stay until someone arrives or something happens.|انتظار کرنا|wait for someone|Please wait for me outside the school.|Use wait for a person or thing.
+share|verb|To let another person use or have part of something.|بانٹنا؛ شریک کرنا|share something|I share my lunch with my friend.|Use share something with someone.
+# Time and routine|Start here|Describe when things happen and how long they last.|clock
+early|adverb|Before the usual or expected time.|جلدی؛ وقت سے پہلے|arrive early|We arrive early so we can find our seats.|Early means before the expected time; soon means after a short time.
+late|adverb|After the usual or expected time.|دیر سے|arrive late|The bus arrived late because of the rain.|Late describes timing; lately means recently.
+usually|adverb|On most occasions, though not every time.|عام طور پر|usually walk|I usually walk to school with my sister.|Usually often goes before the main verb.
+often|adverb|On many occasions.|اکثر|often visit|We often visit our grandparents on Sunday.|Often indicates frequency, not how long a visit lasts.
+before|preposition|Earlier than a particular time or event.|سے پہلے|before class|I review my notes before class.|Before can introduce a time, an event or a clause.
+after|preposition|Later than a particular time or event.|کے بعد|after lunch|We practise English after lunch.|After answers when; afterwards means at a later time.
+# Places and directions|Start here|Find your way and describe familiar places.|map
+near|preposition|At a short distance from someone or something.|کے قریب|near the school|There is a bus stop near the school.|Near does not need to before its object.
+between|preposition|In the space separating two people or things.|کے درمیان|between two buildings|The shop is between the bank and the school.|Between can also describe separate relationships among more than two things.
+opposite|preposition|Facing someone or something on the other side.|کے سامنے|opposite the station|The café is opposite the station.|Opposite describes location here, not a contrary opinion.
+entrance|noun|A door or other place through which you enter.|داخلے کا راستہ|main entrance|Meet me at the main entrance of the library.|Entrance is where you go in; exit is where you go out.
+corner|noun|A place where two sides or streets meet.|کونا؛ موڑ|street corner|Turn left at the next street corner.|A street corner is a meeting point of streets.
+direction|noun|The way in which someone or something moves or points.|سمت|right direction|Are we walking in the right direction?|Directions in the plural can mean instructions for finding a place.
+# Food and daily needs|Start here|Talk about food, drinks and simple preferences.|cup
+meal|noun|Food eaten at a regular time, such as breakfast or dinner.|کھانا|evening meal|We eat our evening meal together.|A meal is an occasion of eating, not a single ingredient.
+fresh|adjective|Recently made, grown or obtained and still in good condition.|تازہ|fresh bread|The bakery sells fresh bread every morning.|Fresh can describe food that is not old or stale.
+hungry|adjective|Feeling that you need or want to eat.|بھوک لگنا|feel hungry|I feel hungry after the long walk.|Say I am hungry or I feel hungry.
+thirsty|adjective|Feeling that you need or want to drink.|پیاس لگنا|feel thirsty|You may feel thirsty after playing outside.|Thirsty describes a need for a drink, not food.
+order|verb|To ask for food or another item to be supplied.|منگوانا؛ آرڈر دینا|order a meal|We order a meal at the café.|In a café, order means request something you will usually pay for.
+prefer|verb|To like or choose one thing more than another.|ترجیح دینا|prefer tea|I prefer tea to coffee.|Use prefer one thing to another, rather than than.
+# Buying and paying|Everyday English|Ask about prices and make practical decisions.|bag
+price|noun|The amount of money needed to buy something.|قیمت|check the price|Check the price before you buy the bag.|Price is what a buyer pays; cost can include production or other expenses.
+change|noun|Money returned when you pay more than the amount due.|بقایا رقم|receive change|I paid with a large note and received change.|Change is usually uncountable when it means money returned.
+receipt|noun|A document showing that you have paid for something.|رسید|keep the receipt|Keep the receipt in case you return the shirt.|A receipt records payment; a bill usually requests it.
+afford|verb|To have enough money or time for something.|استطاعت ہونا|afford a ticket|I cannot afford a ticket for that concert.|Afford is often used with can or cannot.
+discount|noun|A reduction in the usual price.|قیمت میں کمی؛ رعایت|offer a discount|The shop offers a discount to students.|A discount reduces a price; it does not mean an item is free.
+return|verb|To take something back to the place where you obtained it.|واپس کرنا|return an item|You can return an item if it is damaged.|Return an item describes giving it back, not receiving a refund automatically.
+# Travel plans|Everyday English|Plan a journey and respond to changes.|map
+journey|noun|An act of travelling from one place to another.|سفر|long journey|Take some water for the long journey.|Journey focuses on travel from one place to another.
+destination|noun|The place you are travelling to.|منزل|reach a destination|We will reach our destination before sunset.|A destination is an end point, not the route used to reach it.
+departure|noun|The act or scheduled time of leaving a place.|روانگی|departure time|Check the departure time on your ticket.|Departure contrasts with arrival.
+delay|noun|A period of waiting that makes something happen later than planned.|تاخیر|unexpected delay|An unexpected delay made us miss the first lesson.|Delay may be a noun or a verb.
+reserve|verb|To arrange for something to be kept for your later use.|پہلے سے محفوظ کرانا|reserve a seat|You can reserve a seat online.|Reserve means arrange in advance; pay if the booking rules require it.
+route|noun|The way taken to reach a place.|راستہ|shorter route|This map shows a shorter route to the station.|Route is the way taken; destination is where you are going.
+# Feelings and support|Everyday English|Describe feelings and respond thoughtfully.|heart
+calm|adjective|Not worried, angry or excited.|پرسکون|stay calm|Try to stay calm before the interview.|Calm describes a state; calmly describes how you act.
+worried|adjective|Feeling uneasy because something bad might happen.|فکرمند|worried about|I am worried about missing the bus.|Use worried about a situation, or worried that something may happen.
+proud|adjective|Feeling pleased about an achievement or someone you value.|فخر محسوس کرنا|proud of|She felt proud of her careful work.|Use proud of someone or something.
+disappointed|adjective|Unhappy because something was not as good as expected.|مایوس|disappointed with|He was disappointed with the result but tried again.|Disappointed concerns an unmet expectation, not every kind of sadness.
+encourage|verb|To give someone confidence or support to do something.|حوصلہ افزائی کرنا|encourage someone|We encourage each other to practise English.|Use encourage someone to do something.
+patient|adjective|Able to wait or deal with difficulty without becoming angry.|صابر؛ تحمل کرنے والا|patient with|Our teacher is patient with new learners.|Patient is an adjective here; a patient can also mean a person receiving healthcare.
+# Solving small problems|Everyday English|Explain a problem and take useful action.|tool
+notice|verb|To become aware of something by seeing or hearing it.|دھیان جانا؛ محسوس کرنا|notice a mistake|Did you notice a mistake in my answer?|Notice means become aware; notify means tell someone formally.
+repair|verb|To make something damaged work properly again.|مرمت کرنا|repair a bicycle|The mechanic can repair my bicycle today.|Repair is more specific than change or replace.
+replace|verb|To put a different thing in the place of another.|بدلنا|replace a battery|We need to replace the battery in the clock.|Replace means substitute something, rather than mend the original.
+solution|noun|A way of solving a problem.|حل|find a solution|We worked together to find a solution.|Use a solution to a problem.
+careful|adjective|Giving attention to avoid mistakes or harm.|محتاط|be careful|Be careful when you cross this busy road.|Careful describes the person; carefully describes an action.
+urgent|adjective|Needing attention or action very soon.|فوری توجہ کا محتاج|urgent request|This urgent request needs an answer today.|Urgent concerns time and priority, not necessarily severity.
+# Making plans|Everyday English|Set priorities and work towards a realistic goal.|clock
+goal|noun|Something you want to achieve.|مقصد؛ ہدف|set a goal|Set a goal you can reach this week.|A goal is a desired result; a plan describes how to reach it.
+prepare|verb|To get ready for an activity or event.|تیاری کرنا|prepare for|I prepare for each lesson by reading my notes.|Prepare for an event, or prepare something you will use.
+schedule|noun|A plan that shows when activities will happen.|اوقات کا منصوبہ|study schedule|My study schedule includes a short break.|A schedule organises time; a list need not include times.
+priority|noun|Something more important than other things and dealt with first.|ترجیح|top priority|Finishing the assignment is my top priority today.|Priorities can change as needs change.
+organise|verb|To arrange things or activities in a useful order.|منظم کرنا|organise notes|I organise my notes by topic.|Organise is British spelling; organize is also standard.
+complete|verb|To finish doing or making something.|مکمل کرنا|complete a task|Please complete the task before the lesson ends.|Complete is a verb here; it can also mean whole as an adjective.
+# Clear conversations|Everyday English|Explain your point and understand another speaker.|chat
+explain|verb|To make something clear by giving information about it.|وضاحت کرنا|explain an idea|Can you explain this idea in simpler words?|Explain something to someone, not explain someone something.
+describe|verb|To say what a person, place or thing is like.|بیان کرنا|describe a place|Describe a place you enjoy visiting.|Describe gives details; explain often gives reasons or how something works.
+agree|verb|To have the same opinion as someone.|متفق ہونا|agree with|I agree with your suggestion about the meeting.|Agree with a person or view; agree to a proposal or request.
+suggest|verb|To offer an idea for someone to consider.|تجویز دینا|suggest a change|I suggest a change to our study plan.|Use suggest doing something, rather than suggest someone to do it.
+clarify|verb|To make something easier to understand.|واضح کرنا|clarify a point|Please clarify the final point in your answer.|Clarify helps resolve uncertainty or ambiguity.
+respond|verb|To give an answer or reaction.|جواب دینا؛ ردعمل دینا|respond to|Please respond to the invitation by Friday.|Use respond to a person, message or event.
+# Learning effectively|Study and work|Understand common classroom and learning language.|book
+focus|verb|To give most of your attention to something.|توجہ دینا|focus on|Try to focus on one task at a time.|Use focus on a task or topic.
+review|verb|To look at something again to remember or assess it.|دہرانا؛ دوبارہ جائزہ لینا|review notes|I review my notes the day after each lesson.|Review can mean study again or assess the quality of something.
+practice|noun|Repeated activity intended to improve a skill.|مشق|regular practice|Regular practice helps me remember new words.|In British English, practice is the noun and practise is the verb.
+progress|noun|Movement towards improvement or a goal.|پیش رفت|make progress|You can make progress with a little study each day.|Progress is usually uncountable: make progress, not make a progress.
+feedback|noun|Information about how well something was done and how it could improve.|کام پر رائے؛ اصلاحی تبصرہ|useful feedback|The teacher gave useful feedback on my paragraph.|Feedback is normally uncountable.
+strategy|noun|A planned way of achieving a goal.|حکمت عملی|learning strategy|Testing myself is one learning strategy I use.|A strategy guides action; a goal states the desired result.
+# Working together|Study and work|Take responsibility and collaborate on a task.|people
+task|noun|A piece of work that needs to be done.|کام؛ ذمہ داری|complete a task|We divided the task into three smaller steps.|A task is a specific piece of work, not an entire career.
+responsibility|noun|A duty to deal with something or take care of someone.|ذمہ داری|take responsibility|Each team member must take responsibility for one task.|Responsibility may mean a duty or accountability for an action.
+contribute|verb|To give time, effort, money or ideas to something.|حصہ ڈالنا|contribute to|Everyone can contribute to the discussion.|Use contribute to an activity or result.
+cooperate|verb|To work with others towards a shared purpose.|تعاون کرنا|cooperate with|We cooperate with another class on the project.|Use cooperate with someone or cooperate on a project.
+deadline|noun|The latest time by which something must be done.|آخری مقررہ وقت|meet a deadline|We planned our work carefully to meet the deadline.|Meeting a deadline means finishing by that time.
+reliable|adjective|Able to be trusted to do what is expected.|قابل اعتماد|reliable source|Use a reliable source when you check a fact.|Reliable describes dependable people, information or equipment.
+# Reading for meaning|Study and work|Distinguish ideas, facts and supporting details.|book
+context|noun|The surrounding words or situation that help explain meaning.|سیاق و سباق|understand the context|Read the whole sentence to understand the context.|Context helps you choose among different senses of a word.
+detail|noun|A small piece of information about something.|تفصیل|important detail|Underline each important detail in the passage.|A detail supports a broader description or main idea.
+purpose|noun|The reason for doing something or the intended result.|مقصد|main purpose|The main purpose of the notice is to explain a change.|Purpose answers why something is done.
+opinion|noun|A belief or judgement that someone holds.|رائے|personal opinion|The final sentence expresses a personal opinion.|An opinion can be supported by evidence but is not automatically a fact.
+evidence|noun|Information or observations that support or challenge a claim.|ثبوت؛ شواہد|supporting evidence|The writer gives supporting evidence for the claim.|Evidence is normally uncountable and may vary in strength.
+infer|verb|To reach a conclusion from available information.|استنباط کرنا|infer a meaning|We can infer a meaning from the surrounding sentences.|A reader infers; a speaker or writer may imply.
+# Comparing ideas|Study and work|Describe similarities, differences and significance.|compare
+similar|adjective|Having features that are alike.|ملتا جلتا|similar to|This word is similar to one we learned yesterday.|Use similar to, rather than similar with.
+contrast|verb|To compare things in order to show their differences.|فرق نمایاں کرنا|contrast two views|We contrast two views to show how they differ.|Contrast focuses on differences; compare can include similarities.
+benefit|noun|An advantage or helpful result.|فائدہ|main benefit|The main benefit of the new timetable is a longer lunch break.|A benefit is a positive result, not simply any result.
+limitation|noun|A restriction or weakness that reduces what something can do.|حد؛ کمی|important limitation|The small sample is an important limitation of the study.|A limitation does not necessarily make a study worthless.
+significant|adjective|Important or large enough to deserve attention.|اہم؛ قابل توجہ|significant difference|There is a significant difference in the two accounts.|In statistics, significant has a technical meaning distinct from important.
+alternative|noun|Another possible choice or way of doing something.|متبادل|practical alternative|Walking is a practical alternative to taking the bus.|An alternative is an option, not always the opposite.
+# Writing with a clear structure|Study and work|Build a paragraph and connect your ideas.|pen
+introduce|verb|To present a topic or idea for the first time.|متعارف کرانا|introduce a topic|Use your first paragraph to introduce the topic.|Introduce starts discussion; it does not need to explain every detail.
+develop|verb|To make an idea fuller or more detailed.|تفصیل سے آگے بڑھانا|develop an idea|Use an example to develop the idea in your paragraph.|Develop can describe ideas, abilities or physical growth.
+support|verb|To provide reasons or evidence for a statement.|تائید کرنا؛ دلیل سے تقویت دینا|support a claim|Use evidence to support your claim.|Support has other senses, including help or hold something up.
+however|adverb|A word that introduces a contrast with what has just been said.|تاہم|however,|The plan is useful; however, it needs more time.|Use punctuation to separate however when it links contrasting statements.
+therefore|adverb|For that reason or as a result.|اس لیے؛ لہٰذا|therefore,|The road was closed; therefore, we took another route.|Therefore introduces a consequence, not a contrast.
+conclude|verb|To end a discussion or reach a judgement after considering information.|نتیجہ اخذ کرنا؛ اختتام کرنا|conclude a discussion|We conclude the discussion by summarising the main points.|Make clear whether conclude means finish or reach a judgement.
+# Questions and research|Study and work|Understand how a simple investigation is organised.|search
+investigate|verb|To examine something carefully to discover information.|تحقیق کرنا؛ چھان بین کرنا|investigate a problem|The students investigate a problem in their local area.|Investigate is more systematic than simply notice.
+method|noun|A planned way of doing something.|طریقہ|research method|The report explains the research method clearly.|A method states how work is carried out.
+sample|noun|A smaller group or amount selected from a larger one for study.|نمونہ|small sample|The survey used a small sample of local residents.|A sample may not represent the whole population well.
+observe|verb|To watch or examine something carefully.|مشاہدہ کرنا|observe a change|We observe a change in the plant each day.|Observation records what is noticed; interpretation explains it.
+analyse|verb|To examine parts of something to understand how they relate.|تجزیہ کرنا|analyse a text|We analyse the text before we write our response.|Analyse is British spelling; analyze is American spelling.
+interpret|verb|To explain or decide the meaning of something.|معنی کی وضاحت کرنا؛ تعبیر کرنا|interpret a result|Researchers interpret a result using the available evidence.|Different interpretations need to be assessed against evidence.
+# Evaluating an argument|Advanced reading|Assess claims without confusing confidence with evidence.|scale
+claim|noun|A statement that someone says is true, which may need evidence.|دعویٰ|support a claim|The writer uses figures to support the claim.|A claim needs evaluation; it is not necessarily false.
+assumption|noun|Something accepted as true without being established in that discussion.|مفروضہ|underlying assumption|The underlying assumption is that every student has internet access.|Identify an assumption before relying on it.
+justify|verb|To give reasons showing why a view or action is reasonable.|جواز پیش کرنا|justify a decision|The school must justify its decision to change the timetable.|Justify means give reasons, not merely repeat a decision.
+valid|adjective|Well founded or acceptable under the relevant rules or reasoning.|درست؛ معتبر|valid reason|Lack of transport is a valid reason for requesting a later start.|The technical meaning of valid depends on the field.
+bias|noun|A tendency that unfairly favours one view, person or group.|تعصب؛ جانبداری|recognise bias|We need to recognise bias when we evaluate a source.|Bias can be unintended as well as deliberate.
+evaluate|verb|To judge the quality, value or effectiveness of something using criteria.|جانچنا؛ قدر و معیار کا جائزہ لینا|evaluate evidence|We evaluate the evidence before accepting the conclusion.|Evaluation includes a judgement; description alone does not.
+# Precision and uncertainty|Advanced reading|Make careful statements about evidence and certainty.|scale
+accurate|adjective|Correct and free from significant mistakes.|درست|accurate information|Check that the report contains accurate information.|Accuracy concerns correctness; precision concerns exactness or consistency.
+precise|adjective|Exact and clearly defined.|بالکل واضح؛ متعین|precise description|Give a precise description of where the problem occurred.|A precise measurement is not necessarily accurate.
+consistent|adjective|Not changing in a contradictory way across occasions or parts.|یکساں؛ باہم موافق|consistent results|The repeated tests produced consistent results.|Consistent results can still contain a repeated error.
+approximate|adjective|Close to the exact value, but not completely exact.|تقریبی|approximate cost|The approximate cost is two thousand rupees.|Make clear when a number is an estimate.
+tentative|adjective|Not final or certain and open to change.|عارضی؛ غیر حتمی|tentative conclusion|This tentative conclusion needs further evidence.|Tentative signals caution rather than a settled judgement.
+plausible|adjective|Seeming reasonable or possible on the available information.|قرین قیاس|plausible explanation|The writer offers a plausible explanation for the delay.|Plausible does not mean proven true.
+# Change and consequences|Advanced reading|Discuss causes, outcomes and complex change.|spark
+impact|noun|A strong effect that something has on someone or something.|اثر|lasting impact|The new library had a lasting impact on the community.|Use impact on someone or something.
+consequence|noun|A result of an action or event.|نتیجہ|unexpected consequence|An unexpected consequence was a rise in travel costs.|A consequence can be positive or negative.
+factor|noun|Something that contributes to a situation or result.|عامل|important factor|Access to transport is an important factor in attendance.|A contributing factor need not be the only cause.
+adapt|verb|To change to suit new conditions.|حالات کے مطابق ڈھلنا|adapt to|Students adapt to a new timetable over time.|Adapt to new conditions; adapt something for a purpose.
+sustain|verb|To keep something going over a period of time.|برقرار رکھنا|sustain progress|Small daily sessions can help sustain progress.|Sustain means maintain, not merely begin.
+mitigate|verb|To make the seriousness or harmful effects of something smaller.|شدت کم کرنا|mitigate a risk|Better drainage can mitigate the risk of flooding.|Mitigate reduces harm; it does not necessarily remove the cause.
+# Society and public decisions|Advanced reading|Read common language used in public affairs.|people
+policy|noun|A plan or set of principles used to guide decisions.|پالیسی؛ لائحہ عمل|school policy|The school policy explains how absences are recorded.|Identify whose policy you mean and what it covers.
+access|noun|The ability or opportunity to reach or use something.|رسائی|access to|Every student needs access to learning materials.|Use access to, rather than access of.
+equity|noun|Fairness that takes differing needs or circumstances into account.|انصاف؛ منصفانہ برتاؤ|promote equity|Providing extra support can promote equity in education.|In education, equity and identical treatment are not always the same.
+accountability|noun|The obligation to explain decisions and accept responsibility for them.|جواب دہی|public accountability|Clear records support public accountability.|Accountability involves being answerable, not simply being busy.
+implement|verb|To put a plan, policy or decision into action.|عمل میں لانا|implement a plan|The team will implement the plan next month.|A plan may be announced before it is implemented.
+sustainable|adjective|Able to continue over time without exhausting essential resources or support.|پائیدار|sustainable approach|The school needs a sustainable approach to funding.|Explain what makes an activity sustainable in its context.
+# Nuance in demanding texts|Advanced reading|Understand careful distinctions in formal writing.|book
+ambiguous|adjective|Having more than one possible meaning or interpretation.|مبہم؛ ایک سے زیادہ معنی رکھنے والا|ambiguous statement|The ambiguous statement could be understood in two ways.|Ambiguous concerns multiple interpretations; vague concerns lack of detail.
+implicit|adjective|Suggested or understood without being stated directly.|غیر صریح؛ ضمنی طور پر موجود|implicit message|The story contains an implicit message about responsibility.|Implicit contrasts with explicit, which is directly stated.
+explicit|adjective|Stated clearly and directly.|واضح؛ صریح|explicit instruction|The teacher gave an explicit instruction to cite the source.|Explicit describes direct expression, not necessarily detailed expression.
+coherent|adjective|Connected and organised in a way that makes sense.|مربوط|coherent argument|Each paragraph contributes to a coherent argument.|Coherence concerns how ideas fit together.
+subtle|adjective|Not obvious and requiring careful attention to notice.|باریک؛ لطیف|subtle difference|There is a subtle difference between the two expressions.|Subtle does not mean unimportant.
+scrutinise|verb|To examine something very carefully.|باریک بینی سے جائزہ لینا|scrutinise evidence|Researchers scrutinise the evidence before publishing a claim.|Scrutinise is British spelling; scrutinize is American spelling.
+# From evidence to insight|Advanced reading|Bring ideas together and recognise their limits.|bulb
+corroborate|verb|To provide additional evidence that supports a statement.|مزید شواہد سے تائید کرنا|corroborate an account|A second witness can corroborate the account.|Corroboration adds support but does not guarantee complete certainty.
+empirical|adjective|Based on observation or experience rather than theory alone.|مشاہدے یا تجربے پر مبنی|empirical evidence|The study provides empirical evidence for its conclusion.|Empirical concerns the source of evidence, not its quality by itself.
+synthesise|verb|To combine information or ideas into a connected whole.|معلومات یکجا کرکے مربوط نتیجہ پیش کرنا|synthesise findings|The review aims to synthesise findings from several studies.|Synthesis connects sources rather than merely listing summaries.
+discrepancy|noun|A difference between things that are expected to agree.|اختلاف؛ عدم مطابقت|explain a discrepancy|The team must explain the discrepancy between the two totals.|A discrepancy signals a mismatch that needs checking.
+inherent|adjective|Existing as a natural or essential part of something.|بنیادی طور پر موجود|inherent limitation|The method has an inherent limitation that cannot be removed easily.|Inherent means built into something, not acquired later.
+nuance|noun|A small but meaningful difference in meaning, expression or judgement.|معنی یا اظہار کا باریک فرق|notice a nuance|Careful reading helps us notice a nuance in the writer's tone.|A nuance adds a fine distinction, rather than an entirely different topic.
