@@ -1,0 +1,31 @@
+{
+  "data.json": {
+    "bytes": 5933891,
+    "records": 5718
+  },
+  "reference.json": {
+    "bytes": 10459456,
+    "records": 16934
+  },
+  "expressions.json": {
+    "bytes": 1978676,
+    "records": 3000
+  },
+  "curriculum.json": {
+    "bytes": 66730,
+    "records": 24
+  },
+  "domains.json": {
+    "bytes": 56570,
+    "records": 25
+  },
+  "taxonomy.json": {
+    "bytes": 5363084,
+    "records": 4
+  },
+  "family-lessons.json": {
+    "bytes": 4322408,
+    "records": 5718
+  },
+  "startupRequestedBytes": 28241439
+}

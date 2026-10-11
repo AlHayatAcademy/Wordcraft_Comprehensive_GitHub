@@ -1,11 +1,11 @@
 'use strict';
 let DOMAINS=[],REFERENCES=[],wordScope='all',domainPage=0,selectedDomain='',domainDrill=null,drillMode='spelling',drillIndex=0,drillWords=[];
 let referenceState='loading';
-const comprehensiveInit=init;
-init=async function(){
- const referenceTask=fetch('reference.json').then(r=>{if(!r.ok)throw Error('Dictionary unavailable');return r.json()}).then(data=>{REFERENCES=data;referenceState='ready';if(DATA.length&&['home','library','reference','about'].includes(view))render();}).catch(()=>{referenceState='error';if(DATA.length&&['library','reference'].includes(view))render();});
- try{const r=await fetch('domains.json');if(!r.ok)throw Error('Areas unavailable');DOMAINS=await r.json();}catch(e){DOMAINS=[];}
- await comprehensiveInit();
+
+async function initializeTopics(){
+ referenceState='not-loaded';
+ try{const r=await fetch('domains.json');if(!r.ok)throw Error('Areas unavailable');DOMAINS=await r.json();Content.register(DOMAINS,'topic');}catch(e){DOMAINS=[];}
+
 };
 const comprehensiveRender=render;
 render=function(){

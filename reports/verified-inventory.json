@@ -1,0 +1,17 @@
+{
+  "words": 5807,
+  "referenceHeadwords": 16857,
+  "uniqueHeadwords": 22664,
+  "expressions": 3000,
+  "uniqueEntryKeys": 25664,
+  "courseRecords": 504,
+  "distinctTeachingSenses": 503,
+  "bilingualExampleRecords": 304,
+  "guidedUnits": 44,
+  "topicUnits": 25,
+  "sourceIdsPreserved": true,
+  "sourceHeadwordDuplicates": 0,
+  "unclassifiedEntries": 0,
+  "rawStartupContentBytes": 1241609,
+  "fullNewEditorialReviewOfAllSourceRecords": false
+}

@@ -1,0 +1,180 @@
+# Asking for clarification
+repeat|verb|To say or do something again.|دہرانا|repeat a question|Could you repeat the question more slowly?|کیا آپ سوال زیادہ آہستہ دہرا سکتے ہیں؟
+spell|verb|To say or write the letters of a word in order.|ہجے بتانا|spell a name|Please spell your surname for me.|براہ کرم مجھے اپنے خاندانی نام کے ہجے بتائیں۔
+pronounce|verb|To say a word using its sounds.|تلفظ ادا کرنا|pronounce a word|Can you pronounce this word for me?|کیا آپ میرے لیے اس لفظ کا تلفظ ادا کر سکتے ہیں؟
+understand|verb|To know what something means.|سمجھنا|understand a message|I understand the message, but I need more time.|میں پیغام سمجھتا ہوں، لیکن مجھے مزید وقت چاہیے۔
+confused|adjective|Unable to understand something clearly.|الجھن میں|feel confused|I feel confused about the two instructions.|میں دونوں ہدایات کے بارے میں الجھن میں ہوں۔
+exactly|adverb|In a precise way, without a difference.|بالکل؛ ٹھیک ٹھیک|exactly the same|The two addresses are exactly the same.|دونوں پتے بالکل ایک جیسے ہیں۔
+meaning|noun|The idea expressed by a word or message.|معنی؛ مطلب|intended meaning|The picture helps explain the intended meaning.|تصویر مطلوبہ معنی واضح کرنے میں مدد دیتی ہے۔
+translation|noun|Words changed from one language into another.|ترجمہ|Urdu translation|Please read the Urdu translation below the sentence.|براہ کرم جملے کے نیچے اردو ترجمہ پڑھیں۔
+# Meeting and keeping in touch
+colleague|noun|Someone who works with you.|ساتھی کارکن|new colleague|My new colleague showed me the office.|میرے نئے ساتھی کارکن نے مجھے دفتر دکھایا۔
+classmate|noun|Someone in the same class as you.|ہم جماعت|help a classmate|I helped a classmate find the library.|میں نے ایک ہم جماعت کی کتب خانہ تلاش کرنے میں مدد کی۔
+surname|noun|A family name shared with other members of a family.|خاندانی نام|write a surname|Write your surname in the second box.|دوسرے خانے میں اپنا خاندانی نام لکھیں۔
+address|noun|Details that identify where a person or place is located.|پتہ|home address|The form asks for my home address.|فارم میں میرے گھر کا پتہ پوچھا گیا ہے۔
+contact|verb|To communicate with someone.|رابطہ کرنا|contact the office|Please contact the office before Friday.|براہ کرم جمعے سے پہلے دفتر سے رابطہ کریں۔
+invite|verb|To ask someone to attend or join something.|دعوت دینا|invite a friend|I will invite a friend to the study group.|میں ایک دوست کو مطالعاتی گروپ میں شرکت کی دعوت دوں گا۔
+welcome|adjective|Gladly received or allowed to join.|خوش آمدید؛ قابل قبول|everyone is welcome|Everyone is welcome at the reading club.|پڑھنے کے کلب میں ہر شخص کا خیرمقدم ہے۔
+appointment|noun|An arranged meeting at a particular time.|ملاقات کا مقررہ وقت|make an appointment|I need to make an appointment with my tutor.|مجھے اپنے استاد سے ملاقات کا وقت مقرر کرنا ہے۔
+# Managing time
+arrive|verb|To reach a place.|پہنچنا|arrive on time|Please arrive on time for the lesson.|براہ کرم سبق کے لیے وقت پر پہنچیں۔
+finish|verb|To bring an activity to an end.|ختم کرنا|finish a task|I will finish the task before lunch.|میں دوپہر کے کھانے سے پہلے کام ختم کروں گا۔
+begin|verb|To start doing something.|شروع کرنا|begin a lesson|We begin the lesson with a short dialogue.|ہم مختصر مکالمے سے سبق شروع کرتے ہیں۔
+postpone|verb|To move an event to a later time.|ملتوی کرنا|postpone a meeting|We must postpone the meeting until Monday.|ہمیں اجلاس پیر تک ملتوی کرنا ہوگا۔
+cancel|verb|To decide that an arranged event will not happen.|منسوخ کرنا|cancel a booking|I had to cancel the booking because I was ill.|بیماری کی وجہ سے مجھے بکنگ منسوخ کرنا پڑی۔
+available|adjective|Free to be used or able to take part.|دستیاب|available tomorrow|The meeting room is available tomorrow.|اجلاس کا کمرہ کل دستیاب ہے۔
+duration|noun|The length of time something lasts.|دورانیہ|course duration|The course duration is six weeks.|کورس کا دورانیہ چھ ہفتے ہے۔
+reminder|noun|A message or action that helps you remember.|یاد دہانی|send a reminder|Please send a reminder the day before the meeting.|براہ کرم اجلاس سے ایک دن پہلے یاد دہانی بھیجیں۔
+# Understanding instructions
+follow|verb|To do what an instruction tells you to do.|عمل کرنا|follow instructions|Follow the instructions on the first page.|پہلے صفحے پر دی گئی ہدایات پر عمل کریں۔
+check|verb|To examine something to make sure it is correct.|جانچنا|check an answer|Check your answer before you submit it.|جمع کرانے سے پہلے اپنا جواب جانچیں۔
+submit|verb|To give a document or piece of work for consideration.|جمع کرانا|submit an application|Please submit your application by Tuesday.|براہ کرم اپنی درخواست منگل تک جمع کرا دیں۔
+sign|verb|To write your name to show agreement or identity.|دستخط کرنا|sign a form|Sign the form at the bottom of the page.|صفحے کے نچلے حصے میں فارم پر دستخط کریں۔
+attach|verb|To include a file with an electronic message.|منسلک کرنا|attach a document|Attach the document to your email.|اپنی ای میل کے ساتھ دستاویز منسلک کریں۔
+select|verb|To choose something from a set of options.|منتخب کرنا|select an option|Select one option from the menu.|مینو سے ایک اختیار منتخب کریں۔
+confirm|verb|To state that an arrangement or detail is correct.|تصدیق کرنا|confirm a booking|Please confirm the booking by email.|براہ کرم ای میل کے ذریعے بکنگ کی تصدیق کریں۔
+instruction|noun|Information telling someone how to do something.|ہدایت|clear instructions|The box contains clear instructions for assembly.|ڈبے میں جوڑنے کے لیے واضح ہدایات موجود ہیں۔
+# Asking politely
+request|noun|An act of asking for something.|درخواست|make a request|I would like to make a request for extra time.|میں اضافی وقت کی درخواست کرنا چاہتا ہوں۔
+allow|verb|To let someone do something.|اجازت دینا|allow someone to leave|The teacher will allow us to leave early.|استاد ہمیں جلد جانے کی اجازت دے گا۔
+borrow|verb|To use something belonging to someone else and return it.|عارضی طور پر لینا|borrow a book|May I borrow this book until Friday?|کیا میں یہ کتاب جمعے تک عارضی طور پر لے سکتا ہوں؟
+lend|verb|To let someone use something that you expect back.|عارضی طور پر دینا|lend a pen|Could you lend me a pen for a moment?|کیا آپ مجھے ایک لمحے کے لیے قلم دے سکتے ہیں؟
+assist|verb|To help someone with a task.|مدد کرنا|assist a visitor|A volunteer will assist the visitor at the desk.|ایک رضاکار میز پر آنے والے کی مدد کرے گا۔
+appreciate|verb|To feel grateful for something someone has done.|قدر کرنا؛ شکر گزار ہونا|appreciate your help|I appreciate your help with the application.|درخواست میں آپ کی مدد پر میں شکر گزار ہوں۔
+apologise|verb|To say that you are sorry for a mistake or harm.|معذرت کرنا|apologise for a delay|I apologise for the delay in replying.|جواب دینے میں تاخیر پر میں معذرت کرتا ہوں۔
+refuse|verb|To say that you will not do or accept something.|انکار کرنا|refuse an offer|You can politely refuse an offer you cannot accept.|آپ ایسی پیشکش سے شائستگی سے انکار کر سکتے ہیں جسے قبول نہیں کر سکتے۔
+# Working through problems
+fault|noun|Something wrong that prevents a thing from working properly.|خرابی|electrical fault|An electrical fault stopped the lift.|بجلی کی خرابی سے لفٹ بند ہوگئی۔
+missing|adjective|Not present where expected.|غائب؛ موجود نہ ہونا|missing page|The missing page contains the instructions.|غائب صفحے پر ہدایات درج ہیں۔
+damaged|adjective|Harmed in a way that reduces usefulness or value.|خراب؛ نقصان پہنچا ہوا|damaged parcel|The damaged parcel arrived this morning.|خراب پارسل آج صبح پہنچا۔
+solve|verb|To find an answer to a problem.|حل کرنا|solve a problem|We can solve the problem by checking the cable.|ہم تار جانچ کر مسئلہ حل کر سکتے ہیں۔
+identify|verb|To recognise and name something.|شناخت کرنا|identify a fault|The technician will identify the fault first.|تکنیکی ماہر پہلے خرابی کی شناخت کرے گا۔
+report|verb|To give information about an event or problem.|اطلاع دینا|report a problem|Please report the problem to the manager.|براہ کرم منیجر کو مسئلے کی اطلاع دیں۔
+avoid|verb|To take action so that something does not happen.|بچنا؛ روکنا|avoid a mistake|Read the label carefully to avoid a mistake.|غلطی سے بچنے کے لیے لیبل غور سے پڑھیں۔
+prevent|verb|To stop something from happening.|روکنا|prevent damage|A strong cover can prevent damage to the screen.|مضبوط غلاف سکرین کو نقصان پہنچنے سے روک سکتا ہے۔
+# Explaining causes
+reason|noun|Something that explains why an action or event happens.|وجہ|give a reason|Please give a reason for your choice.|براہ کرم اپنے انتخاب کی وجہ بتائیں۔
+cause|verb|To make something happen.|سبب بننا|cause a delay|Heavy rain can cause a delay on this road.|شدید بارش اس سڑک پر تاخیر کا سبب بن سکتی ہے۔
+result|noun|Something that happens because of an action or event.|نتیجہ|unexpected result|The change produced an unexpected result.|تبدیلی سے غیر متوقع نتیجہ نکلا۔
+effect|noun|A change produced by something else.|اثر|positive effect|Regular reading has a positive effect on my confidence.|باقاعدہ مطالعے کا میرے اعتماد پر مثبت اثر پڑتا ہے۔
+influence|verb|To affect how someone thinks or acts.|اثر انداز ہونا|influence a decision|The cost will influence our decision.|لاگت ہمارے فیصلے پر اثر انداز ہوگی۔
+lead to|phrasal verb|To cause or produce a particular result.|سبب بننا|lead to confusion|Unclear instructions can lead to confusion.|غیر واضح ہدایات الجھن کا سبب بن سکتی ہیں۔
+because of|prepositional expression|Used to introduce the reason for something.|کی وجہ سے|because of the rain|The match was cancelled because of the rain.|بارش کی وجہ سے میچ منسوخ ہوگیا۔
+as a result|linking expression|Used to introduce a consequence of what came before.|نتیجتاً|as a result|The bus broke down; as a result, we arrived late.|بس خراب ہوگئی؛ نتیجتاً ہم دیر سے پہنچے۔
+# Comparing choices
+compare|verb|To examine things to see how they are alike or different.|موازنہ کرنا|compare two options|Compare the two options before you decide.|فیصلہ کرنے سے پہلے دونوں اختیارات کا موازنہ کریں۔
+difference|noun|A way in which things are not the same.|فرق|important difference|There is an important difference between the two plans.|دونوں منصوبوں میں ایک اہم فرق ہے۔
+advantage|noun|Something that makes a choice or situation better.|فائدہ|main advantage|The main advantage of this route is its low cost.|اس راستے کا بنیادی فائدہ اس کی کم لاگت ہے۔
+disadvantage|noun|Something that makes a choice or situation less useful.|نقصان؛ کمزوری|main disadvantage|The main disadvantage is the long journey.|بنیادی نقصان طویل سفر ہے۔
+suitable|adjective|Right for a particular purpose or situation.|موزوں|suitable time|Is this a suitable time to call you?|کیا آپ کو فون کرنے کے لیے یہ وقت موزوں ہے؟
+convenient|adjective|Easy to use or fitting well with your needs.|آسان؛ سہولت بخش|convenient location|The shop is in a convenient location near my home.|دکان میرے گھر کے قریب ایک سہولت بخش جگہ پر ہے۔
+instead|adverb|In place of a different action or thing.|اس کے بجائے|walk instead|The bus was full, so we decided to walk instead.|بس بھری ہوئی تھی، اس لیے ہم نے اس کے بجائے پیدل چلنے کا فیصلہ کیا۔
+either|determiner|One or the other of two things.|دونوں میں سے کوئی ایک|either option|Either option will meet our needs.|دونوں میں سے کوئی بھی ایک اختیار ہماری ضروریات پوری کردے گا۔
+# Studying with purpose
+memorise|verb|To learn something so that you can remember it.|یاد کرنا|memorise a list|Do not only memorise a list; use the words too.|صرف فہرست یاد نہ کریں؛ الفاظ استعمال بھی کریں۔
+revise|verb|To study material again before an assessment.|دوبارہ پڑھنا؛ دہرائی کرنا|revise a chapter|I will revise this chapter before the test.|میں امتحان سے پہلے اس باب کی دہرائی کروں گا۔
+assignment|noun|A piece of work given to a learner.|تعلیمی کام|complete an assignment|Complete the assignment before the next class.|اگلی جماعت سے پہلے دیا گیا کام مکمل کریں۔
+lecture|noun|A talk that teaches a subject to a group.|لیکچر؛ تعلیمی خطاب|attend a lecture|We will attend a lecture about language learning.|ہم زبان سیکھنے کے بارے میں ایک لیکچر میں شرکت کریں گے۔
+paragraph|noun|A section of writing that develops one main idea.|پیراگراف|write a paragraph|Write a paragraph explaining your favourite place.|اپنی پسندیدہ جگہ کی وضاحت کرتے ہوئے ایک پیراگراف لکھیں۔
+summary|noun|A short account of the main points.|خلاصہ|brief summary|Give a brief summary of the article.|مضمون کا مختصر خلاصہ پیش کریں۔
+source|noun|A place or person from which information comes.|ماخذ|reliable source|Check whether the information comes from a reliable source.|جانچیں کہ معلومات قابل اعتماد ماخذ سے آئی ہیں یا نہیں۔
+reference|noun|A detail that identifies the source of information.|حوالہ|include a reference|Include a reference for the quotation.|اقتباس کے لیے حوالہ شامل کریں۔
+# Organising work
+agenda|noun|A list of matters to discuss at a meeting.|ایجنڈا؛ فہرستِ امور|meeting agenda|The meeting agenda includes the new timetable.|اجلاس کے ایجنڈے میں نیا نظام الاوقات شامل ہے۔
+minutes|plural noun|The written record of a meeting.|اجلاس کی روداد|meeting minutes|Please send the meeting minutes to everyone.|براہ کرم اجلاس کی روداد سب کو بھیجیں۔
+responsible|adjective|Having a duty to deal with something.|ذمہ دار|responsible for a task|I am responsible for checking the final document.|میں حتمی دستاویز جانچنے کا ذمہ دار ہوں۔
+organiser|noun|Someone who plans and arranges an activity.|منتظم|event organiser|The event organiser will welcome the speakers.|تقریب کا منتظم مقررین کا خیرمقدم کرے گا۔
+update|noun|New information about a changing situation.|تازہ اطلاع|progress update|Please send a progress update each Friday.|براہ کرم ہر جمعے کو پیش رفت کی تازہ اطلاع بھیجیں۔
+proposal|noun|A suggested plan offered for consideration.|تجویز|submit a proposal|Our team will submit a proposal next week.|ہماری ٹیم اگلے ہفتے تجویز جمع کرائے گی۔
+resources|plural noun|Useful supplies, money or people available for a task.|وسائل|limited resources|We must plan carefully because we have limited resources.|محدود وسائل کی وجہ سے ہمیں احتیاط سے منصوبہ بندی کرنی چاہیے۔
+coordinate|verb|To arrange different activities so they work together.|ہم آہنگ کرنا|coordinate a project|Two colleagues will coordinate the project.|دو ساتھی کارکن منصوبے کو ہم آہنگ کریں گے۔
+# Agreeing respectfully
+accept|verb|To agree to take something offered.|قبول کرنا|accept an offer|I am happy to accept your offer.|میں آپ کی پیشکش قبول کرکے خوش ہوں۔
+disagree|verb|To have a different opinion.|اختلاف کرنا|disagree respectfully|We can disagree respectfully and still work together.|ہم احترام کے ساتھ اختلاف کرکے بھی مل کر کام کر سکتے ہیں۔
+respect|verb|To treat someone with consideration and dignity.|احترام کرنا|respect an opinion|We should respect an opinion even when we disagree.|اختلاف کے باوجود ہمیں رائے کا احترام کرنا چاہیے۔
+acknowledge|verb|To recognise or accept that something is true or exists.|تسلیم کرنا|acknowledge a concern|I acknowledge your concern about the cost.|میں لاگت کے بارے میں آپ کی تشویش تسلیم کرتا ہوں۔
+consider|verb|To think carefully about something.|غور کرنا|consider a suggestion|We will consider your suggestion at the meeting.|ہم اجلاس میں آپ کی تجویز پر غور کریں گے۔
+point of view|noun phrase|The way someone thinks about a matter.|نقطۂ نظر|different point of view|She offered a different point of view.|اس نے مختلف نقطۂ نظر پیش کیا۔
+in my opinion|fixed expression|Used to show that a statement is your personal view.|میری رائے میں|in my opinion|In my opinion, the second plan is more practical.|میری رائے میں دوسرا منصوبہ زیادہ عملی ہے۔
+to some extent|fixed expression|Used to show that something is partly true.|کسی حد تک|agree to some extent|I agree to some extent, but the cost worries me.|میں کسی حد تک متفق ہوں، لیکن لاگت مجھے پریشان کرتی ہے۔
+# Giving clear explanations
+example|noun|Something used to show or explain a general idea.|مثال|give an example|Can you give an example of this pattern?|کیا آپ اس ساخت کی مثال دے سکتے ہیں؟
+define|verb|To explain the meaning of a word or idea.|تعریف کرنا؛ مطلب بیان کرنا|define a term|Please define the term before you use it.|براہ کرم اصطلاح استعمال کرنے سے پہلے اس کا مطلب بیان کریں۔
+illustrate|verb|To make an idea clearer by giving examples.|مثال سے واضح کرنا|illustrate a point|This story will illustrate the point.|یہ کہانی بات کو مثال سے واضح کرے گی۔
+outline|verb|To describe the main parts without all the details.|خاکہ بیان کرنا|outline a plan|Please outline the plan in three sentences.|براہ کرم تین جملوں میں منصوبے کا خاکہ بیان کریں۔
+step|noun|One action in a process.|مرحلہ|first step|The first step is to read the question carefully.|پہلا مرحلہ سوال کو غور سے پڑھنا ہے۔
+process|noun|A series of actions used to achieve something.|عمل؛ طریقۂ کار|simple process|Booking a room is a simple process.|کمرہ بک کرانا ایک آسان عمل ہے۔
+in other words|linking expression|Used to explain the same idea in a different way.|دوسرے لفظوں میں|in other words|The service is optional; in other words, you can choose not to use it.|یہ خدمت اختیاری ہے؛ دوسرے لفظوں میں آپ اسے استعمال نہ کرنے کا انتخاب کر سکتے ہیں۔
+for instance|linking expression|Used to introduce an example.|مثال کے طور پر|for instance|Some tools are free; for instance, this dictionary costs nothing.|کچھ وسائل مفت ہیں؛ مثال کے طور پر اس لغت کی کوئی قیمت نہیں۔
+# Reading carefully
+argument|noun|Reasons offered to support a conclusion.|دلیل؛ استدلال|strong argument|The writer presents a strong argument for public transport.|مصنف عوامی نقل و حمل کے حق میں مضبوط دلیل پیش کرتا ہے۔
+viewpoint|noun|A particular way of thinking about a subject.|نقطۂ نظر|author's viewpoint|The final paragraph makes the author's viewpoint clear.|آخری پیراگراف مصنف کا نقطۂ نظر واضح کرتا ہے۔
+relevant|adjective|Directly connected with the matter being discussed.|متعلقہ|relevant evidence|Include only relevant evidence in your answer.|اپنے جواب میں صرف متعلقہ شواہد شامل کریں۔
+irrelevant|adjective|Not connected with the matter being discussed.|غیر متعلقہ|irrelevant detail|Remove the irrelevant detail from the summary.|خلاصے سے غیر متعلقہ تفصیل نکال دیں۔
+objective|adjective|Based on facts rather than personal preferences.|معروضی؛ غیر جانب دار|objective assessment|We need an objective assessment of the two plans.|ہمیں دونوں منصوبوں کا معروضی جائزہ چاہیے۔
+subjective|adjective|Based on a person's feelings or opinions.|ذاتی رائے پر مبنی|subjective judgement|Choosing the most beautiful design is a subjective judgement.|سب سے خوبصورت ڈیزائن کا انتخاب ذاتی رائے پر مبنی فیصلہ ہے۔
+credible|adjective|Able to be believed or trusted.|قابل اعتبار|credible explanation|The report offers a credible explanation for the change.|رپورٹ تبدیلی کی قابل اعتبار وضاحت پیش کرتی ہے۔
+verify|verb|To check that something is true or correct.|تصدیق کرنا|verify a claim|Verify the claim before you share the message.|پیغام بانٹنے سے پہلے دعوے کی تصدیق کریں۔
+# Expressing uncertainty
+perhaps|adverb|Used to show that something is possible but not certain.|شاید|perhaps tomorrow|Perhaps we can meet tomorrow afternoon.|شاید ہم کل دوپہر مل سکیں۔
+likely|adjective|Expected to happen or be true.|ممکن؛ متوقع|likely to happen|The delivery is likely to arrive tomorrow.|سامان کی ترسیل کل پہنچنے کا امکان ہے۔
+unlikely|adjective|Not expected to happen or be true.|کم امکان والا|unlikely to happen|A reply is unlikely to arrive tonight.|آج رات جواب آنے کا امکان کم ہے۔
+possible|adjective|Able to happen or be done.|ممکن|possible solution|This is one possible solution to the problem.|یہ مسئلے کا ایک ممکن حل ہے۔
+certain|adjective|Sure that something is true.|یقین رکھنے والا|certain about a date|Are you certain about the date?|کیا آپ کو تاریخ کے بارے میں یقین ہے؟
+uncertain|adjective|Not sure about something.|غیر یقینی؛ بے یقین|uncertain about a result|We are uncertain about the result.|ہم نتیجے کے بارے میں غیر یقینی صورت حال میں ہیں۔
+apparently|adverb|Used when something seems true from what you have heard or seen.|بظاہر؛ اطلاعات کے مطابق|apparently closed|The shop is apparently closed for repairs.|اطلاعات کے مطابق دکان مرمت کے لیے بند ہے۔
+estimate|verb|To calculate an approximate amount.|اندازہ لگانا|estimate a cost|We can estimate the cost before ordering materials.|ہم سامان منگوانے سے پہلے لاگت کا اندازہ لگا سکتے ہیں۔
+# Finding and using information
+search|verb|To look carefully for something.|تلاش کرنا|search for information|Search for information on the library website.|کتب خانے کی ویب سائٹ پر معلومات تلاش کریں۔
+locate|verb|To find the position of something.|جگہ معلوم کرنا|locate an entrance|The map will help you locate the entrance.|نقشہ داخلے کی جگہ معلوم کرنے میں مدد دے گا۔
+record|verb|To write or save information for later use.|درج کرنا|record a result|Record the result in your notebook.|نتیجہ اپنی نوٹ بک میں درج کریں۔
+retrieve|verb|To get stored information or an item back.|واپس حاصل کرنا|retrieve a file|You can retrieve the file from the backup.|آپ بیک اپ سے فائل واپس حاصل کر سکتے ہیں۔
+organised|adjective|Arranged in a clear and useful way.|منظم|organised notes|Organised notes make revision easier.|منظم نوٹس دہرائی کو آسان بناتے ہیں۔
+label|noun|A short description used to identify something.|لیبل؛ شناختی عبارت|clear label|Put a clear label on each folder.|ہر فولڈر پر واضح شناختی عبارت لگائیں۔
+permission to|noun phrase|Approval that allows someone to perform an action.|کسی کام کی اجازت|permission to enter|You need permission to enter this room.|اس کمرے میں داخل ہونے کے لیے آپ کو اجازت چاہیے۔
+private|adjective|Intended only for particular people, not the public.|نجی|private message|Do not share a private message without permission.|اجازت کے بغیر نجی پیغام نہ بانٹیں۔
+# Learning from feedback
+improve|verb|To become better or make something better.|بہتر بنانا|improve a draft|Use the feedback to improve your draft.|اپنا مسودہ بہتر بنانے کے لیے تبصرے استعمال کریں۔
+correct|verb|To remove mistakes from something.|درست کرنا|correct an error|Correct the error before you send the message.|پیغام بھیجنے سے پہلے غلطی درست کریں۔
+edit|verb|To change writing to improve it.|ترمیم کرنا|edit a paragraph|Edit the paragraph to make the explanation clearer.|وضاحت زیادہ واضح کرنے کے لیے پیراگراف میں ترمیم کریں۔
+rewrite|verb|To write something again in a different or improved form.|دوبارہ لکھنا|rewrite a sentence|Rewrite the sentence using a more precise verb.|زیادہ درست فعل استعمال کرکے جملہ دوبارہ لکھیں۔
+draft|noun|An early version of a piece of writing.|مسودہ|first draft|My first draft needs a clearer conclusion.|میرے پہلے مسودے کو زیادہ واضح نتیجے کی ضرورت ہے۔
+revision|noun|A change made to improve a piece of writing.|نظر ثانی؛ ترمیم|final revision|The final revision explains the main idea better.|آخری ترمیم بنیادی خیال کو بہتر انداز میں واضح کرتی ہے۔
+mistake|noun|Something done incorrectly.|غلطی|learn from a mistake|I can learn from a mistake without feeling ashamed.|میں شرمندہ ہوئے بغیر غلطی سے سیکھ سکتا ہوں۔
+reflect|verb|To think carefully about an experience or idea.|غور و فکر کرنا|reflect on feedback|Take time to reflect on the feedback.|تبصروں پر غور و فکر کرنے کے لیے وقت نکالیں۔
+# Cooperating in conversation
+listen|verb|To pay attention to sounds or to someone speaking.|سننا|listen carefully|Listen carefully before you answer.|جواب دینے سے پہلے غور سے سنیں۔
+interrupt|verb|To speak or act while someone else is speaking or doing something.|بات کاٹنا؛ مداخلت کرنا|interrupt a speaker|Try not to interrupt a speaker before they finish.|مقرر کی بات ختم ہونے سے پہلے اسے نہ کاٹنے کی کوشش کریں۔
+respond to|verb pattern|To say or do something in reply to someone or something.|جواب دینا|respond to a question|Please respond to the question directly.|براہ کرم سوال کا براہ راست جواب دیں۔
+turn|noun|An opportunity to speak or act in a shared activity.|باری|take a turn|Each learner will take a turn to speak.|ہر سیکھنے والا اپنی باری پر بولے گا۔
+pause|noun|A short break in speech or activity.|وقفہ|short pause|A short pause can make your explanation clearer.|مختصر وقفہ آپ کی وضاحت کو زیادہ واضح بنا سکتا ہے۔
+volume|noun|The level of loudness of a sound.|آواز کی بلندی|lower the volume|Please lower the volume during the discussion.|براہ کرم گفتگو کے دوران آواز کی بلندی کم کریں۔
+pace|noun|The speed at which something happens or is done.|رفتار|comfortable pace|Speak at a comfortable pace so everyone can follow.|آرام دہ رفتار سے بولیں تاکہ سب سمجھ سکیں۔
+clarity|noun|The quality of being easy to understand.|وضاحت؛ صاف پن|improve clarity|Short sentences can improve clarity.|مختصر جملے وضاحت کو بہتر بنا سکتے ہیں۔
+# Planning realistic progress
+achieve|verb|To succeed in reaching a goal.|حاصل کرنا|achieve a goal|You can achieve the goal through regular practice.|آپ باقاعدہ مشق سے ہدف حاصل کر سکتے ہیں۔
+effort|noun|Work or energy used to do something.|کوشش|make an effort|Make an effort to use one new word today.|آج ایک نیا لفظ استعمال کرنے کی کوشش کریں۔
+habit|noun|Something you do regularly, often without thinking.|عادت|build a habit|Build a habit of reading a little each day.|ہر روز تھوڑا پڑھنے کی عادت بنائیں۔
+regular|adjective|Happening repeatedly at fairly even intervals.|باقاعدہ|regular practice|Regular practice helps me remember useful phrases.|باقاعدہ مشق مجھے مفید فقرے یاد رکھنے میں مدد دیتی ہے۔
+manageable|adjective|Possible to deal with without too much difficulty.|قابل انتظام|manageable task|Break the work into a manageable task for each day.|کام کو ہر دن کے لیے قابل انتظام حصے میں تقسیم کریں۔
+realistic|adjective|Based on what is reasonably possible.|حقیقت پسندانہ|realistic goal|Choose a realistic goal for this week.|اس ہفتے کے لیے حقیقت پسندانہ ہدف منتخب کریں۔
+independent|adjective|Able to do something without help.|خود مختار؛ مدد کے بغیر|independent practice|Independent practice shows what I can recall without hints.|مدد کے بغیر مشق ظاہر کرتی ہے کہ میں اشاروں کے بغیر کیا یاد کر سکتا ہوں۔
+confidence|noun|Belief in your ability to do something.|اعتماد|build confidence|Speaking with a partner can build confidence.|ساتھی کے ساتھ بولنا اعتماد بڑھا سکتا ہے۔
+# Summarising and closing
+overall|adverb|Considering the whole situation.|مجموعی طور پر|overall conclusion|Overall, the new plan is easier to follow.|مجموعی طور پر نئے منصوبے پر عمل کرنا آسان ہے۔
+briefly|adverb|Using only a short amount of time or a few words.|مختصراً|explain briefly|Please explain briefly why you chose this option.|براہ کرم مختصراً بتائیں کہ آپ نے یہ اختیار کیوں منتخب کیا۔
+finally|adverb|Used to introduce the last point in a sequence.|آخر میں|finally check|Finally, check that you have answered every question.|آخر میں جانچیں کہ آپ نے ہر سوال کا جواب دیا ہے۔
+main point|noun phrase|The most important idea in a message.|بنیادی نکتہ|identify the main point|Identify the main point before writing your summary.|خلاصہ لکھنے سے پہلے بنیادی نکتے کی شناخت کریں۔
+takeaway|noun|A main idea or lesson remembered from an experience.|اہم حاصل شدہ بات|main takeaway|My main takeaway is that context changes meaning.|میرے لیے اہم حاصل شدہ بات یہ ہے کہ سیاق معنی بدل دیتا ہے۔
+next step|noun phrase|The action that should follow the current one.|اگلا مرحلہ|decide the next step|Let us decide the next step before we leave.|آئیے جانے سے پہلے اگلا مرحلہ طے کریں۔
+in conclusion|linking expression|Used to introduce a final judgement or summary.|آخر میں؛ خلاصتاً|in conclusion|In conclusion, both options have useful features.|خلاصتاً دونوں اختیارات میں مفید خصوصیات ہیں۔
+to sum up|linking expression|Used to introduce a short summary of the main points.|خلاصہ یہ ہے کہ|to sum up|To sum up, we need more time and a clearer plan.|خلاصہ یہ ہے کہ ہمیں مزید وقت اور زیادہ واضح منصوبہ چاہیے۔
+# Expressing needs and boundaries
+require|verb|To need something for a particular purpose.|ضرورت ہونا|require a signature|This form will require a signature.|اس فارم پر دستخط کی ضرورت ہوگی۔
+expect|verb|To think that something will happen.|توقع کرنا|expect a reply|I expect a reply before the end of the week.|مجھے ہفتے کے اختتام سے پہلے جواب کی توقع ہے۔
+depend on|verb pattern|To be affected or decided by something else.|انحصار کرنا|depend on the weather|Our travel plans depend on the weather.|ہمارے سفر کے منصوبے موسم پر منحصر ہیں۔
+limit|noun|The greatest amount or extent allowed.|حد|time limit|The task has a time limit of ten minutes.|اس کام کے لیے دس منٹ کی وقت کی حد ہے۔
+optional|adjective|Available to choose but not required.|اختیاری|optional activity|The speaking activity is optional today.|آج بولنے کی سرگرمی اختیاری ہے۔
+essential|adjective|Completely necessary for a purpose.|ضروری؛ ناگزیر|essential information|Please read the essential information before starting.|براہ کرم شروع کرنے سے پہلے ضروری معلومات پڑھیں۔
+flexible|adjective|Able to change to suit different needs.|لچک دار|flexible schedule|A flexible schedule lets me study after work.|لچک دار نظام الاوقات مجھے کام کے بعد پڑھنے دیتا ہے۔
+reasonable|adjective|Fair and sensible in the circumstances.|معقول|reasonable request|Extra time is a reasonable request in this situation.|اس صورت حال میں اضافی وقت کی درخواست معقول ہے۔
