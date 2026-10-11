@@ -18,10 +18,14 @@ For local use, run `python3 -m http.server 8000` in this folder and open `http:/
 
 ## Validation and rebuilding
 
-Run `node tests/qa.cjs` for the data and mocked interaction checks. These checks do not replace browser layout testing.
+Run `node tests/qa.cjs` and `node tests/startup.cjs` for the data and mocked interaction checks. These checks do not replace browser layout testing.
 
 The consolidation script in `scripts/build-comprehensive.py` requires the original extracted source repositories and WordNet archive under the sibling `review` directory. Generated runtime data is bundled, so rebuilding is not required to run or deploy the site. The source review snapshots are not redistributed in this package.
 
 ## Attribution
 
 Retain `WORDNET_LICENSE.txt` and all existing licence and source attribution files. Consult the coverage audit and source metadata before reusing third-party material separately.
+
+## Startup fix
+
+The homepage no longer waits for the 11 MB reference dictionary or 4 MB family bank. Full entries load first; search shows a loading message until reference entries arrive. The cache version is updated to replace the previous startup assets. After replacing repository files, allow GitHub Pages to finish deployment and refresh the page.
