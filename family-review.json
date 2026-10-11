@@ -1,0 +1,796 @@
+{
+  "rootCount": 5521,
+  "authoredRoots": 91,
+  "rootsSharingAuthoredFamilies": 267,
+  "familyLessons": 15181,
+  "familyLessonsWithExamples": 10634,
+  "explainedCollocations": 1726,
+  "rootsWithRelatedMembers": 4420,
+  "unexpandedLegacyFamilyWords": [
+    {
+      "root": "acclaim",
+      "familyWord": "acclaimed",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "acrimonious",
+      "familyWord": "acrimoniously",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "adjacent",
+      "familyWord": "adjacently",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "amorphous",
+      "familyWord": "amorphously",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "apparatus",
+      "familyWord": "apparatuses",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "append",
+      "familyWord": "appended",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "appendix",
+      "familyWord": "appendices",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "apposite",
+      "familyWord": "appositely",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "appropriation",
+      "familyWord": "appropriated",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "aromatic",
+      "familyWord": "aromatically",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "aspiration",
+      "familyWord": "aspirational",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "attitude",
+      "familyWord": "attitudinally",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "avenue",
+      "familyWord": "avenues",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "average",
+      "familyWord": "averaging",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "average",
+      "familyWord": "averagely",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "ax",
+      "familyWord": "axed",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "ax",
+      "familyWord": "axing",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "balk",
+      "familyWord": "balked",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "beatific",
+      "familyWord": "beatifically",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "belie",
+      "familyWord": "belied",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "belie",
+      "familyWord": "belying",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "belittle",
+      "familyWord": "belittlement",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "berate",
+      "familyWord": "berated",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "beset",
+      "familyWord": "besetting",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "beta",
+      "familyWord": "beta-test",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "beta",
+      "familyWord": "beta-testing",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "bewilderment",
+      "familyWord": "bewildering",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "bibliophile",
+      "familyWord": "bibliophilia",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "bluffer",
+      "familyWord": "bluffing",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "blunder",
+      "familyWord": "blundering",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "boggle",
+      "familyWord": "boggling",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "border",
+      "familyWord": "bordering",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "botanist",
+      "familyWord": "botanically",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "brandish",
+      "familyWord": "brandished",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "brandish",
+      "familyWord": "brandishing",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "bridge",
+      "familyWord": "bridging",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "cajole",
+      "familyWord": "cajoling",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "caustic",
+      "familyWord": "causticity",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "century",
+      "familyWord": "centuries",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "channel",
+      "familyWord": "channeling",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "chart",
+      "familyWord": "charting",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "co-author",
+      "familyWord": "co-authorship",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "colleague",
+      "familyWord": "collegiality",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "collectively",
+      "familyWord": "collectivity",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "commendable",
+      "familyWord": "commendably",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "commodious",
+      "familyWord": "commodiously",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "conflicting",
+      "familyWord": "conflicted",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "connotation",
+      "familyWord": "connotatively",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "connotative",
+      "familyWord": "connotatively",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "contact",
+      "familyWord": "contactable",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "contact",
+      "familyWord": "contactless",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "contextual",
+      "familyWord": "decontextualize",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "convey",
+      "familyWord": "conveys",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "convey",
+      "familyWord": "conveyed",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "counterfeit",
+      "familyWord": "counterfeiting",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "creeping",
+      "familyWord": "crept",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "crouched",
+      "familyWord": "crouching",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "customized",
+      "familyWord": "customization",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "data",
+      "familyWord": "data-driven",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "deletion",
+      "familyWord": "deleted",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "demeaning",
+      "familyWord": "demeaned",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "denotative",
+      "familyWord": "denotatively",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "dictum",
+      "familyWord": "dicta",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "discrete",
+      "familyWord": "discretely",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "display",
+      "familyWord": "displayed",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "dissociate",
+      "familyWord": "dissociated",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "duration",
+      "familyWord": "durational",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "embed",
+      "familyWord": "embedding",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "embedded",
+      "familyWord": "embedding",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "emotive",
+      "familyWord": "emotively",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "enabling",
+      "familyWord": "enabled",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "enrich",
+      "familyWord": "enriched",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "establish",
+      "familyWord": "re-establish",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "excerpt",
+      "familyWord": "excerpted",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "exclude",
+      "familyWord": "excluded",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "expunge",
+      "familyWord": "expungement",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "failure",
+      "familyWord": "failed",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "filch",
+      "familyWord": "filched",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "fling",
+      "familyWord": "flung",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "fuel",
+      "familyWord": "fuelled",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "gainsay",
+      "familyWord": "gainsayer",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "gainsay",
+      "familyWord": "gainsaying",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "galvanize",
+      "familyWord": "galvanized",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "gender",
+      "familyWord": "gendered",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "goal",
+      "familyWord": "goal-oriented",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "goal",
+      "familyWord": "goal-setting",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "grounding",
+      "familyWord": "grounded",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "hamper",
+      "familyWord": "hampered",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "heartrending",
+      "familyWord": "heartrendingly",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "imbibe",
+      "familyWord": "imbibed",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "immerse",
+      "familyWord": "immersive",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "insight",
+      "familyWord": "insightfully",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "introspective",
+      "familyWord": "introspectively",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "itinerant",
+      "familyWord": "itinerancy",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "job",
+      "familyWord": "joblessness",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "label",
+      "familyWord": "labelling",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "labeled",
+      "familyWord": "labeling",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "network",
+      "familyWord": "networking",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "networked",
+      "familyWord": "networking",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "nondescript",
+      "familyWord": "nondescriptness",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "notion",
+      "familyWord": "notionally",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "opportunistic",
+      "familyWord": "opportunistically",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "overgrazing",
+      "familyWord": "overgraze",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "oxymoron",
+      "familyWord": "oxymoronic",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "paragraph",
+      "familyWord": "paragraphing",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "peer-reviewed",
+      "familyWord": "peer reviewer",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "personification",
+      "familyWord": "personified",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "police",
+      "familyWord": "policing",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "regard",
+      "familyWord": "regarding",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "revolt",
+      "familyWord": "revolted",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "route",
+      "familyWord": "routing",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "rupture",
+      "familyWord": "ruptured",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "self-defeating",
+      "familyWord": "self-defeat",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "self-selected",
+      "familyWord": "self-selection",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "shift",
+      "familyWord": "shifted",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "shrugged",
+      "familyWord": "shrugging",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "sighing",
+      "familyWord": "sighed",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "site",
+      "familyWord": "sited",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "site",
+      "familyWord": "siting",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "slot",
+      "familyWord": "slots",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "slot",
+      "familyWord": "slotted",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "snatch",
+      "familyWord": "snatched",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "snatch",
+      "familyWord": "snatching",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "solace",
+      "familyWord": "solaced",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "solace",
+      "familyWord": "solacing",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "spaceship",
+      "familyWord": "spaceships",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "span",
+      "familyWord": "spanned",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "span",
+      "familyWord": "spanning",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "squirrel",
+      "familyWord": "squirrels",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "stanza",
+      "familyWord": "stanzaic",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "stress",
+      "familyWord": "stressing",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "subject",
+      "familyWord": "subjects",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "subsidiary",
+      "familyWord": "subsidiaries",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "superimpose",
+      "familyWord": "superimposition",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "sustained",
+      "familyWord": "sustaining",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "swing",
+      "familyWord": "swung",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "task",
+      "familyWord": "multitask",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "telebooks",
+      "familyWord": "telebook",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "tenet",
+      "familyWord": "tenets",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "thesaurus",
+      "familyWord": "thesauri",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "thesaurus",
+      "familyWord": "thesauruses",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "tool",
+      "familyWord": "toolkit",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "trait",
+      "familyWord": "traits",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "university",
+      "familyWord": "universities",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "vale",
+      "familyWord": "vales",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "valley",
+      "familyWord": "valleys",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "vanquish",
+      "familyWord": "vanquished",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "vessel",
+      "familyWord": "vessels",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "vested",
+      "familyWord": "vesting",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "wangle",
+      "familyWord": "wangled",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "wastebasket",
+      "familyWord": "wastebaskets",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "wheelbarrow",
+      "familyWord": "wheelbarrows",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "whiff",
+      "familyWord": "whiffs",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "workshop",
+      "familyWord": "workshops",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "wry",
+      "familyWord": "wryness",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    },
+    {
+      "root": "zephyr",
+      "familyWord": "zephyrs",
+      "reason": "No definition in available bank or WordNet; not expanded by guessing."
+    }
+  ],
+  "method": "Existing bank plus WordNet direct derivational/pertainym links and reviewed original lessons. No automatic suffix generation; no claim of exhaustive possible derivatives. Empty examples are explicitly shown as unavailable, not fabricated.",
+  "uniqueExplainedCombinations": 1213,
+  "originalFamilyLessons": 494,
+  "originalCombinationLessons": 364,
+  "exampleLimitation": "Dictionary entries without a target-word example are labelled explicitly; missing sentences and Urdu translations are not invented."
+}

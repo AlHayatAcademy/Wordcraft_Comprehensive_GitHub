@@ -1,0 +1,2022 @@
+﻿word,newId,sourceId,level,changedFields,antonymCount,familyCount
+abandoned,6117,vocab-abandoned,Advanced,,2,2
+abbreviate,6118,vocab-abbreviate,Intermediate,,2,2
+aberrant,6119,vocab-aberrant,Challenging,,2,1
+abhor,6120,vocab-abhor,Advanced,,2,2
+abhorred,6121,vocab-abhorred,Advanced,,2,3
+abominate,6122,vocab-abominate,Advanced,,2,2
+aboriginal,6123,vocab-aboriginal,Challenging,synonyms; antonyms; usageNotes,1,1
+abridge,6124,vocab-abridge,Advanced,,2,2
+abscond,6125,vocab-abscond,Advanced,,2,1
+abstemious,6126,vocab-abstemious,Challenging,urduMeaning,2,2
+abundant,6127,vocab-abundant,Advanced,urduMeaning,2,2
+abysmal,6128,vocab-abysmal,Advanced,,2,2
+academician,6129,vocab-academician,Advanced,antonyms; antonymNote; usageNotes,0,3
+accede,6130,vocab-accede,Advanced,,2,1
+accelerating,6131,vocab-accelerating,Advanced,,2,2
+accepted,6132,vocab-accepted,Intermediate,,2,3
+accessible,6133,vocab-accessible,Intermediate,partOfSpeech; urduMeaning; wordFamily; collocations; usageNotes,3,3
+accident,6134,vocab-accident,Intermediate,antonyms; antonymNote,0,2
+acclaim,6135,vocab-acclaim,Advanced,,2,1
+accompanied,6136,vocab-accompanied,Challenging,antonyms; antonymNote; synonyms,0,2
+accompany,6137,vocab-accompany,Advanced,antonyms; antonymNote; synonyms,0,2
+accomplish,6138,vocab-accomplish,Advanced,antonyms,1,2
+account,6139,vocab-account,Foundation,antonyms; antonymNote; wordFamily; usageNotes,0,2
+accredited,6140,vocab-accredited,Advanced,,2,2
+accrue,6141,vocab-accrue,Intermediate,synonyms; collocations; antonyms,1,2
+accumulate,6142,vocab-accumulate,Advanced,wordFamily,2,3
+accumulation,6143,vocab-accumulation,Challenging,urduMeaning,2,3
+accuracy,6144,vocab-accuracy,Foundation,,2,3
+accurate,6145,vocab-accurate,Advanced,,2,2
+accursed,6146,vocab-accursed,Intermediate,,2,2
+accused,6147,vocab-accused,Advanced,example; synonyms; usageNotes,2,3
+acerbic,6148,vocab-acerbic,Challenging,,2,1
+achievable,6149,vocab-achievable,Intermediate,,2,2
+achieve,6150,vocab-achieve,Intermediate,antonyms,1,3
+acknowledged,6151,vocab-acknowledged,Advanced,,2,2
+acknowledgment,6152,vocab-acknowledgment,Intermediate,,2,2
+acquaintance,6153,vocab-acquaintance,Advanced,,2,2
+acquiescence,6154,vocab-acquiescence,Intermediate,,2,2
+acrid,6155,vocab-acrid,Advanced,urduMeaning,2,1
+acrimonious,6156,vocab-acrimonious,Challenging,,2,2
+acrobat,6157,vocab-acrobat,Intermediate,antonyms; antonymNote,0,2
+act,6158,vocab-act,Foundation,,2,3
+active,6159,vocab-active,Foundation,,2,3
+activity,6160,vocab-activity,Foundation,,2,3
+actual,6161,vocab-actual,Foundation,,2,2
+adamant,6162,vocab-adamant,Challenging,,2,1
+adapting,6163,vocab-adapting,Intermediate,,2,3
+adaptive,6164,vocab-adaptive,Foundation,,2,3
+addicted,6165,vocab-addicted,Advanced,antonyms; antonymNote,0,3
+addiction,6166,vocab-addiction,Advanced,antonyms; antonymNote,0,2
+addition,6167,vocab-addition,Intermediate,,2,3
+adequate,6168,vocab-adequate,Advanced,,2,2
+adequately,6169,vocab-adequately,Intermediate,,2,3
+adherent,6170,vocab-adherent,Intermediate,,2,2
+adjacent,6171,vocab-adjacent,Challenging,,2,2
+adjectival,6172,vocab-adjectival,Advanced,antonyms; antonymNote; synonyms,0,2
+adjusted,6173,vocab-adjusted,Intermediate,,2,3
+admirable,6174,vocab-admirable,Advanced,,2,2
+adoration,6175,vocab-adoration,Advanced,,2,2
+adult,6176,vocab-adult,Advanced,antonyms; antonymNote; synonyms,0,1
+adulterate,6177,vocab-adulterate,Advanced,synonyms,2,2
+adulthood,6178,vocab-adulthood,Intermediate,synonyms; urduMeaning,2,1
+adventurous,6179,vocab-adventurous,Advanced,,2,2
+adventurously,6180,vocab-adventurously,Challenging,,2,2
+adverbial,6181,vocab-adverbial,Advanced,synonyms; urduMeaning,0,2
+advisor,6182,vocab-advisor,Intermediate,antonyms; antonymNote,0,3
+affable,6183,vocab-affable,Challenging,,2,2
+affect,6184,vocab-affect,Intermediate,wordFamily; usageNotes,2,2
+afflicted,6185,vocab-afflicted,Advanced,antonyms,1,2
+affluence,6186,vocab-affluence,Intermediate,,2,1
+afterlife,6187,vocab-afterlife,Advanced,antonyms; antonymNote,0,0
+aggressor,6188,vocab-aggressor,Intermediate,antonyms; antonymNote,0,3
+agility,6189,vocab-agility,Intermediate,wordFamily,1,2
+aging,6190,vocab-aging,Intermediate,synonyms; usageNotes,2,2
+aid,6191,vocab-aid,Advanced,,2,1
+aim,6192,vocab-aim,Foundation,antonyms; antonymNote,0,1
+albeit,6193,vocab-albeit,Challenging,antonyms; antonymNote; synonyms,0,0
+alfalfa,6194,vocab-alfalfa,Intermediate,antonyms; antonymNote; synonyms,0,0
+allegiance,6195,vocab-allegiance,Advanced,,2,0
+alliteration,6196,vocab-alliteration,Advanced,antonyms; antonymNote; urduMeaning; synonyms,0,2
+alteration,6197,vocab-alteration,Intermediate,antonyms; antonymNote,0,2
+altercation,6198,vocab-altercation,Challenging,,2,0
+altruistic,6199,vocab-altruistic,Intermediate,,2,2
+amateur,6200,vocab-amateur,Intermediate,meaning; synonyms; antonyms; urduMeaning; usageNotes,1,2
+ambitious,6201,vocab-ambitious,Advanced,,2,2
+amiable,6202,vocab-amiable,Advanced,,2,2
+amorphous,6203,vocab-amorphous,Intermediate,,2,1
+anachronistic,6204,vocab-anachronistic,Challenging,,2,2
+analogous,6205,vocab-analogous,Challenging,wordFamily,2,2
+analogue,6206,vocab-analogue,Intermediate,antonyms; antonymNote,0,2
+analogy,6207,vocab-analogy,Foundation,wordFamily,2,2
+analytical,6208,vocab-analytical,Intermediate,,2,3
+analytically,6209,vocab-analytically,Advanced,,2,3
+analyze,6210,vocab-analyze,Foundation,,2,3
+ancient,6211,vocab-ancient,Intermediate,wordFamily; wordFamilyNote,2,1
+angleworm,6212,vocab-angleworm,Advanced,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,0
+annihilate,6213,vocab-annihilate,Advanced,example,2,2
+announcement,6214,vocab-announcement,Advanced,antonyms; antonymNote,0,2
+anomalous,6215,vocab-anomalous,Challenging,,2,2
+anticipated,6216,vocab-anticipated,Challenging,urduMeaning,2,2
+antique,6217,vocab-antique,Advanced,antonyms; antonymNote; collocations,0,1
+antithesis,6218,vocab-antithesis,Advanced,,2,1
+anxious,6219,vocab-anxious,Intermediate,,2,2
+apathetic,6220,vocab-apathetic,Intermediate,,2,2
+apparatus,6221,vocab-apparatus,Intermediate,antonyms; antonymNote,0,1
+apparent,6222,vocab-apparent,Advanced,urduMeaning; antonyms; usageNotes,2,2
+appearance,6223,vocab-appearance,Advanced,antonyms; antonymNote,0,2
+appease,6224,vocab-appease,Advanced,,2,1
+appeasement,6225,vocab-appeasement,Challenging,,2,2
+append,6226,vocab-append,Intermediate,,2,2
+appendix,6227,vocab-appendix,Challenging,antonyms; antonymNote,0,2
+appetite,6228,vocab-appetite,Intermediate,,2,1
+applaud,6229,vocab-applaud,Advanced,,2,1
+applauded,6230,vocab-applauded,Advanced,,2,2
+applicant,6231,vocab-applicant,Intermediate,antonyms; antonymNote,0,2
+appointed,6232,vocab-appointed,Advanced,,2,2
+apposite,6233,vocab-apposite,Advanced,,2,2
+apprehend,6234,vocab-apprehend,Advanced,,2,1
+appropriately,6235,vocab-appropriately,Intermediate,,2,2
+appropriation,6236,vocab-appropriation,Intermediate,antonyms; antonymNote; synonyms; urduMeaning,0,2
+approximated,6237,vocab-approximated,Challenging,antonyms; usageNotes,1,2
+aqueduct,6238,vocab-aqueduct,Advanced,antonyms; antonymNote,0,0
+arbitrarily,6239,vocab-arbitrarily,Advanced,,2,2
+ardent,6240,vocab-ardent,Advanced,,2,2
+arduous,6241,vocab-arduous,Advanced,,2,1
+area,6242,vocab-area,Intermediate,antonyms; antonymNote,0,0
+arguably,6243,vocab-arguably,Intermediate,urduMeaning; synonyms,2,3
+argument,6244,vocab-argument,Intermediate,antonyms; antonymNote; synonyms,0,2
+armistice,6245,vocab-armistice,Advanced,,2,0
+aromatic,6246,vocab-aromatic,Advanced,,2,2
+arraign,6247,vocab-arraign,Advanced,synonyms; antonyms; antonymNote,0,1
+arranged,6248,vocab-arranged,Intermediate,example,2,2
+article,6249,vocab-article,Foundation,antonyms; antonymNote,0,0
+articulated,6250,vocab-articulated,Advanced,,2,2
+ascendancy,6251,vocab-ascendancy,Advanced,,2,2
+aspiration,6252,vocab-aspiration,Advanced,,2,2
+assassination,6253,vocab-assassination,Challenging,antonyms; antonymNote,0,2
+assertion,6254,vocab-assertion,Advanced,partOfSpeech; urduMeaning; wordFamily; collocations; antonyms; usageNotes,1,2
+assigned,6255,vocab-assigned,Advanced,,2,2
+associative,6256,vocab-associative,Intermediate,,2,2
+assurance,6257,vocab-assurance,Challenging,antonyms; antonymNote; synonyms; urduMeaning; collocations,0,2
+astonishment,6258,vocab-astonishment,Challenging,antonyms; antonymNote,0,2
+astounded,6259,vocab-astounded,Advanced,,2,2
+astrologist,6260,vocab-astrologist,Challenging,antonyms; antonymNote; synonyms,0,2
+astrology,6261,vocab-astrology,Challenging,antonyms; antonymNote; synonyms,0,2
+astute,6262,vocab-astute,Advanced,,2,2
+atonement,6263,vocab-atonement,Advanced,antonyms; antonymNote,0,1
+attached,6264,vocab-attached,Advanced,,2,2
+attained,6265,vocab-attained,Challenging,antonyms,1,3
+attainment,6266,vocab-attainment,Challenging,,2,2
+attempt,6267,vocab-attempt,Foundation,,2,1
+attitude,6268,vocab-attitude,Advanced,antonyms; antonymNote,0,2
+attractiveness,6269,vocab-attractiveness,Intermediate,,2,3
+attributable,6270,vocab-attributable,Intermediate,synonyms; antonyms; usageNotes,1,2
+audacious,6271,vocab-audacious,Advanced,,2,2
+audience,6272,vocab-audience,Intermediate,antonyms; antonymNote; wordFamily; wordFamilyNote,0,0
+augment,6273,vocab-augment,Advanced,,2,1
+austere,6274,vocab-austere,Challenging,,2,2
+author,6275,vocab-author,Advanced,antonyms; antonymNote; wordFamily; wordFamilyNote,0,2
+automatically,6276,vocab-automatically,Challenging,synonyms; antonyms; usageNotes,1,2
+avail,6277,vocab-avail,Intermediate,antonyms; antonymNote,0,2
+available,6278,vocab-available,Intermediate,,2,2
+avenue,6279,vocab-avenue,Intermediate,antonyms; antonymNote,0,1
+average,6280,vocab-average,Intermediate,meaning; synonyms; urduMeaning,2,2
+avocation,6281,vocab-avocation,Advanced,,2,1
+awakened,6282,vocab-awakened,Advanced,,2,3
+aware,6283,vocab-aware,Advanced,,2,2
+ax,6284,vocab-ax,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,2
+baffle,6285,vocab-baffle,Advanced,,2,2
+balk,6286,vocab-balk,Advanced,,2,2
+banal,6287,vocab-banal,Advanced,,2,1
+banter,6288,vocab-banter,Advanced,,2,1
+baronet,6289,vocab-baronet,Advanced,antonyms; antonymNote; meaning; synonyms; usageNotes,0,1
+basin,6290,vocab-basin,Intermediate,antonyms; antonymNote; synonyms; usageNotes,0,0
+basket,6291,vocab-basket,Intermediate,antonyms; antonymNote,0,1
+bayou,6292,vocab-bayou,Advanced,antonyms; antonymNote; synonyms,0,0
+bead,6293,vocab-bead,Intermediate,antonyms; antonymNote; synonyms,0,2
+beatific,6294,vocab-beatific,Advanced,,2,2
+beautiful,6295,vocab-beautiful,Advanced,collocations,2,2
+bedlam,6296,vocab-bedlam,Advanced,,2,0
+beguiled,6297,vocab-beguiled,Advanced,,2,3
+behalf,6298,vocab-behalf,Challenging,antonyms; antonymNote; synonyms; usageNotes,0,0
+belated,6299,vocab-belated,Intermediate,,2,1
+belie,6300,vocab-belie,Advanced,,2,2
+believe,6301,vocab-believe,Intermediate,,2,3
+believed,6302,vocab-believed,Intermediate,example,2,3
+belittle,6303,vocab-belittle,Advanced,,2,1
+belligerent,6304,vocab-belligerent,Challenging,,2,1
+beneath,6305,vocab-beneath,Intermediate,,2,0
+benediction,6306,vocab-benediction,Challenging,,2,1
+benefit,6307,vocab-benefit,Intermediate,,2,2
+berate,6308,vocab-berate,Advanced,,2,2
+bereavement,6309,vocab-bereavement,Challenging,antonyms; antonymNote,0,2
+bereft,6310,vocab-bereft,Advanced,synonyms; antonyms,1,2
+beset,6311,vocab-beset,Advanced,,2,1
+beta,6312,vocab-beta,Foundation,antonyms; antonymNote,0,2
+betterment,6313,vocab-betterment,Intermediate,,2,1
+bewilder,6314,vocab-bewilder,Advanced,antonyms,1,2
+bewilderment,6315,vocab-bewilderment,Challenging,,2,3
+biased,6316,vocab-biased,Intermediate,,2,2
+bibliophile,6317,vocab-bibliophile,Challenging,antonyms; antonymNote; synonyms; wordFamily,0,2
+bifurcation,6318,vocab-bifurcation,Intermediate,,2,2
+bigotry,6319,vocab-bigotry,Advanced,,2,2
+biochemistry,6320,vocab-biochemistry,Intermediate,antonyms; antonymNote; synonyms,0,2
+biomedical,6321,vocab-biomedical,Intermediate,antonyms; antonymNote; synonyms,0,1
+bizarre,6322,vocab-bizarre,Advanced,,2,1
+blandishment,6323,vocab-blandishment,Advanced,antonyms; antonymNote,0,1
+blanket,6324,vocab-blanket,Intermediate,antonyms; antonymNote,0,1
+blasphemy,6325,vocab-blasphemy,Advanced,,2,2
+blatant,6326,vocab-blatant,Advanced,,2,1
+blending,6327,vocab-blending,Advanced,,2,3
+blindness,6328,vocab-blindness,Intermediate,,2,2
+blooming,6329,vocab-blooming,Intermediate,,2,2
+bluffer,6330,vocab-bluffer,Advanced,antonyms; antonymNote; synonyms,0,2
+blunder,6331,vocab-blunder,Advanced,antonyms; antonymNote,0,1
+blurring,6332,vocab-blurring,Intermediate,,2,2
+boastful,6333,vocab-boastful,Advanced,,2,2
+boggle,6334,vocab-boggle,Advanced,antonyms; antonymNote; example; collocations; usageNotes,0,1
+boorish,6335,vocab-boorish,Advanced,,2,2
+border,6336,vocab-border,Intermediate,,2,2
+botanist,6337,vocab-botanist,Intermediate,antonyms; antonymNote; synonyms; collocations,0,3
+both,6338,vocab-both,Foundation,antonyms; antonymNote; synonyms; usageNotes,1,0
+brackish,6339,vocab-brackish,Intermediate,,2,1
+branch,6340,vocab-branch,Intermediate,antonyms; antonymNote,0,2
+brandish,6341,vocab-brandish,Advanced,,2,2
+brevity,6342,vocab-brevity,Advanced,,2,2
+bridge,6343,vocab-bridge,Intermediate,,2,1
+brief,6344,vocab-brief,Advanced,,2,2
+brigade,6345,vocab-brigade,Advanced,antonyms; antonymNote,0,0
+brigandage,6346,vocab-brigandage,Challenging,,2,1
+brisk,6347,vocab-brisk,Intermediate,,2,2
+broad,6348,vocab-broad,Foundation,,2,3
+broaden,6349,vocab-broaden,Intermediate,,2,3
+broadly,6350,vocab-broadly,Intermediate,,2,2
+bronchitis,6351,vocab-bronchitis,Challenging,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,1
+brusque,6352,vocab-brusque,Advanced,,2,2
+buddhist,6353,vocab-buddhist,Intermediate,antonyms; antonymNote; synonyms; usageNotes,1,1
+bulk,6354,vocab-bulk,Challenging,,2,1
+bungle,6355,vocab-bungle,Advanced,antonyms; antonymNote,0,2
+bureau,6356,vocab-bureau,Intermediate,antonyms; antonymNote,0,2
+bureaucratic,6357,vocab-bureaucratic,Intermediate,,2,2
+business,6358,vocab-business,Intermediate,antonyms; antonymNote,0,2
+bustling,6359,vocab-bustling,Intermediate,,2,1
+buttress,6360,vocab-buttress,Intermediate,,2,1
+cajole,6361,vocab-cajole,Advanced,,2,2
+caliph,6362,vocab-caliph,Advanced,antonyms; antonymNote; synonyms; usageNotes,0,1
+callous,6363,vocab-callous,Advanced,,2,2
+candid,6364,vocab-candid,Advanced,,2,2
+candor,6365,vocab-candor,Advanced,,2,2
+canning,6366,vocab-canning,Advanced,antonyms; antonymNote,0,2
+capable,6367,vocab-capable,Advanced,,2,2
+capsule,6368,vocab-capsule,Intermediate,antonyms; antonymNote; partOfSpeech; meaning; urduMeaning; synonyms; usageNotes,2,2
+captivate,6369,vocab-captivate,Advanced,,2,2
+cardinal,6370,vocab-cardinal,Intermediate,,2,0
+career,6371,vocab-career,Intermediate,antonyms; antonymNote,0,1
+caress,6372,vocab-caress,Advanced,antonyms; antonymNote,0,1
+castigate,6373,vocab-castigate,Challenging,,2,1
+casually,6374,vocab-casually,Intermediate,,2,2
+catalyst,6375,vocab-catalyst,Challenging,,2,2
+catalyze,6376,vocab-catalyze,Intermediate,,2,3
+categorize,6377,vocab-categorize,Intermediate,,2,2
+causal,6378,vocab-causal,Foundation,synonyms; antonyms,1,3
+caustic,6379,vocab-caustic,Challenging,,2,2
+cautious,6380,vocab-cautious,Intermediate,,2,2
+cease,6381,vocab-cease,Challenging,,2,2
+centered,6382,vocab-centered,Intermediate,,2,2
+central,6383,vocab-central,Foundation,,2,3
+centralization,6384,vocab-centralization,Advanced,,2,2
+centralize,6385,vocab-centralize,Intermediate,,2,2
+century,6386,vocab-century,Foundation,antonyms; antonymNote; synonyms; wordFamily,0,2
+ceremonial,6387,vocab-ceremonial,Challenging,antonyms; antonymNote; urduMeaning; usageNotes,1,2
+ceremony,6388,vocab-ceremony,Advanced,antonyms; antonymNote,0,2
+champion,6389,vocab-champion,Intermediate,,2,1
+change,6390,vocab-change,Foundation,,2,3
+changeable,6391,vocab-changeable,Intermediate,,2,2
+changing,6392,vocab-changing,Foundation,,2,2
+channel,6393,vocab-channel,Advanced,antonyms; usageNotes,1,1
+chapter,6394,vocab-chapter,Intermediate,antonyms; antonymNote,0,0
+character,6395,vocab-character,Advanced,antonyms; antonymNote; synonyms,0,2
+characterization,6396,vocab-characterization,Challenging,antonyms; antonymNote,0,2
+charlatan,6397,vocab-charlatan,Challenging,antonyms; antonymNote,0,1
+chart,6398,vocab-chart,Challenging,antonyms; antonymNote,0,1
+cheated,6399,vocab-cheated,Intermediate,,2,2
+cherished,6400,vocab-cherished,Advanced,,2,1
+chiefly,6401,vocab-chiefly,Intermediate,antonyms,2,1
+childbearing,6402,vocab-childbearing,Intermediate,antonyms; antonymNote; wordFamily; wordFamilyNote; synonyms; example,0,0
+chimerical,6403,vocab-chimerical,Advanced,,2,1
+chivalrous,6404,vocab-chivalrous,Advanced,,2,2
+chivalry,6405,vocab-chivalry,Advanced,,2,2
+choice,6406,vocab-choice,Intermediate,,2,3
+circuit,6407,vocab-circuit,Foundation,antonyms; antonymNote; urduMeaning; synonyms,0,1
+circumlocution,6408,vocab-circumlocution,Challenging,,2,1
+circumspection,6409,vocab-circumspection,Challenging,,2,1
+cited,6410,vocab-cited,Advanced,,2,2
+clamour,6411,vocab-clamour,Advanced,,2,1
+clarity,6412,vocab-clarity,Challenging,wordFamily,2,4
+classical,6413,vocab-classical,Advanced,,2,2
+classification,6414,vocab-classification,Intermediate,antonyms; antonymNote,0,2
+classroom,6415,vocab-classroom,Intermediate,antonyms; antonymNote,0,0
+clearing,6416,vocab-clearing,Intermediate,antonyms; antonymNote,0,2
+clerkship,6417,vocab-clerkship,Intermediate,antonyms; antonymNote,0,1
+client,6418,vocab-client,Foundation,antonyms; antonymNote,0,1
+clothes,6419,vocab-clothes,Intermediate,antonyms; antonymNote,0,2
+clothing,6420,vocab-clothing,Intermediate,antonyms; antonymNote,0,2
+clue,6421,vocab-clue,Intermediate,antonyms; antonymNote,0,1
+clustering,6422,vocab-clustering,Intermediate,,2,2
+co-author,6423,vocab-co-author,Intermediate,antonyms; antonymNote; synonyms; collocations,0,2
+coalesce,6424,vocab-coalesce,Advanced,,2,2
+coastal,6425,vocab-coastal,Intermediate,synonyms,2,2
+code,6426,vocab-code,Advanced,antonyms; antonymNote,0,2
+coerce,6427,vocab-coerce,Advanced,,2,2
+coercive,6428,vocab-coercive,Challenging,,2,2
+cognitively,6429,vocab-cognitively,Advanced,antonyms; antonymNote; synonyms,0,2
+cognizant,6430,vocab-cognizant,Advanced,,2,1
+coherence,6431,vocab-coherence,Challenging,,2,2
+cohesion,6432,vocab-cohesion,Advanced,,2,2
+coincide,6433,vocab-coincide,Challenging,,2,3
+collaborator,6434,vocab-collaborator,Intermediate,,2,3
+colleague,6435,vocab-colleague,Challenging,antonyms; antonymNote,0,2
+collected,6436,vocab-collected,Intermediate,,2,2
+collectively,6437,vocab-collectively,Intermediate,,2,2
+colonial,6438,vocab-colonial,Intermediate,,2,3
+colossal,6439,vocab-colossal,Advanced,,2,1
+combined,6440,vocab-combined,Intermediate,,2,2
+commenced,6441,vocab-commenced,Challenging,,2,2
+commendable,6442,vocab-commendable,Advanced,,2,3
+comment,6443,vocab-comment,Intermediate,antonyms; antonymNote,0,2
+commentary,6444,vocab-commentary,Intermediate,antonyms; antonymNote,0,2
+commodious,6445,vocab-commodious,Advanced,wordFamily,1,2
+common,6446,vocab-common,Foundation,,2,2
+commonly,6447,vocab-commonly,Foundation,antonyms,1,2
+commune,6448,vocab-commune,Advanced,antonyms; antonymNote; synonyms,0,1
+communicate,6449,vocab-communicate,Intermediate,,2,2
+communicating,6450,vocab-communicating,Advanced,urduMeaning,2,2
+comparability,6451,vocab-comparability,Advanced,antonyms; antonymNote; synonyms,1,2
+comparably,6452,vocab-comparably,Intermediate,urduMeaning; synonyms; antonyms; antonymNote,0,3
+compare,6453,vocab-compare,Foundation,antonyms; antonymNote; synonyms; wordFamily,0,4
+comparison,6454,vocab-comparison,Foundation,antonyms; antonymNote; synonyms,0,2
+compassion,6455,vocab-compassion,Advanced,synonyms; wordFamily,2,2
+compendium,6456,vocab-compendium,Advanced,antonyms; antonymNote; synonyms,0,1
+competing,6457,vocab-competing,Foundation,,2,3
+compiled,6458,vocab-compiled,Challenging,antonyms,2,3
+complacency,6459,vocab-complacency,Advanced,,2,2
+complacent,6460,vocab-complacent,Challenging,,2,1
+complicate,6461,vocab-complicate,Challenging,,2,2
+component,6462,vocab-component,Intermediate,wordFamily; wordFamilyNote,2,0
+composite,6463,vocab-composite,Intermediate,,2,2
+comprised,6464,vocab-comprised,Advanced,,2,1
+computer,6465,vocab-computer,Intermediate,antonyms; antonymNote,0,3
+concealment,6466,vocab-concealment,Intermediate,,2,2
+conceive,6467,vocab-conceive,Challenging,antonyms; antonymNote,0,3
+conception,6468,vocab-conception,Intermediate,antonyms; antonymNote; synonyms,0,2
+concise,6469,vocab-concise,Foundation,meaning; partOfSpeech; urduMeaning; wordFamily; collocations,3,3
+concomitantly,6470,vocab-concomitantly,Advanced,synonyms; antonyms,2,1
+concurrent,6471,vocab-concurrent,Challenging,collocations,2,3
+conditional,6472,vocab-conditional,Intermediate,,2,2
+condone,6473,vocab-condone,Advanced,,2,1
+confer,6474,vocab-confer,Intermediate,,2,2
+confined,6475,vocab-confined,Challenging,,2,2
+confirmed,6476,vocab-confirmed,Advanced,,2,2
+conflicting,6477,vocab-conflicting,Intermediate,,2,2
+conform,6478,vocab-conform,Intermediate,,2,2
+congenial,6479,vocab-congenial,Advanced,,2,1
+conjecture,6480,vocab-conjecture,Intermediate,wordFamily,2,2
+conjunctions,6481,vocab-conjunctions,Advanced,antonyms; antonymNote; synonyms,0,3
+connect,6482,vocab-connect,Intermediate,,2,3
+connection,6483,vocab-connection,Foundation,,2,2
+connotation,6484,vocab-connotation,Advanced,wordFamily; antonyms; antonymNote,0,3
+connotative,6485,vocab-connotative,Advanced,urduMeaning,2,3
+conquered,6486,vocab-conquered,Advanced,antonyms,2,3
+conscience,6487,vocab-conscience,Advanced,antonyms; antonymNote; synonyms,0,2
+conscientious,6488,vocab-conscientious,Challenging,,2,2
+conscious,6489,vocab-conscious,Intermediate,,2,2
+consciously,6490,vocab-consciously,Intermediate,,2,2
+consciousness,6491,vocab-consciousness,Advanced,,2,3
+consequent,6492,vocab-consequent,Intermediate,synonyms; antonyms; antonymNote,0,2
+considerate,6493,vocab-considerate,Challenging,,2,2
+considered,6494,vocab-considered,Advanced,,2,2
+consist,6495,vocab-consist,Foundation,antonyms; antonymNote; synonyms; wordFamily; usageNotes,0,0
+consolidation,6496,vocab-consolidation,Intermediate,,2,2
+consonant,6497,vocab-consonant,Intermediate,antonyms; antonymNote; synonyms,0,1
+conspicuous,6498,vocab-conspicuous,Advanced,,2,2
+conspicuously,6499,vocab-conspicuously,Advanced,,2,1
+constancy,6500,vocab-constancy,Intermediate,,2,2
+constant,6501,vocab-constant,Intermediate,,2,2
+constituted,6502,vocab-constituted,Intermediate,,2,2
+constrain,6503,vocab-constrain,Intermediate,,2,2
+constrained,6504,vocab-constrained,Intermediate,meaning; antonyms,2,2
+construction,6505,vocab-construction,Advanced,,2,2
+constructively,6506,vocab-constructively,Advanced,,2,2
+consultative,6507,vocab-consultative,Advanced,,2,2
+consummate,6508,vocab-consummate,Advanced,,2,1
+contact,6509,vocab-contact,Advanced,,2,2
+containing,6510,vocab-containing,Advanced,partOfSpeech; meaning; antonyms; collocations,1,2
+contemporary,6511,vocab-contemporary,Challenging,,2,1
+contemptible,6512,vocab-contemptible,Challenging,,2,2
+contemptuous,6513,vocab-contemptuous,Advanced,,2,2
+content,6514,vocab-content,Foundation,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,0
+contention,6515,vocab-contention,Intermediate,antonyms; antonymNote,0,2
+contentious,6516,vocab-contentious,Challenging,,2,2
+contextual,6517,vocab-contextual,Advanced,,2,3
+contiguous,6518,vocab-contiguous,Intermediate,,2,1
+continuation,6519,vocab-continuation,Intermediate,,2,2
+continuing,6520,vocab-continuing,Intermediate,antonyms,2,2
+contradict,6521,vocab-contradict,Intermediate,wordFamily,2,2
+contradiction,6522,vocab-contradiction,Challenging,,2,3
+contravene,6523,vocab-contravene,Advanced,antonyms,2,1
+contributing,6524,vocab-contributing,Intermediate,antonyms; antonymNote,0,2
+controversy,6525,vocab-controversy,Challenging,,2,1
+conundrum,6526,vocab-conundrum,Challenging,antonyms; antonymNote,0,0
+convenient,6527,vocab-convenient,Advanced,,2,2
+conversely,6528,vocab-conversely,Challenging,synonyms,2,1
+convert,6529,vocab-convert,Advanced,,2,3
+convey,6530,vocab-convey,Foundation,,2,3
+convinced,6531,vocab-convinced,Challenging,,2,2
+copious,6532,vocab-copious,Challenging,,2,1
+corporation,6533,vocab-corporation,Advanced,antonyms; antonymNote; synonyms,0,2
+corpulent,6534,vocab-corpulent,Advanced,,2,1
+correspondingly,6535,vocab-correspondingly,Advanced,antonyms; antonymNote,0,2
+countenance,6536,vocab-countenance,Advanced,,2,0
+countered,6537,vocab-countered,Advanced,,2,2
+counterfeit,6538,vocab-counterfeit,Advanced,,2,2
+countless,6539,vocab-countless,Intermediate,antonyms,2,2
+country,6540,vocab-country,Intermediate,antonyms; antonymNote,0,1
+couple,6541,vocab-couple,Advanced,,2,3
+courteously,6542,vocab-courteously,Challenging,,2,2
+courtyard,6543,vocab-courtyard,Intermediate,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,0
+covered,6544,vocab-covered,Intermediate,,2,2
+cracked,6545,vocab-cracked,Intermediate,,2,2
+create,6546,vocab-create,Intermediate,,2,3
+creative,6547,vocab-creative,Intermediate,,2,2
+credence,6548,vocab-credence,Intermediate,synonyms,2,2
+credulous,6549,vocab-credulous,Challenging,,2,2
+creeping,6550,vocab-creeping,Intermediate,,2,2
+criteria,6551,vocab-criteria,Intermediate,antonyms; antonymNote,0,1
+cross-national,6552,vocab-cross-national,Advanced,synonyms; wordFamily,2,2
+cross-section,6553,vocab-cross-section,Intermediate,antonyms; antonymNote; synonyms,0,1
+crouched,6554,vocab-crouched,Intermediate,,2,2
+crowded,6555,vocab-crowded,Intermediate,,2,2
+crumb,6556,vocab-crumb,Intermediate,antonyms; antonymNote,0,2
+cryptic,6557,vocab-cryptic,Advanced,,2,1
+crystallize,6558,vocab-crystallize,Intermediate,,2,2
+culmination,6559,vocab-culmination,Challenging,,2,1
+cultural,6560,vocab-cultural,Intermediate,antonyms; antonymNote; synonyms,0,3
+curiosity,6561,vocab-curiosity,Advanced,,2,2
+cursory,6562,vocab-cursory,Advanced,,2,1
+curtain,6563,vocab-curtain,Intermediate,antonyms; antonymNote; synonyms,0,1
+customized,6564,vocab-customized,Intermediate,,2,2
+cycle,6565,vocab-cycle,Advanced,antonyms; antonymNote; synonyms,0,2
+dainty,6566,vocab-dainty,Advanced,,2,2
+darkness,6567,vocab-darkness,Intermediate,,2,2
+darwinian,6568,vocab-darwinian,Intermediate,synonyms; antonyms; antonymNote; usageNotes,0,2
+dash,6569,vocab-dash,Advanced,collocations,2,1
+data,6570,vocab-data,Intermediate,antonyms; antonymNote,0,3
+daunt,6571,vocab-daunt,Advanced,,2,2
+dauntless,6572,vocab-dauntless,Advanced,,2,2
+dawdle,6573,vocab-dawdle,Advanced,,2,1
+de-emphasize,6574,vocab-de-emphasize,Advanced,,2,2
+dealer,6575,vocab-dealer,Intermediate,antonyms; antonymNote,0,2
+debate,6576,vocab-debate,Advanced,antonyms; antonymNote,0,2
+decentralize,6577,vocab-decentralize,Advanced,,2,2
+decentralized,6578,vocab-decentralized,Intermediate,,2,2
+decision-making,6579,vocab-decision-making,Intermediate,,2,2
+declarative,6580,vocab-declarative,Intermediate,synonyms; antonyms; antonymNote; collocations,0,2
+declared,6581,vocab-declared,Intermediate,,2,2
+deconstruct,6582,vocab-deconstruct,Intermediate,antonyms; antonymNote,0,1
+decrepit,6583,vocab-decrepit,Advanced,,2,1
+deference,6584,vocab-deference,Challenging,,2,2
+definite,6585,vocab-definite,Advanced,,2,2
+definitively,6586,vocab-definitively,Advanced,,2,1
+deforestation,6587,vocab-deforestation,Advanced,,2,2
+deformity,6588,vocab-deformity,Advanced,antonyms; antonymNote,0,2
+degrade,6589,vocab-degrade,Intermediate,,2,2
+degree,6590,vocab-degree,Foundation,antonyms; antonymNote; wordFamily; wordFamilyNote,0,0
+deletion,6591,vocab-deletion,Intermediate,,2,2
+delicate,6592,vocab-delicate,Intermediate,,2,2
+delusion,6593,vocab-delusion,Advanced,antonyms; antonymNote,0,2
+demeaning,6594,vocab-demeaning,Advanced,wordFamily,2,2
+demonstrable,6595,vocab-demonstrable,Advanced,,2,2
+demonstrably,6596,vocab-demonstrably,Advanced,,2,2
+demoralized,6597,vocab-demoralized,Advanced,,2,2
+denotation,6598,vocab-denotation,Advanced,,2,2
+denotative,6599,vocab-denotative,Advanced,,2,3
+denote,6600,vocab-denote,Challenging,antonyms; antonymNote; synonyms,0,2
+denounce,6601,vocab-denounce,Challenging,,2,1
+deny,6602,vocab-deny,Advanced,,2,1
+depend,6603,vocab-depend,Foundation,antonyms; antonymNote,0,2
+deplete,6604,vocab-deplete,Intermediate,,2,2
+depraved,6605,vocab-depraved,Advanced,,2,2
+deprecate,6606,vocab-deprecate,Challenging,synonyms,2,2
+deride,6607,vocab-deride,Challenging,,2,2
+derisive,6608,vocab-derisive,Advanced,,2,2
+derived,6609,vocab-derived,Intermediate,,2,2
+descendant,6610,vocab-descendant,Intermediate,urduMeaning; synonyms,2,2
+descending,6611,vocab-descending,Intermediate,,2,2
+describe,6612,vocab-describe,Intermediate,antonyms; antonymNote,0,2
+description,6613,vocab-description,Intermediate,antonyms; antonymNote,0,2
+desecration,6614,vocab-desecration,Challenging,,2,1
+design,6615,vocab-design,Intermediate,antonyms; antonymNote,0,2
+desire,6616,vocab-desire,Foundation,,2,2
+desired,6617,vocab-desired,Foundation,,2,2
+desolation,6618,vocab-desolation,Advanced,,2,1
+despite,6619,vocab-despite,Advanced,antonyms; antonymNote,0,0
+despondent,6620,vocab-despondent,Challenging,,2,2
+despotic,6621,vocab-despotic,Advanced,,2,2
+destitute,6622,vocab-destitute,Advanced,,2,1
+destroyed,6623,vocab-destroyed,Intermediate,meaning,2,2
+detailed,6624,vocab-detailed,Foundation,,2,2
+detective,6625,vocab-detective,Advanced,antonyms; antonymNote,0,2
+deterred,6626,vocab-deterred,Intermediate,,2,3
+detract,6627,vocab-detract,Intermediate,,2,2
+detriment,6628,vocab-detriment,Intermediate,,2,1
+develop,6629,vocab-develop,Foundation,,2,2
+developed,6630,vocab-developed,Intermediate,,2,2
+deviance,6631,vocab-deviance,Intermediate,meaning; synonyms; usageNotes,2,2
+device,6632,vocab-device,Challenging,antonyms; antonymNote,0,1
+devoid,6633,vocab-devoid,Intermediate,,2,0
+devoted,6634,vocab-devoted,Challenging,,2,2
+dew,6635,vocab-dew,Intermediate,antonyms; antonymNote; synonyms,0,1
+dexterity,6636,vocab-dexterity,Advanced,urduMeaning,2,2
+diametrically,6637,vocab-diametrically,Advanced,synonyms; antonyms; antonymNote,0,2
+dictum,6638,vocab-dictum,Intermediate,antonyms; antonymNote,0,1
+difference,6639,vocab-difference,Foundation,,2,2
+differentiation,6640,vocab-differentiation,Challenging,antonyms; antonymNote,1,3
+differing,6641,vocab-differing,Intermediate,,2,2
+difficulty,6642,vocab-difficulty,Foundation,antonyms,1,1
+dignity,6643,vocab-dignity,Advanced,,2,1
+digress,6644,vocab-digress,Challenging,antonyms; antonymNote,0,2
+dilapidated,6645,vocab-dilapidated,Challenging,,2,1
+dilate,6646,vocab-dilate,Advanced,,2,1
+dilatoriness,6647,vocab-dilatoriness,Challenging,,2,1
+dilemma,6648,vocab-dilemma,Foundation,antonyms; antonymNote; wordFamily; wordFamilyNote,0,0
+diligence,6649,vocab-diligence,Advanced,,2,2
+dimension,6650,vocab-dimension,Advanced,antonyms; antonymNote; synonyms; collocations,0,2
+diminished,6651,vocab-diminished,Challenging,example,2,2
+diminution,6652,vocab-diminution,Intermediate,,2,2
+dingy,6653,vocab-dingy,Intermediate,,2,1
+direct,6654,vocab-direct,Foundation,,2,2
+directed,6655,vocab-directed,Intermediate,,2,2
+directly,6656,vocab-directly,Foundation,synonyms; antonyms,1,2
+disadvantage,6657,vocab-disadvantage,Intermediate,,2,1
+disallow,6658,vocab-disallow,Intermediate,,2,2
+disappeared,6659,vocab-disappeared,Advanced,,2,3
+disappointed,6660,vocab-disappointed,Advanced,,2,2
+disassociate,6661,vocab-disassociate,Advanced,,2,1
+discarded,6662,vocab-discarded,Advanced,synonyms,2,1
+discern,6663,vocab-discern,Intermediate,,2,2
+discerning,6664,vocab-discerning,Challenging,,2,2
+discharged,6665,vocab-discharged,Advanced,,2,1
+discredited,6666,vocab-discredited,Intermediate,,2,1
+discrete,6667,vocab-discrete,Intermediate,,2,2
+discriminating,6668,vocab-discriminating,Advanced,,2,2
+discrimination,6669,vocab-discrimination,Challenging,meaning; synonyms; urduMeaning; usageNotes,2,3
+discuss,6670,vocab-discuss,Foundation,antonyms; antonymNote,0,1
+disenchantment,6671,vocab-disenchantment,Advanced,,2,2
+disengagement,6672,vocab-disengagement,Advanced,,2,1
+disequilibrium,6673,vocab-disequilibrium,Advanced,,2,1
+disgrace,6674,vocab-disgrace,Intermediate,,2,2
+disgruntled,6675,vocab-disgruntled,Advanced,,2,1
+disincentive,6676,vocab-disincentive,Advanced,example,2,1
+disinterested,6677,vocab-disinterested,Advanced,,2,1
+dismantling,6678,vocab-dismantling,Intermediate,,2,2
+dismissal,6679,vocab-dismissal,Advanced,,2,2
+disparage,6680,vocab-disparage,Advanced,,2,2
+disparate,6681,vocab-disparate,Intermediate,,2,1
+dispensation,6682,vocab-dispensation,Advanced,,2,1
+dispersed,6683,vocab-dispersed,Intermediate,,2,2
+display,6684,vocab-display,Advanced,,2,1
+disposed,6685,vocab-disposed,Advanced,,2,3
+disposition,6686,vocab-disposition,Intermediate,antonyms; antonymNote,0,2
+disrupted,6687,vocab-disrupted,Advanced,,2,2
+dissatisfaction,6688,vocab-dissatisfaction,Intermediate,,2,2
+dissatisfied,6689,vocab-dissatisfied,Intermediate,,2,2
+disseminate,6690,vocab-disseminate,Challenging,,2,1
+dissimilar,6691,vocab-dissimilar,Intermediate,,2,2
+dissociate,6692,vocab-dissociate,Intermediate,,2,2
+dissolve,6693,vocab-dissolve,Intermediate,meaning; synonyms; antonyms; antonymNote; urduMeaning; usageNotes,1,2
+distasteful,6694,vocab-distasteful,Challenging,,2,1
+distinction,6695,vocab-distinction,Intermediate,,2,3
+distinctively,6696,vocab-distinctively,Advanced,,2,2
+distinguished,6697,vocab-distinguished,Challenging,,2,2
+distribute,6698,vocab-distribute,Intermediate,,2,2
+disturbed,6699,vocab-disturbed,Advanced,,2,2
+divergence,6700,vocab-divergence,Intermediate,,2,2
+divert,6701,vocab-divert,Intermediate,antonyms; antonymNote,0,2
+doctor,6702,vocab-doctor,Intermediate,antonyms; antonymNote,0,1
+document,6703,vocab-document,Intermediate,antonyms; antonymNote,0,2
+documentation,6704,vocab-documentation,Intermediate,antonyms; antonymNote,0,2
+domesticated,6705,vocab-domesticated,Advanced,synonyms; usageNotes,2,2
+dominance,6706,vocab-dominance,Advanced,,2,2
+domination,6707,vocab-domination,Intermediate,,2,2
+drafting,6708,vocab-drafting,Intermediate,antonyms; antonymNote,0,2
+dramatic,6709,vocab-dramatic,Challenging,antonyms,2,2
+drumbeater,6710,vocab-drumbeater,Advanced,,2,1
+duration,6711,vocab-duration,Challenging,antonyms; antonymNote,0,1
+dwindle,6712,vocab-dwindle,Advanced,,2,1
+dynamics,6713,vocab-dynamics,Foundation,antonyms; antonymNote,0,2
+dynamism,6714,vocab-dynamism,Intermediate,,2,1
+dynasty,6715,vocab-dynasty,Advanced,antonyms; antonymNote,0,1
+earnest,6716,vocab-earnest,Advanced,collocations,2,2
+ebullient,6717,vocab-ebullient,Challenging,,2,2
+ebullition,6718,vocab-ebullition,Advanced,,2,1
+eccentric,6719,vocab-eccentric,Advanced,,2,1
+eccentricity,6720,vocab-eccentricity,Challenging,,2,2
+ecstasy,6721,vocab-ecstasy,Advanced,,2,1
+edited,6722,vocab-edited,Intermediate,,2,3
+edition,6723,vocab-edition,Advanced,antonyms; antonymNote,0,2
+educated,6724,vocab-educated,Intermediate,collocations,2,2
+educational,6725,vocab-educational,Advanced,antonyms,1,2
+eerie,6726,vocab-eerie,Intermediate,,2,2
+effect,6727,vocab-effect,Foundation,antonyms; antonymNote,0,3
+effectively,6728,vocab-effectively,Intermediate,synonyms,2,3
+efficacy,6729,vocab-efficacy,Advanced,synonyms,2,1
+efficiently,6730,vocab-efficiently,Intermediate,synonyms; urduMeaning,2,2
+effusive,6731,vocab-effusive,Challenging,,2,2
+elicit,6732,vocab-elicit,Challenging,antonyms; antonymNote,0,1
+eloquent,6733,vocab-eloquent,Challenging,,2,2
+elusive,6734,vocab-elusive,Advanced,synonyms,2,2
+embarrassed,6735,vocab-embarrassed,Advanced,,2,2
+embarrassment,6736,vocab-embarrassment,Challenging,,2,2
+embed,6737,vocab-embed,Foundation,,2,2
+embedded,6738,vocab-embedded,Intermediate,,2,2
+embellished,6739,vocab-embellished,Challenging,,2,2
+embezzle,6740,vocab-embezzle,Advanced,antonyms; antonymNote,0,2
+embody,6741,vocab-embody,Foundation,antonyms; antonymNote,0,2
+embryonic,6742,vocab-embryonic,Advanced,,2,1
+emerge,6743,vocab-emerge,Advanced,,2,3
+emotional,6744,vocab-emotional,Advanced,antonyms; antonymNote,2,2
+emotive,6745,vocab-emotive,Intermediate,wordFamily,2,2
+empathy,6746,vocab-empathy,Intermediate,synonyms; urduMeaning; usageNotes,2,2
+emphasize,6747,vocab-emphasize,Advanced,,2,3
+employed,6748,vocab-employed,Intermediate,antonyms; antonymNote,0,2
+employment,6749,vocab-employment,Intermediate,,2,2
+empowering,6750,vocab-empowering,Intermediate,,2,2
+empowerment,6751,vocab-empowerment,Advanced,,2,3
+emulate,6752,vocab-emulate,Challenging,antonyms; antonymNote; synonyms,0,1
+enabling,6753,vocab-enabling,Intermediate,synonyms,2,2
+enchanted,6754,vocab-enchanted,Advanced,,2,2
+encountered,6755,vocab-encountered,Challenging,,2,1
+encourage,6756,vocab-encourage,Foundation,,2,3
+encroach,6757,vocab-encroach,Advanced,antonyms,2,1
+endeavor,6758,vocab-endeavor,Foundation,,2,0
+endowment,6759,vocab-endowment,Advanced,,0,2
+endurance,6760,vocab-endurance,Advanced,,2,2
+energy,6761,vocab-energy,Advanced,,2,2
+enforced,6762,vocab-enforced,Intermediate,antonyms,1,2
+engineer,6763,vocab-engineer,Intermediate,antonyms; antonymNote,0,1
+engrossed,6764,vocab-engrossed,Advanced,,2,2
+engulfed,6765,vocab-engulfed,Advanced,,2,1
+enhancement,6766,vocab-enhancement,Intermediate,,2,2
+enigma,6767,vocab-enigma,Advanced,antonyms; antonymNote,0,1
+enigmatic,6768,vocab-enigmatic,Challenging,,2,2
+enlightenment,6769,vocab-enlightenment,Intermediate,,2,2
+ennui,6770,vocab-ennui,Advanced,,2,0
+enormous,6771,vocab-enormous,Challenging,,2,1
+enquiry,6772,vocab-enquiry,Intermediate,antonyms; antonymNote; synonyms,0,1
+enrich,6773,vocab-enrich,Intermediate,,2,2
+entangle,6774,vocab-entangle,Advanced,,2,2
+entertainment,6775,vocab-entertainment,Advanced,antonyms; antonymNote,0,2
+enthusiastically,6776,vocab-enthusiastically,Challenging,,2,2
+entice,6777,vocab-entice,Advanced,synonyms,2,2
+entrance,6778,vocab-entrance,Intermediate,antonyms,1,2
+entrap,6779,vocab-entrap,Advanced,,2,1
+entrepreneurship,6780,vocab-entrepreneurship,Challenging,antonyms; antonymNote; urduMeaning; synonyms,0,2
+envelope,6781,vocab-envelope,Intermediate,antonyms; antonymNote,0,1
+environmentalism,6782,vocab-environmentalism,Advanced,collocations; antonyms; antonymNote,0,2
+envisaged,6783,vocab-envisaged,Challenging,antonyms; antonymNote,0,1
+ephemeral,6784,vocab-ephemeral,Challenging,,2,1
+epilogue,6785,vocab-epilogue,Advanced,wordFamily; wordFamilyNote,2,0
+epitome,6786,vocab-epitome,Advanced,antonyms; antonymNote; synonyms,0,1
+equal,6787,vocab-equal,Foundation,synonyms; antonyms,1,2
+equality,6788,vocab-equality,Foundation,synonyms; antonyms,1,3
+equipment,6789,vocab-equipment,Advanced,,0,2
+eradication,6790,vocab-eradication,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+erosion,6791,vocab-erosion,Intermediate,antonyms; antonymNote; wordFamily,1,2
+erroneously,6792,vocab-erroneously,Intermediate,synonyms; wordFamily,2,2
+error,6793,vocab-error,Advanced,wordFamily,2,1
+erudite,6794,vocab-erudite,Advanced,urduMeaning; wordFamily; synonyms; antonyms,2,1
+especially,6795,vocab-especially,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+establish,6796,vocab-establish,Intermediate,,2,3
+estuary,6797,vocab-estuary,Intermediate,antonyms; antonymNote; synonyms; collocations; wordFamily,0,1
+ethics,6798,vocab-ethics,Foundation,antonyms; antonymNote; synonyms; wordFamily,0,2
+ethnic,6799,vocab-ethnic,Advanced,antonyms; antonymNote; synonyms; urduMeaning; wordFamily; usageNotes,0,2
+ethnically,6800,vocab-ethnically,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,2
+etymology,6801,vocab-etymology,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,2
+evasive,6802,vocab-evasive,Advanced,wordFamily,2,2
+eventually,6803,vocab-eventually,Challenging,wordFamily,2,1
+everyone,6804,vocab-everyone,Intermediate,wordFamily; wordFamilyNote,2,0
+evident,6805,vocab-evident,Foundation,wordFamily,2,2
+exactly,6806,vocab-exactly,Intermediate,wordFamily,2,2
+exaggerated,6807,vocab-exaggerated,Challenging,wordFamily,2,2
+example,6808,vocab-example,Foundation,antonyms; antonymNote; wordFamily,0,1
+exasperating,6809,vocab-exasperating,Advanced,wordFamily,2,2
+excerpt,6810,vocab-excerpt,Intermediate,antonyms; antonymNote; wordFamily,0,1
+excitement,6811,vocab-excitement,Advanced,antonyms; wordFamily,2,2
+exclude,6812,vocab-exclude,Intermediate,,2,3
+exclusionary,6813,vocab-exclusionary,Advanced,example; wordFamily,2,2
+exclusively,6814,vocab-exclusively,Intermediate,antonyms; antonymNote; wordFamily,2,2
+exclusivity,6815,vocab-exclusivity,Advanced,antonyms; urduMeaning; synonyms; wordFamily,2,4
+exertion,6816,vocab-exertion,Advanced,antonyms; wordFamily,1,1
+exhibit,6817,vocab-exhibit,Challenging,wordFamily,2,2
+exhibition,6818,vocab-exhibition,Challenging,antonyms; wordFamily,1,2
+exhort,6819,vocab-exhort,Challenging,example; wordFamily,2,1
+exist,6820,vocab-exist,Foundation,antonyms; wordFamily,2,2
+existence,6821,vocab-existence,Foundation,wordFamily,2,2
+expanded,6822,vocab-expanded,Intermediate,wordFamily,2,2
+expanding,6823,vocab-expanding,Intermediate,wordFamily,2,2
+expediency,6824,vocab-expediency,Intermediate,antonyms; antonymNote; wordFamily,0,1
+expensively,6825,vocab-expensively,Advanced,antonyms; synonyms; wordFamily,2,2
+experience,6826,vocab-experience,Foundation,wordFamily,2,2
+experiment,6827,vocab-experiment,Foundation,antonyms; antonymNote; synonyms,0,3
+experimentation,6828,vocab-experimentation,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,2
+explanation,6829,vocab-explanation,Intermediate,antonyms; antonymNote; wordFamily,0,2
+explicitly,6830,vocab-explicitly,Intermediate,wordFamily,2,1
+exploited,6831,vocab-exploited,Advanced,antonyms; synonyms; meaning; urduMeaning; usageNotes,1,3
+explore,6832,vocab-explore,Foundation,wordFamily,2,2
+exponentially,6833,vocab-exponentially,Advanced,antonyms; antonymNote; synonyms; meaning; urduMeaning; example; usageNotes; wordFamily,0,2
+express,6834,vocab-express,Foundation,wordFamily,2,2
+expression,6835,vocab-expression,Advanced,antonyms; wordFamily,1,2
+expunge,6836,vocab-expunge,Advanced,wordFamily,2,1
+extant,6837,vocab-extant,Intermediate,antonyms; wordFamily; wordFamilyNote,2,0
+extemporaneous,6838,vocab-extemporaneous,Challenging,antonyms; wordFamily,2,1
+extend,6839,vocab-extend,Foundation,wordFamily,2,2
+extensively,6840,vocab-extensively,Intermediate,wordFamily,2,2
+extract,6841,vocab-extract,Advanced,wordFamily,2,2
+extricate,6842,vocab-extricate,Advanced,wordFamily,2,1
+exude,6843,vocab-exude,Advanced,antonyms; synonyms; wordFamily,1,1
+eyewitness,6844,vocab-eyewitness,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+fabricate,6845,vocab-fabricate,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; usageNotes; wordFamily,0,2
+face-to-face,6846,vocab-face-to-face,Intermediate,synonyms; antonyms; wordFamily; wordFamilyNote,1,0
+facetious,6847,vocab-facetious,Challenging,wordFamily,2,1
+failure,6848,vocab-failure,Foundation,antonyms; wordFamily,1,2
+fallacy,6849,vocab-fallacy,Intermediate,wordFamily,2,1
+familiarize,6850,vocab-familiarize,Intermediate,antonyms; antonymNote; synonyms; collocations; wordFamily,0,2
+famine,6851,vocab-famine,Advanced,antonyms; wordFamily; wordFamilyNote,1,0
+far-reaching,6852,vocab-far-reaching,Intermediate,wordFamily; wordFamilyNote,2,0
+farming,6853,vocab-farming,Foundation,antonyms; antonymNote; wordFamily,0,2
+fascinated,6854,vocab-fascinated,Advanced,wordFamily,2,2
+fascinating,6855,vocab-fascinating,Advanced,wordFamily,2,2
+fatal,6856,vocab-fatal,Advanced,antonyms; synonyms; meaning; urduMeaning; usageNotes; wordFamily; antonymNote,0,2
+fatuous,6857,vocab-fatuous,Challenging,wordFamily,2,1
+favorable,6858,vocab-favorable,Intermediate,wordFamily,2,2
+feature,6859,vocab-feature,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+fecund,6860,vocab-fecund,Challenging,wordFamily,2,1
+fee,6861,vocab-fee,Advanced,antonyms; antonymNote; wordFamily; wordFamilyNote,0,0
+feeble,6862,vocab-feeble,Advanced,wordFamily,2,2
+feign,6863,vocab-feign,Challenging,antonyms; antonymNote; wordFamily,0,1
+felicitous,6864,vocab-felicitous,Challenging,wordFamily,2,1
+felicity,6865,vocab-felicity,Advanced,synonyms; meaning; urduMeaning; antonyms; usageNotes; wordFamily,1,2
+female,6866,vocab-female,Foundation,antonyms; synonyms; synonymNote; meaning; urduMeaning; wordFamily; wordFamilyNote,1,0
+fenland,6867,vocab-fenland,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+fertilizer,6868,vocab-fertilizer,Challenging,antonyms; antonymNote; synonyms; wordFamily,0,2
+fervent,6869,vocab-fervent,Advanced,wordFamily,2,2
+feudal,6870,vocab-feudal,Intermediate,wordFamily,2,1
+fiasco,6871,vocab-fiasco,Advanced,wordFamily; wordFamilyNote,2,0
+fictitious,6872,vocab-fictitious,Advanced,wordFamily,2,2
+figurative,6873,vocab-figurative,Advanced,wordFamily,1,2
+filch,6874,vocab-filch,Advanced,wordFamily,2,1
+file,6875,vocab-file,Advanced,wordFamily,2,1
+final,6876,vocab-final,Intermediate,wordFamily,2,2
+finding,6877,vocab-finding,Foundation,antonyms; antonymNote; wordFamily,0,2
+fine-grained,6878,vocab-fine-grained,Advanced,wordFamily; wordFamilyNote,2,0
+finite,6879,vocab-finite,Advanced,antonyms; synonyms; wordFamily,2,4
+first-order,6880,vocab-first-order,Intermediate,wordFamily; wordFamilyNote,2,0
+flash,6881,vocab-flash,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+flashlight,6882,vocab-flashlight,Intermediate,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,0
+flattering,6883,vocab-flattering,Advanced,antonyms; wordFamily,1,2
+flimsy,6884,vocab-flimsy,Advanced,wordFamily,2,1
+fling,6885,vocab-fling,Advanced,antonyms; wordFamily,1,1
+florid,6886,vocab-florid,Challenging,synonyms; meaning; urduMeaning; antonyms; usageNotes; wordFamily,2,2
+flour,6887,vocab-flour,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+flourished,6888,vocab-flourished,Challenging,wordFamily,2,2
+flourishing,6889,vocab-flourishing,Intermediate,wordFamily,2,1
+focus,6890,vocab-focus,Intermediate,antonyms; wordFamily,1,2
+focused,6891,vocab-focused,Intermediate,wordFamily,2,2
+following,6892,vocab-following,Foundation,wordFamily,2,2
+footnote,6893,vocab-footnote,Intermediate,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,0
+forbearance,6894,vocab-forbearance,Challenging,wordFamily; antonyms; usageNotes,1,2
+fore,6895,vocab-fore,Intermediate,wordFamily,2,2
+forehead,6896,vocab-forehead,Intermediate,antonyms; antonymNote; wordFamily; wordFamilyNote,0,0
+forgo,6897,vocab-forgo,Advanced,antonyms; wordFamily,2,1
+formal,6898,vocab-formal,Foundation,wordFamily,2,2
+formalize,6899,vocab-formalize,Intermediate,antonyms; antonymNote; collocations; wordFamily,0,2
+formalized,6900,vocab-formalized,Intermediate,wordFamily,2,2
+formally,6901,vocab-formally,Intermediate,wordFamily,2,2
+format,6902,vocab-format,Challenging,antonyms; antonymNote; wordFamily,0,1
+formidable,6903,vocab-formidable,Advanced,wordFamily,2,1
+formula,6904,vocab-formula,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+fortitude,6905,vocab-fortitude,Challenging,wordFamily; wordFamilyNote,2,0
+fortnight,6906,vocab-fortnight,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+fortuitous,6907,vocab-fortuitous,Challenging,wordFamily,2,1
+founded,6908,vocab-founded,Challenging,wordFamily,2,2
+fountain,6909,vocab-fountain,Intermediate,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,0
+fraction,6910,vocab-fraction,Foundation,antonyms; antonymNote; synonyms; wordFamily,0,1
+fraudulent,6911,vocab-fraudulent,Advanced,wordFamily,2,2
+freedom,6912,vocab-freedom,Intermediate,wordFamily,2,2
+frenzied,6913,vocab-frenzied,Advanced,wordFamily,2,1
+frequent,6914,vocab-frequent,Foundation,wordFamily,2,2
+frequently,6915,vocab-frequently,Foundation,wordFamily,2,2
+friction,6916,vocab-friction,Intermediate,antonyms; antonymNote; wordFamily,0,1
+friendly,6917,vocab-friendly,Intermediate,wordFamily,2,2
+friendship,6918,vocab-friendship,Intermediate,wordFamily,2,2
+frightened,6919,vocab-frightened,Advanced,,2,3
+frightening,6920,vocab-frightening,Challenging,wordFamily,2,2
+frivolous,6921,vocab-frivolous,Advanced,wordFamily,2,1
+frown,6922,vocab-frown,Advanced,wordFamily,2,1
+frugality,6923,vocab-frugality,Advanced,wordFamily,2,2
+fuel,6924,vocab-fuel,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+fulfil,6925,vocab-fulfil,Intermediate,wordFamily,2,1
+function,6926,vocab-function,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,3
+fundamentally,6927,vocab-fundamentally,Intermediate,wordFamily,2,1
+furiously,6928,vocab-furiously,Advanced,urduMeaning; wordFamily,2,2
+furtive,6929,vocab-furtive,Advanced,wordFamily,2,1
+futility,6930,vocab-futility,Advanced,wordFamily,2,1
+gaiety,6931,vocab-gaiety,Advanced,synonyms; wordFamily; usageNotes,2,1
+gainsay,6932,vocab-gainsay,Advanced,wordFamily,2,2
+galaxy,6933,vocab-galaxy,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+gale,6934,vocab-gale,Advanced,antonyms; wordFamily; wordFamilyNote,1,0
+gallantry,6935,vocab-gallantry,Advanced,synonyms; meaning; urduMeaning; antonyms; usageNotes; wordFamily,1,1
+gallivanting,6936,vocab-gallivanting,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+galvanize,6937,vocab-galvanize,Challenging,wordFamily,2,2
+garish,6938,vocab-garish,Advanced,wordFamily,2,1
+gathered,6939,vocab-gathered,Intermediate,antonyms; wordFamily,2,2
+gender,6940,vocab-gender,Advanced,antonyms; antonymNote; synonyms; meaning; urduMeaning; usageNotes; wordFamily,0,1
+general,6941,vocab-general,Foundation,wordFamily,2,2
+generality,6942,vocab-generality,Intermediate,wordFamily,2,2
+generator,6943,vocab-generator,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,2
+generosity,6944,vocab-generosity,Challenging,wordFamily,2,2
+generous,6945,vocab-generous,Intermediate,wordFamily,2,2
+genteel,6946,vocab-genteel,Advanced,wordFamily,2,1
+geography,6947,vocab-geography,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,2
+gerund,6948,vocab-gerund,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+ghastly,6949,vocab-ghastly,Advanced,wordFamily,2,1
+globalize,6950,vocab-globalize,Intermediate,synonyms; wordFamily,2,3
+gloomy,6951,vocab-gloomy,Advanced,synonyms; meaning; urduMeaning; antonyms; wordFamily,2,2
+glowing,6952,vocab-glowing,Intermediate,synonyms; meaning; urduMeaning; antonyms; usageNotes; wordFamily,2,1
+goal,6953,vocab-goal,Advanced,antonyms; antonymNote,0,2
+government,6954,vocab-government,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,2
+gracious,6955,vocab-gracious,Advanced,wordFamily,2,2
+gradation,6956,vocab-gradation,Intermediate,antonyms; synonyms; wordFamily,1,2
+grade,6957,vocab-grade,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,2
+graduate,6958,vocab-graduate,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+grandeur,6959,vocab-grandeur,Advanced,wordFamily,2,1
+grandiose,6960,vocab-grandiose,Challenging,wordFamily,2,1
+granted,6961,vocab-granted,Advanced,meaning; example; collocations; wordFamily,2,1
+graph,6962,vocab-graph,Foundation,antonyms; antonymNote; wordFamily,0,2
+graphically,6963,vocab-graphically,Intermediate,antonyms; antonymNote; synonyms; wordFamily; meaning; urduMeaning; usageNotes,0,2
+gratification,6964,vocab-gratification,Advanced,synonyms; wordFamily,2,3
+greatly,6965,vocab-greatly,Foundation,synonyms; wordFamily,2,2
+greed,6966,vocab-greed,Intermediate,wordFamily,2,2
+greenery,6967,vocab-greenery,Intermediate,antonyms; antonymNote; wordFamily,0,1
+greenhouse,6968,vocab-greenhouse,Intermediate,antonyms; antonymNote; wordFamily; wordFamilyNote,0,0
+gregarious,6969,vocab-gregarious,Challenging,wordFamily,2,1
+groaning,6970,vocab-groaning,Intermediate,wordFamily,2,1
+ground,6971,vocab-ground,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; usageNotes; wordFamily,0,1
+grounding,6972,vocab-grounding,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,2
+group,6973,vocab-group,Foundation,antonyms; antonymNote; wordFamily,0,1
+gruesome,6974,vocab-gruesome,Advanced,wordFamily,2,1
+guarantee,6975,vocab-guarantee,Advanced,wordFamily,2,1
+guide,6976,vocab-guide,Foundation,synonyms; wordFamily,2,2
+guiding,6977,vocab-guiding,Intermediate,antonyms; wordFamily,1,2
+guile,6978,vocab-guile,Challenging,wordFamily,2,2
+gullible,6979,vocab-gullible,Advanced,wordFamily,2,1
+hackneyed,6980,vocab-hackneyed,Challenging,wordFamily; wordFamilyNote,2,0
+hamper,6981,vocab-hamper,Advanced,wordFamily,2,1
+hardworking,6982,vocab-hardworking,Advanced,wordFamily,2,2
+harmful,6983,vocab-harmful,Intermediate,wordFamily,2,2
+haunted,6984,vocab-haunted,Intermediate,wordFamily,2,2
+hearth,6985,vocab-hearth,Intermediate,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,0
+heartiness,6986,vocab-heartiness,Advanced,wordFamily,2,1
+heartrending,6987,vocab-heartrending,Challenging,wordFamily,2,1
+heavenly,6988,vocab-heavenly,Advanced,synonyms; meaning; urduMeaning; antonyms; usageNotes; collocations; wordFamily,2,1
+height,6989,vocab-height,Intermediate,antonyms; synonyms; meaning; urduMeaning; wordFamily,1,2
+helpful,6990,vocab-helpful,Foundation,wordFamily,2,2
+helpless,6991,vocab-helpless,Intermediate,wordFamily,2,2
+herculean,6992,vocab-herculean,Advanced,wordFamily; wordFamilyNote,2,0
+hereafter,6993,vocab-hereafter,Intermediate,wordFamily; wordFamilyNote,2,0
+heredity,6994,vocab-heredity,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+heretical,6995,vocab-heretical,Challenging,wordFamily,2,2
+heritage,6996,vocab-heritage,Advanced,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,0
+heterogeneity,6997,vocab-heterogeneity,Intermediate,wordFamily,2,1
+hierarchically,6998,vocab-hierarchically,Advanced,antonyms; synonyms; wordFamily,1,2
+hierarchy,6999,vocab-hierarchy,Foundation,antonyms; antonymNote; synonyms; wordFamily,0,1
+high-quality,7000,vocab-high-quality,Intermediate,wordFamily; wordFamilyNote,2,0
+highly,7001,vocab-highly,Foundation,antonyms; wordFamily,1,2
+hilarity,7002,vocab-hilarity,Advanced,wordFamily,2,1
+hinder,7003,vocab-hinder,Intermediate,wordFamily,2,1
+hindrance,7004,vocab-hindrance,Intermediate,wordFamily,2,1
+historically,7005,vocab-historically,Intermediate,wordFamily,2,2
+history,7006,vocab-history,Foundation,antonyms; antonymNote; wordFamily,0,2
+homogeneous,7007,vocab-homogeneous,Challenging,wordFamily,2,1
+homogenization,7008,vocab-homogenization,Challenging,,2,3
+honour,7009,vocab-honour,Intermediate,wordFamily,2,1
+honourable,7010,vocab-honourable,Advanced,wordFamily,2,2
+hopelessness,7011,vocab-hopelessness,Advanced,wordFamily,2,2
+horseman,7012,vocab-horseman,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,2
+hospitality,7013,vocab-hospitality,Advanced,wordFamily,2,2
+hospitalization,7014,vocab-hospitalization,Challenging,wordFamily,2,2
+housemastership,7015,vocab-housemastership,Challenging,antonyms; antonymNote; synonyms; collocations; usageNotes; wordFamily,0,1
+however,7016,vocab-however,Foundation,antonyms; antonymNote; wordFamily; wordFamilyNote,0,0
+howling,7017,vocab-howling,Intermediate,wordFamily,2,1
+human,7018,vocab-human,Foundation,antonyms; synonyms; synonymNote; meaning; urduMeaning; usageNotes; collocations; wordFamily,1,2
+humiliating,7019,vocab-humiliating,Advanced,wordFamily,2,2
+humiliation,7020,vocab-humiliation,Challenging,wordFamily,2,2
+humility,7021,vocab-humility,Advanced,wordFamily,2,2
+hunger,7022,vocab-hunger,Intermediate,antonyms; synonyms; wordFamily,1,2
+husbandry,7023,vocab-husbandry,Intermediate,wordFamily; wordFamilyNote,2,0
+hypocrisy,7024,vocab-hypocrisy,Advanced,wordFamily,2,2
+hypocritical,7025,vocab-hypocritical,Challenging,wordFamily,2,2
+hypothesis,7026,vocab-hypothesis,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,2
+hypothetical,7027,vocab-hypothetical,Intermediate,antonyms; wordFamily,2,2
+iconoclast,7028,vocab-iconoclast,Challenging,wordFamily,2,2
+ideal,7029,vocab-ideal,Foundation,wordFamily,2,2
+identifying,7030,vocab-identifying,Intermediate,wordFamily,2,2
+identity,7031,vocab-identity,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,2
+ignored,7032,vocab-ignored,Advanced,wordFamily,2,2
+illegible,7033,vocab-illegible,Advanced,wordFamily,2,2
+illusion,7034,vocab-illusion,Intermediate,wordFamily,2,2
+illustrated,7035,vocab-illustrated,Advanced,wordFamily,2,2
+illustrious,7036,vocab-illustrious,Challenging,wordFamily,2,1
+image,7037,vocab-image,Advanced,antonyms; antonymNote; synonyms,0,3
+imagery,7038,vocab-imagery,Intermediate,antonyms; antonymNote; synonyms,0,3
+imagination,7039,vocab-imagination,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,2
+imbibe,7040,vocab-imbibe,Advanced,wordFamily,2,1
+imitate,7041,vocab-imitate,Advanced,wordFamily,2,2
+immaculate,7042,vocab-immaculate,Advanced,wordFamily,2,1
+immediately,7043,vocab-immediately,Advanced,wordFamily,2,2
+immensely,7044,vocab-immensely,Challenging,example; collocations; wordFamily,2,2
+immerse,7045,vocab-immerse,Advanced,wordFamily,2,2
+immigration,7046,vocab-immigration,Advanced,antonyms; synonyms; wordFamily,1,2
+immortality,7047,vocab-immortality,Advanced,antonyms; wordFamily,1,2
+immunity,7048,vocab-immunity,Advanced,antonyms; antonymNote; urduMeaning; wordFamily,2,3
+impartiality,7049,vocab-impartiality,Advanced,wordFamily,2,2
+impassive,7050,vocab-impassive,Advanced,wordFamily,2,2
+impatient,7051,vocab-impatient,Advanced,wordFamily,2,2
+impeach,7052,vocab-impeach,Advanced,antonyms; antonymNote; wordFamily,0,1
+impeccable,7053,vocab-impeccable,Challenging,wordFamily,2,1
+impediment,7054,vocab-impediment,Advanced,wordFamily,2,1
+impel,7055,vocab-impel,Intermediate,urduMeaning; wordFamily,2,2
+impenetrable,7056,vocab-impenetrable,Challenging,antonyms; wordFamily,2,2
+imperfectly,7057,vocab-imperfectly,Intermediate,synonyms; urduMeaning; wordFamily,2,2
+impertinent,7058,vocab-impertinent,Challenging,antonyms; wordFamily,2,1
+impetus,7059,vocab-impetus,Intermediate,wordFamily; wordFamilyNote,2,0
+impinge,7060,vocab-impinge,Advanced,antonyms; antonymNote; urduMeaning; wordFamily,0,1
+implicit,7061,vocab-implicit,Challenging,wordFamily,2,2
+import,7062,vocab-import,Foundation,antonyms; wordFamily,1,2
+important,7063,vocab-important,Foundation,antonyms; synonyms; wordFamily,2,2
+importantly,7064,vocab-importantly,Intermediate,synonyms; urduMeaning; wordFamily,2,2
+imposed,7065,vocab-imposed,Advanced,antonyms; synonyms; wordFamily,1,2
+impossible,7066,vocab-impossible,Advanced,wordFamily,2,2
+impostor,7067,vocab-impostor,Intermediate,antonyms; antonymNote; synonyms; collocations; wordFamily,0,1
+impractical,7068,vocab-impractical,Intermediate,wordFamily,2,2
+imprecise,7069,vocab-imprecise,Intermediate,wordFamily,2,2
+impress,7070,vocab-impress,Intermediate,antonyms; synonyms; wordFamily,1,2
+improve,7071,vocab-improve,Foundation,wordFamily,2,2
+improving,7072,vocab-improving,Foundation,wordFamily,2,2
+impudence,7073,vocab-impudence,Advanced,antonyms; synonyms; wordFamily,2,2
+in-house,7074,vocab-in-house,Intermediate,antonyms; synonyms; urduMeaning; wordFamily; wordFamilyNote,2,0
+inadequacy,7075,vocab-inadequacy,Challenging,wordFamily,2,2
+inadvertent,7076,vocab-inadvertent,Challenging,wordFamily,2,1
+inaugurate,7077,vocab-inaugurate,Advanced,wordFamily,2,2
+inaugurated,7078,vocab-inaugurated,Advanced,wordFamily,2,2
+inauguration,7079,vocab-inauguration,Advanced,wordFamily,2,2
+incapacity,7080,vocab-incapacity,Intermediate,antonyms; synonyms; urduMeaning; wordFamily,2,2
+incipient,7081,vocab-incipient,Challenging,wordFamily,2,1
+incite,7082,vocab-incite,Advanced,synonyms; wordFamily,2,1
+include,7083,vocab-include,Foundation,wordFamily,2,3
+incomplete,7084,vocab-incomplete,Intermediate,wordFamily,2,2
+inconclusive,7085,vocab-inconclusive,Advanced,wordFamily,2,2
+incorporated,7086,vocab-incorporated,Challenging,antonyms; partOfSpeech; meaning; urduMeaning; synonyms; collocations; wordFamily,1,2
+incorporation,7087,vocab-incorporation,Intermediate,wordFamily,2,1
+increase,7088,vocab-increase,Foundation,wordFamily,2,2
+increased,7089,vocab-increased,Foundation,wordFamily,2,2
+incredulous,7090,vocab-incredulous,Advanced,urduMeaning; wordFamily,2,1
+incrementally,7091,vocab-incrementally,Advanced,antonyms; wordFamily,2,2
+indeed,7092,vocab-indeed,Foundation,antonyms; antonymNote; wordFamily; wordFamilyNote,0,0
+indict,7093,vocab-indict,Advanced,antonyms; antonymNote; synonyms; collocations; wordFamily,0,1
+indictment,7094,vocab-indictment,Challenging,antonyms; antonymNote; synonyms; wordFamily,0,2
+indignation,7095,vocab-indignation,Challenging,antonyms; antonymNote; wordFamily,0,2
+indirectly,7096,vocab-indirectly,Intermediate,wordFamily,2,2
+individualism,7097,vocab-individualism,Intermediate,antonyms; wordFamily,1,2
+individualist,7098,vocab-individualist,Advanced,synonyms; wordFamily; antonyms,2,2
+individually,7099,vocab-individually,Intermediate,wordFamily,2,2
+indolence,7100,vocab-indolence,Advanced,wordFamily,2,1
+industrialize,7101,vocab-industrialize,Advanced,antonyms; synonyms; wordFamily,1,2
+industrialized,7102,vocab-industrialized,Intermediate,antonyms; synonyms; wordFamily,1,2
+industrious,7103,vocab-industrious,Advanced,wordFamily,2,2
+ineffable,7104,vocab-ineffable,Challenging,antonyms; synonyms; wordFamily,1,1
+ineffective,7105,vocab-ineffective,Intermediate,synonyms; wordFamily,2,2
+inequitable,7106,vocab-inequitable,Advanced,synonyms; wordFamily,2,2
+inevitable,7107,vocab-inevitable,Challenging,wordFamily,2,2
+inevitably,7108,vocab-inevitably,Challenging,antonyms; antonymNote; synonyms; wordFamily,0,2
+inference,7109,vocab-inference,Intermediate,antonyms; antonymNote; wordFamily,0,2
+infinitive,7110,vocab-infinitive,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+inform,7111,vocab-inform,Foundation,wordFamily,2,2
+information,7112,vocab-information,Foundation,antonyms; synonyms; wordFamily,1,3
+infrequent,7113,vocab-infrequent,Intermediate,antonyms; synonyms; urduMeaning; wordFamily,1,3
+ingenuity,7114,vocab-ingenuity,Advanced,wordFamily,2,1
+ingenuous,7115,vocab-ingenuous,Challenging,wordFamily,2,1
+ingrained,7116,vocab-ingrained,Intermediate,wordFamily,2,1
+inherently,7117,vocab-inherently,Intermediate,wordFamily,2,2
+inhibition,7118,vocab-inhibition,Advanced,antonyms; synonyms; example; wordFamily,1,2
+initially,7119,vocab-initially,Intermediate,wordFamily,2,2
+injurious,7120,vocab-injurious,Intermediate,wordFamily,2,2
+injury,7121,vocab-injury,Intermediate,antonyms; antonymNote; meaning; urduMeaning; wordFamily,0,2
+innocence,7122,vocab-innocence,Advanced,antonyms; synonyms; wordFamily,2,2
+innovate,7123,vocab-innovate,Intermediate,antonyms; wordFamily,1,2
+innovator,7124,vocab-innovator,Intermediate,antonyms; synonyms; wordFamily,1,2
+insane,7125,vocab-insane,Advanced,antonyms; synonyms; meaning; urduMeaning; usageNotes; wordFamily,2,2
+insecticide,7126,vocab-insecticide,Challenging,antonyms; antonymNote; synonyms; wordFamily,0,1
+insert,7127,vocab-insert,Advanced,,2,1
+inside,7128,vocab-inside,Intermediate,synonyms; antonyms; collocations,1,1
+insight,7129,vocab-insight,Challenging,,2,2
+insipid,7130,vocab-insipid,Advanced,antonyms; collocations,2,1
+insistence,7131,vocab-insistence,Intermediate,antonyms; synonyms,1,2
+insolvent,7132,vocab-insolvent,Advanced,synonyms; antonyms,1,2
+instantaneous,7133,vocab-instantaneous,Challenging,synonyms,2,2
+instigate,7134,vocab-instigate,Intermediate,,2,2
+institute,7135,vocab-institute,Intermediate,antonyms; antonymNote; synonyms,0,2
+instruction,7136,vocab-instruction,Advanced,antonyms; antonymNote,0,2
+insubordination,7137,vocab-insubordination,Challenging,,2,2
+insular,7138,vocab-insular,Challenging,,2,1
+insurance,7139,vocab-insurance,Advanced,antonyms; antonymNote; synonyms,0,2
+intellect,7140,vocab-intellect,Advanced,antonyms; antonymNote; synonyms,0,1
+intensification,7141,vocab-intensification,Advanced,,2,2
+intention,7142,vocab-intention,Foundation,antonyms; antonymNote,0,2
+intently,7143,vocab-intently,Intermediate,wordFamily; synonyms,2,1
+interacting,7144,vocab-interacting,Intermediate,urduMeaning; example; synonyms; antonyms; antonymNote,0,2
+interconnect,7145,vocab-interconnect,Advanced,collocations,2,2
+interconnected,7146,vocab-interconnected,Advanced,,2,2
+interconnection,7147,vocab-interconnection,Advanced,,2,2
+interdependence,7148,vocab-interdependence,Challenging,synonyms; antonyms,1,2
+interdependent,7149,vocab-interdependent,Intermediate,urduMeaning; synonyms; antonyms,1,2
+interestingly,7150,vocab-interestingly,Intermediate,synonyms; antonyms; antonymNote,0,2
+interim,7151,vocab-interim,Advanced,wordFamily; wordFamilyNote; antonyms,1,0
+intermediary,7152,vocab-intermediary,Intermediate,antonyms; antonymNote; wordFamily; collocations,0,1
+intermission,7153,vocab-intermission,Challenging,wordFamily; wordFamilyNote; antonyms; antonymNote,0,0
+internal,7154,vocab-internal,Advanced,synonyms; antonyms,2,3
+international,7155,vocab-international,Advanced,antonyms,1,2
+interrelated,7156,vocab-interrelated,Intermediate,,2,2
+interrupted,7157,vocab-interrupted,Advanced,,2,2
+interval,7158,vocab-interval,Advanced,wordFamily; wordFamilyNote; antonyms; antonymNote; example,0,0
+interventionist,7159,vocab-interventionist,Advanced,synonyms; antonyms,1,2
+intimidate,7160,vocab-intimidate,Advanced,,2,2
+intonation,7161,vocab-intonation,Advanced,synonyms; antonyms; antonymNote,0,1
+intricate,7162,vocab-intricate,Advanced,,2,1
+intrigue,7163,vocab-intrigue,Intermediate,antonyms; collocations,1,1
+intrigued,7164,vocab-intrigued,Advanced,,2,2
+intrinsic,7165,vocab-intrinsic,Challenging,synonyms; antonyms,1,1
+introspective,7166,vocab-introspective,Advanced,wordFamily; urduMeaning,2,3
+intrude,7167,vocab-intrude,Advanced,antonyms; collocations,1,2
+intuition,7168,vocab-intuition,Advanced,antonyms; antonymNote,0,2
+intuitively,7169,vocab-intuitively,Advanced,synonyms; antonyms,1,2
+invading,7170,vocab-invading,Advanced,antonyms; collocations,1,2
+invaluable,7171,vocab-invaluable,Intermediate,,2,2
+inverse,7172,vocab-inverse,Intermediate,antonyms,1,2
+inversely,7173,vocab-inversely,Intermediate,synonyms; antonyms,1,2
+inverted,7174,vocab-inverted,Intermediate,antonyms,2,2
+invigorate,7175,vocab-invigorate,Advanced,,2,2
+invoked,7176,vocab-invoked,Challenging,antonyms; collocations,1,2
+involuntary,7177,vocab-involuntary,Challenging,,2,2
+involve,7178,vocab-involve,Intermediate,,2,2
+irksome,7179,vocab-irksome,Advanced,antonyms,2,1
+irregularly,7180,vocab-irregularly,Advanced,,2,2
+irresponsible,7181,vocab-irresponsible,Advanced,synonyms,2,2
+italics,7182,vocab-italics,Intermediate,synonyms; antonyms,1,2
+item,7183,vocab-item,Intermediate,antonyms; antonymNote; synonyms,0,1
+itinerant,7184,vocab-itinerant,Advanced,wordFamily; synonyms; urduMeaning,2,2
+jaundiced,7185,vocab-jaundiced,Advanced,meaning; urduMeaning; synonyms; antonyms; collocations,2,1
+jaunty,7186,vocab-jaunty,Advanced,,2,1
+jeopardy,7187,vocab-jeopardy,Advanced,,2,1
+jettison,7188,vocab-jettison,Advanced,wordFamily; wordFamilyNote,2,0
+job,7189,vocab-job,Advanced,wordFamily; antonyms; antonymNote,0,2
+jocose,7190,vocab-jocose,Advanced,,2,1
+jocund,7191,vocab-jocund,Advanced,,2,1
+journey,7192,vocab-journey,Intermediate,wordFamily; wordFamilyNote; antonyms; antonymNote,0,0
+jubilant,7193,vocab-jubilant,Advanced,,2,1
+judicious,7194,vocab-judicious,Advanced,,2,2
+jurisdiction,7195,vocab-jurisdiction,Challenging,antonyms; antonymNote; synonyms; collocations,0,1
+justifiable,7196,vocab-justifiable,Intermediate,,2,2
+justified,7197,vocab-justified,Intermediate,,2,2
+juvenile,7198,vocab-juvenile,Advanced,,2,1
+ken,7199,vocab-ken,Advanced,wordFamily; wordFamilyNote; antonyms; antonymNote,0,0
+kindle,7200,vocab-kindle,Advanced,wordFamily,2,2
+kindness,7201,vocab-kindness,Intermediate,,2,2
+knack,7202,vocab-knack,Advanced,wordFamily; wordFamilyNote,2,0
+knave,7203,vocab-knave,Advanced,antonyms,1,1
+knoll,7204,vocab-knoll,Advanced,wordFamily; wordFamilyNote; antonyms; antonymNote; synonyms,0,0
+knowledge,7205,vocab-knowledge,Foundation,,2,2
+known,7206,vocab-known,Foundation,,2,2
+knuckle,7207,vocab-knuckle,Intermediate,wordFamily; wordFamilyNote; antonyms; antonymNote; synonyms; collocations,0,0
+label,7208,vocab-label,Advanced,antonyms; antonymNote; collocations,0,2
+labeled,7209,vocab-labeled,Intermediate,synonyms; antonyms; example,1,2
+labor,7210,vocab-labor,Foundation,,2,1
+labor-intensive,7211,vocab-labor-intensive,Advanced,synonyms; antonyms,1,1
+laborious,7212,vocab-laborious,Advanced,,2,2
+lacerate,7213,vocab-lacerate,Advanced,meaning; urduMeaning; synonyms; antonyms; collocations,1,1
+lackluster,7214,vocab-lackluster,Advanced,wordFamily; wordFamilyNote,2,0
+laissez-faire,7215,vocab-laissez-faire,Intermediate,wordFamily; wordFamilyNote,2,0
+language,7216,vocab-language,Foundation,antonyms; antonymNote; synonyms; wordFamily,0,3
+lantern,7217,vocab-lantern,Intermediate,wordFamily; wordFamilyNote; antonyms; antonymNote; synonyms,0,0
+large-scale,7218,vocab-large-scale,Intermediate,,2,1
+largely,7219,vocab-largely,Foundation,antonyms; collocations,2,1
+laudable,7220,vocab-laudable,Intermediate,,2,1
+lavish,7221,vocab-lavish,Advanced,,2,1
+layer,7222,vocab-layer,Intermediate,antonyms; antonymNote; synonyms,0,1
+learning,7223,vocab-learning,Intermediate,antonyms; antonymNote,0,2
+lecture,7224,vocab-lecture,Advanced,antonyms; antonymNote; synonyms,0,1
+legitimately,7225,vocab-legitimately,Advanced,,2,2
+leisure,7226,vocab-leisure,Intermediate,,2,2
+lesion,7227,vocab-lesion,Advanced,wordFamily; wordFamilyNote; antonyms; antonymNote; synonyms,0,0
+lethal,7228,vocab-lethal,Advanced,,2,1
+lethargic,7229,vocab-lethargic,Challenging,,2,1
+level,7230,vocab-level,Foundation,antonyms; antonymNote; synonyms,0,1
+licence,7231,vocab-licence,Advanced,,2,2
+lieutenant,7232,vocab-lieutenant,Advanced,wordFamily; wordFamilyNote; antonyms; antonymNote; synonyms; meaning; urduMeaning,0,0
+lifelong,7233,vocab-lifelong,Intermediate,,2,1
+lightning,7234,vocab-lightning,Intermediate,wordFamily; wordFamilyNote; antonyms; antonymNote; synonyms,0,0
+likewise,7235,vocab-likewise,Challenging,wordFamily; wordFamilyNote; synonyms; antonyms,1,0
+limit,7236,vocab-limit,Foundation,antonyms; antonymNote; synonyms,0,2
+linguistic,7237,vocab-linguistic,Advanced,synonyms; antonyms; wordFamily,1,3
+link,7238,vocab-link,Intermediate,,2,3
+linkage,7239,vocab-linkage,Intermediate,,2,1
+listen,7240,vocab-listen,Intermediate,synonyms,2,2
+local,7241,vocab-local,Intermediate,synonyms; antonyms,1,2
+locally,7242,vocab-locally,Intermediate,synonyms; antonyms,1,2
+location,7243,vocab-location,Intermediate,antonyms; antonymNote; wordFamily,0,3
+locus,7244,vocab-locus,Intermediate,antonyms; antonymNote; wordFamily; synonyms; meaning; urduMeaning; collocations,0,3
+lofty,7245,vocab-lofty,Advanced,meaning; urduMeaning; synonyms; antonyms; collocations,2,1
+logic,7246,vocab-logic,Advanced,,2,3
+logical,7247,vocab-logical,Intermediate,,2,2
+loneliness,7248,vocab-loneliness,Challenging,urduMeaning; synonyms; antonyms,2,1
+long-lasting,7249,vocab-long-lasting,Intermediate,wordFamily,2,2
+long-standing,7250,vocab-long-standing,Intermediate,wordFamily; wordFamilyNote,2,0
+longer-term,7251,vocab-longer-term,Intermediate,wordFamily; wordFamilyNote; meaning; synonyms; antonyms; urduMeaning,1,0
+loquacious,7252,vocab-loquacious,Advanced,,2,1
+low,7253,vocab-low,Foundation,wordFamily; synonyms; antonyms,1,2
+lucid,7254,vocab-lucid,Challenging,meaning; synonyms; antonyms,2,1
+lucrative,7255,vocab-lucrative,Advanced,synonyms,2,1
+ludicrous,7256,vocab-ludicrous,Advanced,,2,1
+luminescent,7257,vocab-luminescent,Advanced,synonyms; antonyms,1,1
+luminous,7258,vocab-luminous,Advanced,meaning; synonyms; antonyms; collocations,2,1
+lunacy,7259,vocab-lunacy,Advanced,meaning; synonyms; antonyms; usageNotes,2,1
+machiavellian,7260,vocab-machiavellian,Challenging,,2,1
+magistrate,7261,vocab-magistrate,Advanced,antonyms; antonymNote; synonyms,0,1
+magnificent,7262,vocab-magnificent,Advanced,,2,2
+magnitude,7263,vocab-magnitude,Advanced,wordFamily; wordFamilyNote; antonyms; antonymNote; meaning; urduMeaning,0,0
+mainly,7264,vocab-mainly,Foundation,antonyms; collocations,1,1
+malady,7265,vocab-malady,Advanced,wordFamily; wordFamilyNote; meaning; urduMeaning; synonyms; antonyms; antonymNote,0,0
+male,7266,vocab-male,Foundation,synonyms; synonymNote; antonyms,1,1
+male-female,7267,vocab-male-female,Advanced,synonyms; antonyms; antonymNote,0,2
+malediction,7268,vocab-malediction,Challenging,wordFamily; wordFamilyNote,2,0
+malice,7269,vocab-malice,Advanced,,2,1
+malicious,7270,vocab-malicious,Advanced,synonyms; antonyms,2,2
+malleable,7271,vocab-malleable,Intermediate,urduMeaning,2,1
+management,7272,vocab-management,Foundation,,2,3
+manager,7273,vocab-manager,Intermediate,antonyms; antonymNote,0,2
+manipulation,7274,vocab-manipulation,Challenging,antonyms; antonymNote; meaning; synonyms; urduMeaning,0,2
+manner,7275,vocab-manner,Foundation,antonyms; antonymNote; wordFamily; collocations,0,2
+map,7276,vocab-map,Intermediate,antonyms; antonymNote,0,1
+mapping,7277,vocab-mapping,Intermediate,antonyms; antonymNote; synonyms,0,1
+marked,7278,vocab-marked,Intermediate,,2,2
+markedly,7279,vocab-markedly,Intermediate,,2,2
+martyrdom,7280,vocab-martyrdom,Advanced,antonyms; antonymNote; synonyms,0,1
+massive,7281,vocab-massive,Intermediate,,2,1
+mastership,7282,vocab-mastership,Challenging,meaning; urduMeaning; synonyms; collocations; example; usageNotes; antonyms; antonymNote,0,2
+material,7283,vocab-material,Foundation,antonyms; antonymNote; synonyms,0,1
+mature,7284,vocab-mature,Challenging,,2,1
+maturity,7285,vocab-maturity,Challenging,antonyms,1,1
+maximization,7286,vocab-maximization,Advanced,synonyms; antonyms,1,2
+maximum,7287,vocab-maximum,Intermediate,collocations,2,2
+meagre,7288,vocab-meagre,Advanced,,2,1
+meaning,7289,vocab-meaning,Foundation,antonyms,1,2
+meaningfulness,7290,vocab-meaningfulness,Advanced,,2,2
+meanwhile,7291,vocab-meanwhile,Advanced,wordFamily; wordFamilyNote; antonyms; antonymNote; synonyms; collocations,0,0
+mechanical,7292,vocab-mechanical,Advanced,meaning; synonyms; antonyms; collocations; antonymNote,0,2
+mechanics,7293,vocab-mechanics,Advanced,meaning; urduMeaning; synonyms; collocations; antonyms; antonymNote,0,2
+mechanization,7294,vocab-mechanization,Challenging,synonyms; antonyms; antonymNote,0,2
+media,7295,vocab-media,Advanced,antonyms; antonymNote; synonyms,0,1
+mediating,7296,vocab-mediating,Intermediate,meaning; urduMeaning; synonyms; antonyms; collocations; antonymNote,0,2
+medical,7297,vocab-medical,Advanced,antonyms,1,2
+medicine,7298,vocab-medicine,Intermediate,meaning; urduMeaning; synonyms; collocations; antonyms; antonymNote,0,2
+meditate,7299,vocab-meditate,Advanced,antonyms; antonymNote; meaning; urduMeaning; collocations,0,2
+melodious,7300,vocab-melodious,Advanced,,2,1
+menial,7301,vocab-menial,Intermediate,wordFamily; wordFamilyNote,2,0
+mental,7302,vocab-mental,Advanced,,2,2
+mentality,7303,vocab-mentality,Advanced,antonyms; antonymNote,0,1
+merciless,7304,vocab-merciless,Advanced,meaning; synonyms; collocations; urduMeaning,2,1
+mesmerized,7305,vocab-mesmerized,Advanced,,2,2
+metallurgy,7306,vocab-metallurgy,Intermediate,synonyms; antonyms; antonymNote,0,2
+metaphor,7307,vocab-metaphor,Intermediate,synonyms; antonyms; antonymNote,0,2
+method,7308,vocab-method,Intermediate,antonyms; antonymNote,0,3
+methodically,7309,vocab-methodically,Advanced,synonyms,2,2
+methodological,7310,vocab-methodological,Intermediate,synonyms; antonyms; antonymNote,0,2
+midpoint,7311,vocab-midpoint,Intermediate,wordFamily; wordFamilyNote; synonyms; example; antonyms; antonymNote,0,0
+migrate,7312,vocab-migrate,Intermediate,antonyms,1,2
+migratory,7313,vocab-migratory,Advanced,synonyms,2,2
+military,7314,vocab-military,Challenging,synonyms; antonyms,1,1
+militate,7315,vocab-militate,Intermediate,wordFamily; wordFamilyNote; meaning; urduMeaning; synonyms; collocations; antonyms; antonymNote,0,0
+mill,7316,vocab-mill,Intermediate,antonyms; antonymNote; synonyms,0,2
+miller,7317,vocab-miller,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,2
+millionaire,7318,vocab-millionaire,Advanced,urduMeaning; synonyms; antonyms; antonymNote,0,1
+mingle,7319,vocab-mingle,Advanced,,2,1
+minimal,7320,vocab-minimal,Challenging,,2,2
+minimised,7321,vocab-minimised,Challenging,,2,2
+minimization,7322,vocab-minimization,Advanced,synonyms; antonyms,1,2
+minority,7323,vocab-minority,Intermediate,synonyms; antonyms,1,1
+miraculous,7324,vocab-miraculous,Advanced,,2,2
+misadventure,7325,vocab-misadventure,Challenging,,2,1
+miserable,7326,vocab-miserable,Advanced,,2,2
+misinterpretation,7327,vocab-misinterpretation,Advanced,synonyms; antonyms,1,2
+mitigating,7328,vocab-mitigating,Advanced,,2,2
+mode,7329,vocab-mode,Advanced,antonyms; antonymNote,0,1
+modem,7330,vocab-modem,Foundation,wordFamily; wordFamilyNote; meaning; urduMeaning; synonyms; antonyms; antonymNote,0,0
+moderately,7331,vocab-moderately,Intermediate,synonyms; antonyms,1,2
+modified,7332,vocab-modified,Advanced,wordFamily; antonyms,2,3
+mollify,7333,vocab-mollify,Challenging,,2,1
+moment,7334,vocab-moment,Intermediate,antonyms; antonymNote; synonyms,0,1
+monopolistic,7335,vocab-monopolistic,Advanced,synonyms; antonyms,1,2
+monopoly,7336,vocab-monopoly,Intermediate,synonyms; antonyms,1,2
+monotonous,7337,vocab-monotonous,Advanced,,2,2
+moralistic,7338,vocab-moralistic,Intermediate,,2,2
+morality,7339,vocab-morality,Foundation,meaning; synonyms; antonyms,1,2
+morose,7340,vocab-morose,Challenging,,2,1
+motif,7341,vocab-motif,Intermediate,wordFamily; wordFamilyNote; antonyms; antonymNote,0,0
+motivating,7342,vocab-motivating,Intermediate,,2,2
+mountain,7343,vocab-mountain,Intermediate,synonyms; antonyms; antonymNote,0,1
+movement,7344,vocab-movement,Foundation,meaning; urduMeaning; synonyms; collocations; antonyms; antonymNote,0,1
+multidisciplinary,7345,vocab-multidisciplinary,Intermediate,synonyms; antonyms,1,1
+multilayered,7346,vocab-multilayered,Advanced,,2,1
+multimedia,7347,vocab-multimedia,Intermediate,urduMeaning; synonyms; antonyms; antonymNote,0,1
+multiple,7348,vocab-multiple,Foundation,,2,1
+multiply,7349,vocab-multiply,Intermediate,meaning; urduMeaning; synonyms; antonyms; collocations,1,2
+mundane,7350,vocab-mundane,Challenging,,2,1
+murder,7351,vocab-murder,Intermediate,synonyms; antonyms; antonymNote,0,2
+muscle,7352,vocab-muscle,Intermediate,synonyms; antonyms; antonymNote,0,1
+mutable,7353,vocab-mutable,Advanced,,2,2
+mutually,7354,vocab-mutually,Intermediate,synonyms; antonyms,1,2
+myriad,7355,vocab-myriad,Intermediate,wordFamily; wordFamilyNote; urduMeaning; synonyms; antonyms; collocations,1,0
+mystery,7356,vocab-mystery,Intermediate,antonyms; antonymNote,0,1
+mystic,7357,vocab-mystic,Advanced,synonyms; urduMeaning; antonyms; antonymNote,0,2
+myth,7358,vocab-myth,Foundation,meaning; urduMeaning; synonyms; antonyms; collocations; wordFamily,2,3
+namely,7359,vocab-namely,Foundation,wordFamily; wordFamilyNote; synonyms; collocations; antonyms; antonymNote,0,0
+narration,7360,vocab-narration,Advanced,antonyms; antonymNote; synonyms,0,2
+nasty,7361,vocab-nasty,Advanced,meaning; synonyms; antonyms; collocations,1,1
+nation-building,7362,vocab-nation-building,Advanced,synonyms; antonyms; antonymNote; wordFamily; wordFamilyNote,0,0
+natural,7363,vocab-natural,Foundation,synonyms; antonyms,2,2
+nature,7364,vocab-nature,Foundation,meaning; urduMeaning; synonyms; collocations; antonyms; antonymNote,0,1
+nauseate,7365,vocab-nauseate,Advanced,antonyms; antonymNote,0,2
+nearsightedly,7366,vocab-nearsightedly,Advanced,meaning; urduMeaning; synonyms; antonyms; usageNotes,1,1
+necessary,7367,vocab-necessary,Foundation,,2,2
+necessity,7368,vocab-necessity,Intermediate,,2,3
+negative,7369,vocab-negative,Intermediate,meaning; synonyms; antonyms; collocations,2,2
+negatively,7370,vocab-negatively,Intermediate,synonyms; antonyms,2,2
+neighbourhood,7371,vocab-neighbourhood,Advanced,antonyms; antonymNote,0,1
+neighbours,7372,vocab-neighbours,Intermediate,synonyms; antonyms; antonymNote,0,2
+nervous,7373,vocab-nervous,Intermediate,meaning; synonyms; antonyms; collocations,2,2
+net,7374,vocab-net,Foundation,wordFamily; wordFamilyNote; synonyms; antonyms,1,0
+network,7375,vocab-network,Advanced,antonyms; antonymNote,0,2
+networked,7376,vocab-networked,Intermediate,urduMeaning,2,2
+neurosis,7377,vocab-neurosis,Intermediate,synonyms; synonymNote; antonyms; usageNotes; antonymNote,0,1
+neutrality,7378,vocab-neutrality,Intermediate,synonyms; antonyms,2,2
+nicety,7379,vocab-nicety,Advanced,meaning; synonyms; collocations; antonyms; antonymNote,0,1
+non-white,7380,vocab-non-white,Intermediate,wordFamily; wordFamilyNote; synonyms; synonymNote; antonyms; usageNotes,1,0
+nonchalance,7381,vocab-nonchalance,Advanced,,2,1
+nondescript,7382,vocab-nondescript,Advanced,wordFamily; urduMeaning,2,1
+nonetheless,7383,vocab-nonetheless,Challenging,antonyms; antonymNote; wordFamily; wordFamilyNote,0,0
+normal,7384,vocab-normal,Intermediate,,2,2
+nostalgic,7385,vocab-nostalgic,Advanced,urduMeaning; synonyms; antonyms; antonymNote,0,1
+note,7386,vocab-note,Foundation,,2,2
+notion,7387,vocab-notion,Advanced,antonyms; antonymNote,0,2
+notorious,7388,vocab-notorious,Advanced,antonyms; collocations,1,1
+novice,7389,vocab-novice,Challenging,,2,1
+nuance,7390,vocab-nuance,Advanced,antonyms; antonymNote,0,1
+nuanced,7391,vocab-nuanced,Intermediate,urduMeaning,2,1
+numb,7392,vocab-numb,Advanced,synonyms; antonyms; collocations,1,1
+numerous,7393,vocab-numerous,Foundation,urduMeaning; synonyms; antonyms,1,1
+oar,7394,vocab-oar,Intermediate,synonyms; antonyms; antonymNote; wordFamily; synonymNote,0,2
+obedient,7395,vocab-obedient,Advanced,,2,2
+object,7396,vocab-object,Intermediate,antonyms; antonymNote; wordFamily; synonyms,0,2
+oblivion,7397,vocab-oblivion,Advanced,meaning; synonyms; antonyms; urduMeaning,2,1
+obnoxious,7398,vocab-obnoxious,Advanced,,2,1
+observation,7399,vocab-observation,Foundation,synonyms; antonyms; antonymNote,0,3
+observer,7400,vocab-observer,Foundation,antonyms; antonymNote; synonyms,0,2
+obsessed,7401,vocab-obsessed,Advanced,,2,2
+obstacle,7402,vocab-obstacle,Foundation,wordFamily; wordFamilyNote; antonyms,2,0
+obtained,7403,vocab-obtained,Intermediate,,2,2
+obvious,7404,vocab-obvious,Advanced,,2,1
+occasional,7405,vocab-occasional,Challenging,synonyms; antonyms,2,2
+occupational,7406,vocab-occupational,Challenging,synonyms; antonyms,1,2
+occur,7407,vocab-occur,Intermediate,antonyms; antonymNote,0,3
+odd,7408,vocab-odd,Challenging,meaning; urduMeaning; synonyms; antonyms; collocations,2,2
+offend,7409,vocab-offend,Intermediate,meaning; synonyms; antonyms; collocations,1,2
+offspring,7410,vocab-offspring,Intermediate,wordFamily; wordFamilyNote,2,0
+ongoing,7411,vocab-ongoing,Challenging,wordFamily; wordFamilyNote,2,0
+onwards,7412,vocab-onwards,Intermediate,urduMeaning; synonyms; antonyms,1,1
+opaque,7413,vocab-opaque,Challenging,meaning; synonyms; antonyms; collocations,2,1
+openness,7414,vocab-openness,Intermediate,meaning; urduMeaning; synonyms; antonyms; collocations,1,1
+opportunistic,7415,vocab-opportunistic,Challenging,wordFamily; antonyms,1,3
+opportunity,7416,vocab-opportunity,Advanced,antonyms; antonymNote; synonyms,0,2
+oppress,7417,vocab-oppress,Advanced,,2,2
+oppressed,7418,vocab-oppressed,Intermediate,,2,2
+opulent,7419,vocab-opulent,Advanced,urduMeaning; antonyms,2,1
+oration,7420,vocab-oration,Advanced,antonyms; antonymNote; synonyms,0,2
+organism,7421,vocab-organism,Advanced,antonyms; antonymNote; synonyms,0,1
+organization,7422,vocab-organization,Foundation,antonyms; antonymNote,0,3
+organize,7423,vocab-organize,Foundation,,2,2
+orifice,7424,vocab-orifice,Advanced,wordFamily; wordFamilyNote; antonyms; antonymNote; synonyms,0,0
+originator,7425,vocab-originator,Intermediate,collocations,2,2
+ostracize,7426,vocab-ostracize,Advanced,,2,1
+outmoded,7427,vocab-outmoded,Intermediate,,2,1
+output,7428,vocab-output,Advanced,antonyms; wordFamily; wordFamilyNote,1,0
+outreach,7429,vocab-outreach,Intermediate,antonyms; antonymNote; synonyms,0,1
+overconfident,7430,vocab-overconfident,Challenging,synonyms; antonyms,1,2
+overgrazing,7431,vocab-overgrazing,Advanced,synonyms; antonyms; antonymNote; wordFamily,0,3
+overhanging,7432,vocab-overhanging,Advanced,synonyms; antonyms; antonymNote,0,1
+overlap,7433,vocab-overlap,Challenging,synonyms,2,1
+overseas,7434,vocab-overseas,Advanced,wordFamily; wordFamilyNote; synonyms; antonyms,2,0
+overture,7435,vocab-overture,Advanced,wordFamily; wordFamilyNote; meaning; synonyms; collocations; antonyms; antonymNote,0,0
+overview,7436,vocab-overview,Foundation,wordFamily; wordFamilyNote; synonyms; antonyms; antonymNote,0,0
+oxymoron,7437,vocab-oxymoron,Advanced,synonyms; antonyms; antonymNote,0,1
+oyster,7438,vocab-oyster,Intermediate,wordFamily; wordFamilyNote; synonyms; synonymNote; antonyms; antonymNote,0,0
+pacific,7439,vocab-pacific,Intermediate,,2,1
+package,7440,vocab-package,Intermediate,meaning; urduMeaning; synonyms; collocations; antonyms; antonymNote,0,1
+palatable,7441,vocab-palatable,Advanced,meaning; urduMeaning; synonyms; antonyms; collocations,2,1
+paltry,7442,vocab-paltry,Advanced,wordFamily; wordFamilyNote,2,0
+panoply,7443,vocab-panoply,Intermediate,wordFamily; wordFamilyNote; antonyms; antonymNote,0,0
+paragraph,7444,vocab-paragraph,Challenging,antonyms; antonymNote; synonyms,0,1
+paramount,7445,vocab-paramount,Advanced,wordFamily; wordFamilyNote,2,0
+paraphrasing,7446,vocab-paraphrasing,Advanced,antonyms; antonymNote,0,1
+parent,7447,vocab-parent,Intermediate,meaning; urduMeaning; synonyms; antonyms; collocations,2,2
+parenthesis,7448,vocab-parenthesis,Intermediate,meaning; urduMeaning; synonyms; collocations; example; antonyms; antonymNote,0,1
+parlance,7449,vocab-parlance,Intermediate,wordFamily; wordFamilyNote; antonyms; antonymNote; synonyms,0,0
+participating,7450,vocab-participating,Intermediate,antonyms; collocations,1,2
+participle,7451,vocab-participle,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+particularly,7452,vocab-particularly,Advanced,synonyms; antonyms; wordFamily,1,2
+passionate,7453,vocab-passionate,Advanced,,2,2
+passive,7454,vocab-passive,Challenging,meaning; synonyms; antonyms; collocations,1,2
+passively,7455,vocab-passively,Intermediate,synonyms; antonyms,1,2
+patience,7456,vocab-patience,Intermediate,,2,2
+patriotism,7457,vocab-patriotism,Advanced,synonyms; antonyms,1,2
+patronized,7458,vocab-patronized,Challenging,synonyms; antonyms; collocations,1,2
+pearl,7459,vocab-pearl,Intermediate,synonyms; synonymNote; antonyms; antonymNote,0,1
+peasant,7460,vocab-peasant,Intermediate,synonyms; antonyms; antonymNote,0,1
+peculiarly,7461,vocab-peculiarly,Intermediate,meaning; urduMeaning; synonyms; antonyms; example; collocations; antonymNote,0,2
+pedagogical,7462,vocab-pedagogical,Advanced,synonyms; antonyms,1,1
+peer-reviewed,7463,vocab-peer-reviewed,Advanced,synonyms; antonyms; wordFamily; usageNotes,1,2
+pensive,7464,vocab-pensive,Advanced,wordFamily,1,2
+perceive,7465,vocab-perceive,Intermediate,,2,3
+percent,7466,vocab-percent,Intermediate,antonyms; antonymNote; synonyms; synonymNote,0,1
+percentage,7467,vocab-percentage,Intermediate,antonyms; antonymNote; synonyms,0,1
+perfection,7468,vocab-perfection,Advanced,synonyms; wordFamily,2,3
+perform,7469,vocab-perform,Foundation,antonyms; antonymNote,0,2
+perhaps,7470,vocab-perhaps,Intermediate,wordFamily; wordFamilyNote,2,0
+period,7471,vocab-period,Intermediate,antonyms; antonymNote,0,3
+periodic,7472,vocab-periodic,Intermediate,urduMeaning; collocations,2,2
+periodically,7473,vocab-periodically,Intermediate,,2,2
+permeable,7474,vocab-permeable,Intermediate,antonyms,1,2
+permit,7475,vocab-permit,Foundation,,2,2
+perpetually,7476,vocab-perpetually,Advanced,urduMeaning,2,1
+perpetuate,7477,vocab-perpetuate,Intermediate,,2,2
+persistently,7478,vocab-persistently,Advanced,,2,2
+personality,7479,vocab-personality,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,2
+personification,7480,vocab-personification,Challenging,synonyms; urduMeaning; wordFamily,0,2
+persuaded,7481,vocab-persuaded,Advanced,synonyms,2,2
+persuasiveness,7482,vocab-persuasiveness,Advanced,antonyms; antonymNote; synonyms,0,2
+pervasive,7483,vocab-pervasive,Intermediate,,2,2
+pesticide,7484,vocab-pesticide,Advanced,antonyms; antonymNote; synonyms; synonymNote,0,1
+petroleum,7485,vocab-petroleum,Intermediate,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,0
+pharmacology,7486,vocab-pharmacology,Challenging,antonyms; antonymNote; synonyms,0,2
+philosophy,7487,vocab-philosophy,Intermediate,antonyms; antonymNote,0,3
+physical,7488,vocab-physical,Intermediate,,2,1
+pickling,7489,vocab-pickling,Advanced,antonyms; antonymNote; synonyms,0,1
+piercing,7490,vocab-piercing,Advanced,,2,1
+piqued,7491,vocab-piqued,Advanced,antonyms; antonymNote; synonyms; meaning; urduMeaning; wordFamily,0,1
+pitch,7492,vocab-pitch,Intermediate,antonyms; antonymNote; synonyms; synonymNote; meaning; urduMeaning; collocations,0,0
+placate,7493,vocab-placate,Challenging,,2,1
+placid,7494,vocab-placid,Advanced,,2,1
+planet,7495,vocab-planet,Intermediate,antonyms; antonymNote; synonyms,0,1
+plank,7496,vocab-plank,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations; wordFamily; wordFamilyNote,0,0
+plaque,7497,vocab-plaque,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations; wordFamily; wordFamilyNote,0,0
+plashless,7498,vocab-plashless,Intermediate,urduMeaning; example; usageNotes; meaning; synonyms; antonyms; antonymNote; collocations,0,1
+plaster,7499,vocab-plaster,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations,0,1
+pleasant,7500,vocab-pleasant,Intermediate,,2,2
+plus,7501,vocab-plus,Challenging,synonyms; antonyms,1,0
+pocket,7502,vocab-pocket,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations; wordFamily; wordFamilyNote,0,0
+pocketbook,7503,vocab-pocketbook,Advanced,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations,0,1
+poignant,7504,vocab-poignant,Challenging,antonyms,1,2
+poignantly,7505,vocab-poignantly,Intermediate,synonyms,2,2
+poison,7506,vocab-poison,Intermediate,antonyms; antonymNote; synonyms,0,1
+polarity,7507,vocab-polarity,Intermediate,antonyms; antonymNote; synonyms,0,2
+police,7508,vocab-police,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+popularly,7509,vocab-popularly,Intermediate,antonyms; antonymNote,0,2
+portability,7510,vocab-portability,Advanced,antonyms; antonymNote; synonyms,0,1
+portion,7511,vocab-portion,Challenging,antonyms; antonymNote,0,0
+posed,7512,vocab-posed,Challenging,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations,0,1
+posit,7513,vocab-posit,Intermediate,wordFamily; wordFamilyNote,2,0
+positive,7514,vocab-positive,Intermediate,synonyms; synonymNote; meaning; urduMeaning; antonyms; collocations,1,2
+positivist,7515,vocab-positivist,Intermediate,antonyms; antonymNote; synonyms,0,1
+poured,7516,vocab-poured,Intermediate,antonyms; antonymNote; synonyms,0,2
+poverty,7517,vocab-poverty,Foundation,,2,2
+powerlessness,7518,vocab-powerlessness,Advanced,,2,2
+practice,7519,vocab-practice,Intermediate,antonyms; antonymNote,0,2
+practitioner,7520,vocab-practitioner,Challenging,antonyms; antonymNote; synonyms,0,3
+pragmatically,7521,vocab-pragmatically,Advanced,,2,2
+preamble,7522,vocab-preamble,Advanced,antonyms; antonymNote,0,0
+preceding,7523,vocab-preceding,Advanced,,2,2
+precise,7524,vocab-precise,Foundation,wordFamily,2,2
+precision,7525,vocab-precision,Foundation,,2,1
+precocious,7526,vocab-precocious,Advanced,synonyms; antonyms; urduMeaning,1,1
+preconceived,7527,vocab-preconceived,Advanced,,2,2
+predicate,7528,vocab-predicate,Advanced,antonyms; antonymNote; synonyms; collocations,0,1
+predominance,7529,vocab-predominance,Advanced,antonyms; antonymNote,0,2
+preeminence,7530,vocab-preeminence,Intermediate,antonyms,1,1
+preferable,7531,vocab-preferable,Intermediate,urduMeaning,2,2
+preference,7532,vocab-preference,Intermediate,synonyms,2,2
+preferred,7533,vocab-preferred,Foundation,,2,2
+prejudiced,7534,vocab-prejudiced,Advanced,,2,1
+preparation,7535,vocab-preparation,Advanced,antonyms; antonymNote,0,2
+preposition,7536,vocab-preposition,Advanced,antonyms; antonymNote; synonyms; synonymNote; collocations; wordFamily,0,1
+prepositional,7537,vocab-prepositional,Advanced,antonyms; antonymNote; synonyms; synonymNote; wordFamily,0,1
+prescription,7538,vocab-prescription,Challenging,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations,0,1
+present,7539,vocab-present,Foundation,,2,2
+presentable,7540,vocab-presentable,Advanced,,2,1
+presentation,7541,vocab-presentation,Advanced,antonyms; antonymNote,0,2
+presenter,7542,vocab-presenter,Intermediate,antonyms; antonymNote,0,2
+preserving,7543,vocab-preserving,Intermediate,partOfSpeech; meaning; urduMeaning,2,2
+presumption,7544,vocab-presumption,Advanced,antonyms; antonymNote,0,2
+presuppose,7545,vocab-presuppose,Intermediate,antonyms; antonymNote,0,1
+pretended,7546,vocab-pretended,Advanced,,2,2
+previous,7547,vocab-previous,Intermediate,,2,1
+prime,7548,vocab-prime,Advanced,,2,1
+principality,7549,vocab-principality,Advanced,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,0
+printed,7550,vocab-printed,Intermediate,synonyms; antonyms,1,2
+printing,7551,vocab-printing,Intermediate,antonyms; antonymNote; synonyms,0,2
+prior,7552,vocab-prior,Advanced,,2,2
+prioritising,7553,vocab-prioritising,Advanced,,2,2
+privileged,7554,vocab-privileged,Intermediate,,2,1
+probable,7555,vocab-probable,Intermediate,urduMeaning,2,2
+probably,7556,vocab-probably,Intermediate,antonyms; antonymNote; synonyms,0,2
+problem-solving,7557,vocab-problem-solving,Advanced,antonyms; antonymNote,0,1
+problematic,7558,vocab-problematic,Intermediate,,2,1
+processing,7559,vocab-processing,Intermediate,antonyms; antonymNote,0,2
+procession,7560,vocab-procession,Advanced,antonyms; antonymNote,0,1
+proclamation,7561,vocab-proclamation,Challenging,antonyms; antonymNote,0,1
+procrastinating,7562,vocab-procrastinating,Advanced,antonyms; antonymNote; synonyms,0,2
+prodigal,7563,vocab-prodigal,Advanced,,2,1
+produce,7564,vocab-produce,Foundation,antonyms,1,2
+product,7565,vocab-product,Foundation,antonyms; antonymNote,0,2
+profession,7566,vocab-profession,Intermediate,antonyms; antonymNote,0,1
+professionalism,7567,vocab-professionalism,Intermediate,synonyms; antonyms,1,2
+professionalization,7568,vocab-professionalization,Challenging,antonyms; antonymNote; synonyms; synonymNote; wordFamily,0,2
+profitably,7569,vocab-profitably,Intermediate,antonyms,1,2
+profoundly,7570,vocab-profoundly,Intermediate,,2,2
+profuse,7571,vocab-profuse,Advanced,collocations,2,1
+progeny,7572,vocab-progeny,Advanced,antonyms; antonymNote; wordFamily; wordFamilyNote,0,0
+prohibited,7573,vocab-prohibited,Advanced,,2,2
+prohibitive,7574,vocab-prohibitive,Intermediate,,2,2
+project,7575,vocab-project,Advanced,antonyms; antonymNote; wordFamily; wordFamilyNote,0,0
+prolific,7576,vocab-prolific,Advanced,,2,1
+prominent,7577,vocab-prominent,Foundation,,2,1
+promotion,7578,vocab-promotion,Foundation,antonyms; meaning; urduMeaning; synonyms; collocations,1,2
+prone,7579,vocab-prone,Advanced,antonyms; meaning; urduMeaning; synonyms; collocations,1,1
+proofreading,7580,vocab-proofreading,Advanced,antonyms; antonymNote; synonyms; synonymNote; wordFamily,0,2
+proportionally,7581,vocab-proportionally,Advanced,synonyms; antonyms; wordFamily,1,2
+proportionately,7582,vocab-proportionately,Advanced,synonyms; antonyms; wordFamily,1,2
+proposed,7583,vocab-proposed,Foundation,antonyms; antonymNote,0,2
+proscribe,7584,vocab-proscribe,Intermediate,,2,1
+prosecute,7585,vocab-prosecute,Advanced,antonyms; antonymNote; synonyms,0,2
+prosecutor,7586,vocab-prosecutor,Advanced,antonyms; antonymNote; synonyms,0,2
+prosperous,7587,vocab-prosperous,Advanced,,2,2
+protecting,7588,vocab-protecting,Advanced,,2,2
+protection,7589,vocab-protection,Foundation,antonyms,1,2
+protest,7590,vocab-protest,Intermediate,,2,1
+protocol,7591,vocab-protocol,Challenging,antonyms; antonymNote; wordFamily; wordFamilyNote,0,0
+prototype,7592,vocab-prototype,Advanced,antonyms; antonymNote; synonyms,0,1
+provide,7593,vocab-provide,Foundation,,2,2
+provident,7594,vocab-provident,Advanced,,2,2
+psyche,7595,vocab-psyche,Intermediate,antonyms; antonymNote; synonyms; urduMeaning,0,1
+psychology,7596,vocab-psychology,Advanced,antonyms; antonymNote; synonyms,0,2
+public,7597,vocab-public,Intermediate,synonyms; antonyms; meaning; urduMeaning; collocations,2,2
+publish,7598,vocab-publish,Intermediate,,2,3
+published,7599,vocab-published,Intermediate,,2,2
+punctually,7600,vocab-punctually,Challenging,synonyms,2,2
+punctuation,7601,vocab-punctuation,Advanced,antonyms; antonymNote; synonyms,0,1
+purchase,7602,vocab-purchase,Intermediate,,2,1
+purification,7603,vocab-purification,Advanced,,2,2
+purify,7604,vocab-purify,Intermediate,synonyms; meaning,2,2
+puzzling,7605,vocab-puzzling,Intermediate,urduMeaning,2,1
+quack,7606,vocab-quack,Advanced,antonyms; antonymNote; synonyms; urduMeaning,0,1
+quadrangle,7607,vocab-quadrangle,Challenging,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations,0,1
+quadrant,7608,vocab-quadrant,Intermediate,antonyms; antonymNote; synonyms,0,0
+quality,7609,vocab-quality,Foundation,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations,0,1
+qualm,7610,vocab-qualm,Advanced,collocations,2,0
+quantifiable,7611,vocab-quantifiable,Advanced,synonyms; antonyms,1,2
+quantity,7612,vocab-quantity,Foundation,antonyms; antonymNote,0,2
+quarrelling,7613,vocab-quarrelling,Advanced,,2,1
+quarry,7614,vocab-quarry,Advanced,antonyms; antonymNote; synonyms,0,1
+quash,7615,vocab-quash,Advanced,synonyms; meaning; urduMeaning; collocations,2,0
+quaver,7616,vocab-quaver,Advanced,antonyms; antonymNote,0,1
+quavering,7617,vocab-quavering,Advanced,,2,1
+quell,7618,vocab-quell,Advanced,,2,0
+query,7619,vocab-query,Intermediate,antonyms; antonymNote,0,0
+quirk,7620,vocab-quirk,Advanced,antonyms; antonymNote,0,1
+quizzical,7621,vocab-quizzical,Advanced,,2,1
+quotation,7622,vocab-quotation,Advanced,antonyms; antonymNote; synonyms,0,2
+racial,7623,vocab-racial,Foundation,synonyms; antonyms,1,2
+radiance,7624,vocab-radiance,Advanced,,2,1
+radically,7625,vocab-radically,Intermediate,antonyms,2,1
+ragged,7626,vocab-ragged,Advanced,,2,1
+rancid,7627,vocab-rancid,Advanced,synonyms; meaning; urduMeaning,2,1
+rancor,7628,vocab-rancor,Challenging,,2,1
+random,7629,vocab-random,Challenging,synonyms; meaning; urduMeaning; example,2,2
+range,7630,vocab-range,Intermediate,antonyms; antonymNote,0,1
+rapid,7631,vocab-rapid,Foundation,antonyms,1,2
+rapidity,7632,vocab-rapidity,Intermediate,antonyms,1,2
+rational,7633,vocab-rational,Advanced,,2,2
+rationally,7634,vocab-rationally,Intermediate,antonyms,1,2
+reached,7635,vocab-reached,Intermediate,antonyms; antonymNote,0,1
+reaction,7636,vocab-reaction,Intermediate,antonyms; antonymNote,0,2
+readily,7637,vocab-readily,Foundation,antonyms,2,2
+readjustment,7638,vocab-readjustment,Intermediate,antonyms; antonymNote,0,2
+realization,7639,vocab-realization,Intermediate,antonyms; meaning; urduMeaning; synonyms; collocations,2,1
+rearrangement,7640,vocab-rearrangement,Advanced,antonyms; antonymNote,0,2
+reasoned,7641,vocab-reasoned,Intermediate,,2,2
+reassessment,7642,vocab-reassessment,Intermediate,antonyms; antonymNote,0,2
+recast,7643,vocab-recast,Intermediate,antonyms; antonymNote,0,1
+receptivity,7644,vocab-receptivity,Advanced,synonyms; urduMeaning,2,2
+recipient,7645,vocab-recipient,Foundation,antonyms; antonymNote,0,2
+reclamation,7646,vocab-reclamation,Intermediate,,2,1
+reclusiveness,7647,vocab-reclusiveness,Advanced,,2,2
+recognize,7648,vocab-recognize,Foundation,,2,3
+recollection,7649,vocab-recollection,Challenging,,2,1
+reconfigure,7650,vocab-reconfigure,Intermediate,antonyms; antonymNote,0,2
+reconstruction,7651,vocab-reconstruction,Intermediate,,2,2
+recoverable,7652,vocab-recoverable,Advanced,antonyms,1,2
+recovered,7653,vocab-recovered,Intermediate,meaning; synonyms; collocations; antonyms,1,2
+recovery,7654,vocab-recovery,Advanced,,2,1
+recreational,7655,vocab-recreational,Intermediate,synonyms; antonyms; antonymNote,0,2
+recruited,7656,vocab-recruited,Advanced,,2,2
+recycle,7657,vocab-recycle,Intermediate,synonyms,2,2
+redefinition,7658,vocab-redefinition,Advanced,antonyms; antonymNote,0,2
+redistribute,7659,vocab-redistribute,Advanced,,2,2
+reduce,7660,vocab-reduce,Foundation,,2,2
+reformer,7661,vocab-reformer,Intermediate,,2,1
+reforming,7662,vocab-reforming,Intermediate,,2,2
+refuge,7663,vocab-refuge,Advanced,,2,1
+refusal,7664,vocab-refusal,Intermediate,,2,1
+regard,7665,vocab-regard,Foundation,collocations,2,1
+registered,7666,vocab-registered,Advanced,synonyms,2,2
+regular,7667,vocab-regular,Intermediate,,2,2
+reintegrate,7668,vocab-reintegrate,Intermediate,,2,2
+reinterpretation,7669,vocab-reinterpretation,Advanced,antonyms; antonymNote,0,2
+rejected,7670,vocab-rejected,Advanced,,2,2
+rejection,7671,vocab-rejection,Foundation,,2,1
+relate,7672,vocab-relate,Foundation,urduMeaning,2,2
+relational,7673,vocab-relational,Intermediate,antonyms; antonymNote; synonyms; synonymNote; urduMeaning; wordFamily,0,2
+relationship,7674,vocab-relationship,Foundation,,2,3
+relative,7675,vocab-relative,Foundation,synonyms; antonyms,1,2
+relaxed,7676,vocab-relaxed,Challenging,,2,2
+release,7677,vocab-release,Advanced,,2,0
+reliably,7678,vocab-reliably,Intermediate,synonyms,2,2
+relinquish,7679,vocab-relinquish,Advanced,,2,1
+rely,7680,vocab-rely,Foundation,synonyms; collocations,2,2
+remained,7681,vocab-remained,Intermediate,,2,2
+remarkable,7682,vocab-remarkable,Challenging,,2,2
+remember,7683,vocab-remember,Intermediate,,2,2
+remembered,7684,vocab-remembered,Advanced,partOfSpeech; meaning; synonyms; urduMeaning; antonyms,1,2
+reminiscence,7685,vocab-reminiscence,Challenging,,2,2
+removed,7686,vocab-removed,Intermediate,partOfSpeech; meaning; synonyms; antonyms; urduMeaning,2,2
+reorganization,7687,vocab-reorganization,Intermediate,antonyms; antonymNote,0,2
+repeated,7688,vocab-repeated,Foundation,urduMeaning,2,2
+repetitive,7689,vocab-repetitive,Intermediate,,2,2
+reported,7690,vocab-reported,Foundation,,2,2
+represent,7691,vocab-represent,Foundation,synonyms; antonyms,1,2
+reproach,7692,vocab-reproach,Challenging,collocations,2,1
+reproduce,7693,vocab-reproduce,Advanced,synonyms; antonyms; antonymNote; meaning; urduMeaning; collocations,0,2
+repulsive,7694,vocab-repulsive,Advanced,,2,2
+reputation,7695,vocab-reputation,Advanced,synonyms; antonyms; antonymNote; wordFamily,0,2
+requested,7696,vocab-requested,Intermediate,antonyms; antonymNote,0,1
+require,7697,vocab-require,Intermediate,,2,3
+requisite,7698,vocab-requisite,Intermediate,,2,1
+researcher,7699,vocab-researcher,Foundation,antonyms; antonymNote,0,1
+reshaped,7700,vocab-reshaped,Intermediate,antonyms; antonymNote,0,2
+resident,7701,vocab-resident,Intermediate,,2,2
+residential,7702,vocab-residential,Intermediate,synonyms; usageNotes,2,2
+resolute,7703,vocab-resolute,Advanced,,2,2
+respectability,7704,vocab-respectability,Advanced,synonyms,2,2
+responsibility,7705,vocab-responsibility,Advanced,antonyms,1,2
+restructuring,7706,vocab-restructuring,Intermediate,antonyms; antonymNote; urduMeaning,0,2
+result,7707,vocab-result,Foundation,antonyms; antonymNote,0,2
+resultant,7708,vocab-resultant,Intermediate,antonyms; antonymNote; collocations,0,1
+resulting,7709,vocab-resulting,Foundation,antonyms; antonymNote,0,1
+retained,7710,vocab-retained,Advanced,,2,2
+retired,7711,vocab-retired,Advanced,synonyms; antonyms,2,2
+retirement,7712,vocab-retirement,Challenging,antonyms; antonymNote; synonyms,0,1
+reveal,7713,vocab-reveal,Advanced,,2,2
+revealed,7714,vocab-revealed,Advanced,,2,2
+reverberating,7715,vocab-reverberating,Challenging,synonyms; urduMeaning; collocations,2,2
+review,7716,vocab-review,Foundation,antonyms; antonymNote,0,1
+revised,7717,vocab-revised,Intermediate,,2,2
+revitalization,7718,vocab-revitalization,Advanced,urduMeaning,2,1
+revolt,7719,vocab-revolt,Advanced,wordFamily,2,2
+reward,7720,vocab-reward,Intermediate,,2,1
+ridiculous,7721,vocab-ridiculous,Advanced,,2,3
+righteousness,7722,vocab-righteousness,Challenging,,2,1
+rigid,7723,vocab-rigid,Challenging,,2,1
+rigidity,7724,vocab-rigidity,Intermediate,,2,1
+rigorous,7725,vocab-rigorous,Intermediate,,2,2
+rocket,7726,vocab-rocket,Intermediate,antonyms; antonymNote; synonyms; synonymNote,0,1
+role-play,7727,vocab-role-play,Advanced,antonyms; antonymNote,0,1
+rooted,7728,vocab-rooted,Intermediate,,2,1
+rosemary,7729,vocab-rosemary,Advanced,antonyms; antonymNote; synonyms; synonymNote; wordFamily; wordFamilyNote,0,0
+route,7730,vocab-route,Challenging,antonyms; antonymNote,0,1
+rugged,7731,vocab-rugged,Advanced,,2,1
+ruinous,7732,vocab-ruinous,Advanced,,2,1
+rupture,7733,vocab-rupture,Advanced,urduMeaning; antonyms; antonymNote,0,1
+rusted,7734,vocab-rusted,Intermediate,synonyms; antonyms,1,2
+rustic,7735,vocab-rustic,Advanced,,2,1
+sacrilegious,7736,vocab-sacrilegious,Challenging,antonyms,1,1
+saddle,7737,vocab-saddle,Advanced,antonyms; antonymNote; synonyms,0,0
+safely,7738,vocab-safely,Intermediate,,2,2
+saffron,7739,vocab-saffron,Advanced,antonyms; antonymNote; synonyms; synonymNote; wordFamily; wordFamilyNote,0,0
+sage,7740,vocab-sage,Intermediate,synonyms; antonyms; wordFamily,1,1
+salubrious,7741,vocab-salubrious,Advanced,,2,1
+sample,7742,vocab-sample,Intermediate,antonyms; antonymNote; synonyms,0,1
+sanatorium,7743,vocab-sanatorium,Challenging,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,0
+sanitary,7744,vocab-sanitary,Challenging,,2,2
+sarcastic,7745,vocab-sarcastic,Advanced,,2,1
+satire,7746,vocab-satire,Advanced,antonyms; antonymNote; synonyms,0,2
+savory,7747,vocab-savory,Advanced,synonyms; antonyms; meaning; urduMeaning; collocations,1,1
+scaffold,7748,vocab-scaffold,Advanced,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations,0,1
+scanty,7749,vocab-scanty,Advanced,,2,1
+scarce,7750,vocab-scarce,Intermediate,,2,1
+sceptic,7751,vocab-sceptic,Advanced,antonyms,1,2
+schedule,7752,vocab-schedule,Challenging,antonyms; antonymNote; wordFamily,0,3
+scholarly,7753,vocab-scholarly,Foundation,antonyms,1,2
+scholarship,7754,vocab-scholarship,Challenging,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations,0,1
+schoolroom,7755,vocab-schoolroom,Intermediate,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,0
+science,7756,vocab-science,Foundation,antonyms; antonymNote; synonyms; synonymNote,0,2
+scientific,7757,vocab-scientific,Challenging,synonyms; antonyms,1,2
+scornful,7758,vocab-scornful,Intermediate,,2,2
+scorpion,7759,vocab-scorpion,Intermediate,antonyms; antonymNote; synonyms; synonymNote; wordFamily; wordFamilyNote,0,0
+sealed,7760,vocab-sealed,Intermediate,,2,1
+seam,7761,vocab-seam,Intermediate,antonyms; antonymNote; synonyms,0,1
+seamstress,7762,vocab-seamstress,Intermediate,antonyms; antonymNote; wordFamily; wordFamilyNote,0,0
+secluded,7763,vocab-secluded,Intermediate,antonyms,2,2
+seclusion,7764,vocab-seclusion,Advanced,,2,2
+secondarily,7765,vocab-secondarily,Advanced,synonyms,2,2
+section,7766,vocab-section,Intermediate,antonyms; antonymNote,0,2
+sedate,7767,vocab-sedate,Advanced,wordFamily,2,2
+seek,7768,vocab-seek,Intermediate,antonyms,1,3
+segregation,7769,vocab-segregation,Intermediate,meaning; urduMeaning,2,1
+select,7770,vocab-select,Intermediate,,2,3
+self-awareness,7771,vocab-self-awareness,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+self-defeating,7772,vocab-self-defeating,Advanced,wordFamily,2,1
+self-evident,7773,vocab-self-evident,Advanced,antonyms; antonymNote; wordFamily; wordFamilyNote,0,0
+self-sacrifice,7774,vocab-self-sacrifice,Advanced,wordFamily,2,1
+self-selected,7775,vocab-self-selected,Advanced,antonyms; antonymNote; wordFamily,0,1
+self-serving,7776,vocab-self-serving,Intermediate,synonyms; wordFamily; wordFamilyNote,2,0
+seminal,7777,vocab-seminal,Intermediate,antonyms; antonymNote,0,0
+sending,7778,vocab-sending,Intermediate,collocations,2,1
+sensory,7779,vocab-sensory,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,3
+sequencing,7780,vocab-sequencing,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations,0,1
+serene,7781,vocab-serene,Advanced,,2,1
+series,7782,vocab-series,Advanced,antonyms; antonymNote,0,1
+seriousness,7783,vocab-seriousness,Advanced,,2,2
+servant,7784,vocab-servant,Intermediate,antonyms; antonymNote,0,2
+setting,7785,vocab-setting,Intermediate,antonyms; antonymNote,0,1
+settled,7786,vocab-settled,Intermediate,meaning; urduMeaning; synonyms; collocations,2,2
+sewage,7787,vocab-sewage,Advanced,antonyms; antonymNote; synonyms,0,1
+sex,7788,vocab-sex,Intermediate,antonyms; antonymNote; synonyms; synonymNote; meaning; urduMeaning,0,1
+shabby,7789,vocab-shabby,Intermediate,antonyms; meaning; urduMeaning; collocations,2,1
+shadow,7790,vocab-shadow,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations,0,1
+shambled,7791,vocab-shambled,Advanced,antonyms; antonymNote; synonyms,0,1
+shaping,7792,vocab-shaping,Intermediate,antonyms; antonymNote; partOfSpeech; meaning; urduMeaning; wordFamily,0,2
+shift,7793,vocab-shift,Intermediate,,2,2
+shilling,7794,vocab-shilling,Intermediate,antonyms; antonymNote; synonyms; synonymNote; wordFamily; wordFamilyNote,0,0
+shining,7795,vocab-shining,Intermediate,synonyms; antonyms; meaning; urduMeaning; collocations,2,1
+shoreless,7796,vocab-shoreless,Advanced,meaning; urduMeaning,2,1
+short,7797,vocab-short,Foundation,,2,2
+short-term,7798,vocab-short-term,Foundation,synonyms; antonyms; wordFamily; wordFamilyNote,1,0
+shoulder,7799,vocab-shoulder,Intermediate,antonyms; antonymNote; synonyms; synonymNote; meaning; collocations; wordFamily; wordFamilyNote,0,0
+shrugged,7800,vocab-shrugged,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,2
+sighing,7801,vocab-sighing,Intermediate,antonyms; antonymNote; synonyms; urduMeaning; collocations; wordFamily,0,2
+silence,7802,vocab-silence,Intermediate,synonyms; antonyms; wordFamily,1,1
+silently,7803,vocab-silently,Intermediate,wordFamily,2,2
+similar,7804,vocab-similar,Intermediate,synonyms,2,3
+simulated,7805,vocab-simulated,Intermediate,synonyms; wordFamily,2,2
+simulation,7806,vocab-simulation,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+sine,7807,vocab-sine,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; usageNotes; wordFamily,0,1
+sinew,7808,vocab-sinew,Advanced,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations; wordFamily,0,1
+site,7809,vocab-site,Intermediate,antonyms; antonymNote; wordFamily,0,2
+situation,7810,vocab-situation,Advanced,antonyms; antonymNote; wordFamily,0,1
+skating,7811,vocab-skating,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,2
+skeptical,7812,vocab-skeptical,Challenging,synonyms; wordFamily,2,2
+sketching,7813,vocab-sketching,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; wordFamily,0,1
+skilled,7814,vocab-skilled,Foundation,antonyms; wordFamily,1,2
+slender,7815,vocab-slender,Advanced,antonyms; wordFamily,1,1
+slipped,7816,vocab-slipped,Intermediate,antonyms; antonymNote; synonyms; meaning; collocations; wordFamily,0,2
+slot,7817,vocab-slot,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; wordFamily,0,2
+snatch,7818,vocab-snatch,Intermediate,wordFamily,2,2
+so-called,7819,vocab-so-called,Challenging,synonyms; wordFamily; wordFamilyNote,2,0
+socioeconomic,7820,vocab-socioeconomic,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+sociology,7821,vocab-sociology,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,3
+sojourn,7822,vocab-sojourn,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+solace,7823,vocab-solace,Advanced,antonyms; wordFamily,1,2
+solely,7824,vocab-solely,Advanced,synonyms; antonyms; wordFamily,1,1
+solicitous,7825,vocab-solicitous,Challenging,wordFamily,2,1
+solitude,7826,vocab-solitude,Intermediate,antonyms; wordFamily,1,1
+solution,7827,vocab-solution,Foundation,synonyms; meaning; wordFamily,2,2
+somewhat,7828,vocab-somewhat,Advanced,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,0
+somewhere,7829,vocab-somewhere,Advanced,antonyms; synonyms; wordFamily; wordFamilyNote,1,0
+sordid,7830,vocab-sordid,Advanced,antonyms; wordFamily,1,1
+southeastern,7831,vocab-southeastern,Intermediate,antonyms; synonyms; wordFamily,1,1
+spaceship,7832,vocab-spaceship,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+span,7833,vocab-span,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; wordFamily,0,2
+spatial,7834,vocab-spatial,Foundation,antonyms; synonyms; wordFamily,1,2
+specific,7835,vocab-specific,Intermediate,wordFamily,2,3
+specifically,7836,vocab-specifically,Intermediate,wordFamily,2,2
+specification,7837,vocab-specification,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,2
+specified,7838,vocab-specified,Advanced,antonyms; wordFamily,1,2
+speck,7839,vocab-speck,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+spectacle,7840,vocab-spectacle,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+speculation,7841,vocab-speculation,Challenging,antonyms; antonymNote; synonyms; meaning; wordFamily,0,2
+spirit,7842,vocab-spirit,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; wordFamily,0,2
+splendid,7843,vocab-splendid,Intermediate,wordFamily,2,1
+splenetic,7844,vocab-splenetic,Advanced,antonyms; wordFamily,1,1
+sponsored,7845,vocab-sponsored,Intermediate,synonyms; antonyms; wordFamily,1,2
+sprightliness,7846,vocab-sprightliness,Challenging,wordFamily,2,1
+sprightly,7847,vocab-sprightly,Intermediate,wordFamily,2,1
+squander,7848,vocab-squander,Advanced,wordFamily,2,2
+squatted,7849,vocab-squatted,Intermediate,synonyms; meaning; collocations; wordFamily,2,2
+squirrel,7850,vocab-squirrel,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+stabilizing,7851,vocab-stabilizing,Intermediate,antonyms; wordFamily,1,2
+stable,7852,vocab-stable,Foundation,wordFamily,2,2
+stagnate,7853,vocab-stagnate,Intermediate,synonyms; collocations; wordFamily,2,1
+standardize,7854,vocab-standardize,Intermediate,synonyms; collocations; wordFamily,2,2
+standing,7855,vocab-standing,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+stanza,7856,vocab-stanza,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+stared,7857,vocab-stared,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+started,7858,vocab-started,Intermediate,synonyms; collocations; wordFamily,2,2
+starved,7859,vocab-starved,Advanced,synonyms; antonyms; meaning; urduMeaning; collocations; wordFamily,1,2
+state-sponsored,7860,vocab-state-sponsored,Advanced,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,0
+statistical,7861,vocab-statistical,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,2
+statistics,7862,vocab-statistics,Intermediate,antonyms; antonymNote; synonyms; usageNotes; wordFamily,0,3
+staunch,7863,vocab-staunch,Advanced,wordFamily,2,1
+stereotype,7864,vocab-stereotype,Intermediate,antonyms; antonymNote; wordFamily,0,1
+sterility,7865,vocab-sterility,Intermediate,wordFamily,2,2
+stipulate,7866,vocab-stipulate,Intermediate,wordFamily,2,1
+stoic,7867,vocab-stoic,Challenging,antonyms; antonymNote; synonyms; wordFamily,0,2
+stoop,7868,vocab-stoop,Advanced,antonyms; wordFamily,1,1
+stout,7869,vocab-stout,Advanced,wordFamily,2,1
+straightforward,7870,vocab-straightforward,Challenging,antonyms; wordFamily,1,1
+strengthen,7871,vocab-strengthen,Foundation,wordFamily,2,2
+strengthening,7872,vocab-strengthening,Intermediate,antonyms; wordFamily,1,2
+stress,7873,vocab-stress,Advanced,synonyms; meaning; wordFamily,2,2
+striking,7874,vocab-striking,Foundation,antonyms; wordFamily,1,1
+string,7875,vocab-string,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; wordFamily,0,1
+structure,7876,vocab-structure,Intermediate,antonymNote; wordFamily,0,3
+structured,7877,vocab-structured,Intermediate,wordFamily,2,1
+study,7878,vocab-study,Foundation,antonyms; antonymNote; synonyms; meaning; urduMeaning; wordFamily,0,2
+stung,7879,vocab-stung,Intermediate,synonyms; collocations; wordFamily; meaning; urduMeaning; antonyms; antonymNote,0,1
+stupefied,7880,vocab-stupefied,Advanced,wordFamily,2,1
+style,7881,vocab-style,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,2
+subdivide,7882,vocab-subdivide,Intermediate,wordFamily,2,2
+subgroup,7883,vocab-subgroup,Intermediate,antonyms; antonymNote; wordFamily,0,1
+subject,7884,vocab-subject,Foundation,antonyms; antonymNote; synonyms; meaning; urduMeaning; wordFamily,0,1
+submitted,7885,vocab-submitted,Advanced,synonyms; antonyms; meaning; urduMeaning; wordFamily,1,2
+subset,7886,vocab-subset,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+subsidiary,7887,vocab-subsidiary,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+subsistence,7888,vocab-subsistence,Challenging,antonyms; antonymNote; wordFamily,0,1
+subtle,7889,vocab-subtle,Advanced,wordFamily,2,2
+succeeding,7890,vocab-succeeding,Intermediate,synonyms; antonyms; meaning; wordFamily,1,2
+successful,7891,vocab-successful,Foundation,synonyms; antonyms; wordFamily,1,2
+successfully,7892,vocab-successfully,Intermediate,wordFamily,2,2
+successive,7893,vocab-successive,Advanced,,2,3
+successively,7894,vocab-successively,Advanced,synonyms; wordFamily,2,2
+successor,7895,vocab-successor,Intermediate,synonyms; wordFamily,2,2
+succinctly,7896,vocab-succinctly,Intermediate,wordFamily,2,2
+suddenly,7897,vocab-suddenly,Intermediate,synonyms; antonyms; wordFamily,1,1
+sufficiency,7898,vocab-sufficiency,Intermediate,synonyms; antonyms; wordFamily,1,1
+sufficient,7899,vocab-sufficient,Advanced,wordFamily,2,2
+suggest,7900,vocab-suggest,Foundation,synonyms; antonyms; antonymNote; meaning; urduMeaning; collocations; wordFamily,0,2
+suitability,7901,vocab-suitability,Advanced,wordFamily,2,2
+sum,7902,vocab-sum,Advanced,synonyms; antonyms; antonymNote; wordFamily,0,1
+summary,7903,vocab-summary,Advanced,antonymNote; wordFamily,0,2
+summation,7904,vocab-summation,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; wordFamily,0,1
+superficiality,7905,vocab-superficiality,Challenging,wordFamily,2,2
+superimpose,7906,vocab-superimpose,Intermediate,antonyms; antonymNote,0,2
+superiority,7907,vocab-superiority,Intermediate,antonyms; wordFamily,1,1
+superstition,7908,vocab-superstition,Challenging,antonyms; antonymNote; synonyms; wordFamily,0,1
+supplementary,7909,vocab-supplementary,Challenging,antonyms; antonymNote; synonyms; wordFamily,0,1
+support,7910,vocab-support,Foundation,synonyms; antonyms; meaning; urduMeaning; collocations; wordFamily,1,2
+supported,7911,vocab-supported,Intermediate,synonyms; antonyms; wordFamily,1,2
+suppression,7912,vocab-suppression,Intermediate,synonyms; antonyms; meaning; urduMeaning; collocations; wordFamily,1,1
+surface,7913,vocab-surface,Intermediate,antonyms; antonymNote; wordFamily,0,1
+surprised,7914,vocab-surprised,Advanced,antonyms; antonymNote; wordFamily,0,2
+surprisingly,7915,vocab-surprisingly,Advanced,wordFamily,2,2
+surrendered,7916,vocab-surrendered,Advanced,wordFamily,2,1
+surrounding,7917,vocab-surrounding,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,2
+survive,7918,vocab-survive,Advanced,synonyms; wordFamily,2,2
+suspense,7919,vocab-suspense,Intermediate,wordFamily,2,2
+suspicion,7920,vocab-suspicion,Advanced,wordFamily,2,2
+suspicious,7921,vocab-suspicious,Advanced,synonyms; meaning; wordFamily,2,2
+suspiciously,7922,vocab-suspiciously,Advanced,synonyms; meaning; urduMeaning; wordFamily,2,2
+sustained,7923,vocab-sustained,Intermediate,wordFamily,2,2
+swat,7924,vocab-swat,Intermediate,antonyms; antonymNote; example; wordFamily; wordFamilyNote,0,0
+swelling,7925,vocab-swelling,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+swing,7926,vocab-swing,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; wordFamily,0,2
+switching,7927,vocab-switching,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+symbiotic,7928,vocab-symbiotic,Intermediate,synonyms; antonyms; antonymNote; meaning; urduMeaning; usageNotes; wordFamily,0,1
+symbolic,7929,vocab-symbolic,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,2
+symbolize,7930,vocab-symbolize,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,2
+synergy,7931,vocab-synergy,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+systematically,7932,vocab-systematically,Intermediate,synonyms; wordFamily,2,2
+table,7933,vocab-table,Foundation,antonyms; antonymNote; synonyms; wordFamily,0,1
+tabulation,7934,vocab-tabulation,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,2
+tacitly,7935,vocab-tacitly,Intermediate,synonyms; antonyms; wordFamily,1,1
+tantamount,7936,vocab-tantamount,Advanced,synonyms; antonyms; antonymNote; wordFamily; wordFamilyNote,0,0
+tape,7937,vocab-tape,Advanced,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations; wordFamily,0,2
+tapestry,7938,vocab-tapestry,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; usageNotes; collocations; wordFamily; wordFamilyNote,0,0
+task,7939,vocab-task,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+team,7940,vocab-team,Challenging,antonyms; antonymNote; synonyms; wordFamily,0,1
+teamwork,7941,vocab-teamwork,Intermediate,wordFamily,2,1
+technician,7942,vocab-technician,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,3
+technology,7943,vocab-technology,Intermediate,antonymNote; synonyms; wordFamily,0,3
+telebooks,7944,vocab-telebooks,Advanced,antonyms; antonymNote; synonyms; meaning; urduMeaning; example; usageNotes; wordFamily,0,1
+telephone,7945,vocab-telephone,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+temporary,7946,vocab-temporary,Challenging,wordFamily,2,1
+temptation,7947,vocab-temptation,Advanced,wordFamily,2,2
+tenacious,7948,vocab-tenacious,Advanced,wordFamily,2,1
+tenet,7949,vocab-tenet,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+terrible,7950,vocab-terrible,Intermediate,wordFamily,2,2
+terse,7951,vocab-terse,Advanced,wordFamily,2,2
+tested,7952,vocab-tested,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,2
+testimony,7953,vocab-testimony,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,2
+text,7954,vocab-text,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+theme,7955,vocab-theme,Challenging,antonyms; antonymNote; synonyms; wordFamily,0,1
+theoretically,7956,vocab-theoretically,Intermediate,wordFamily,2,2
+thereafter,7957,vocab-thereafter,Intermediate,wordFamily; wordFamilyNote,2,0
+thesaurus,7958,vocab-thesaurus,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,2
+thinker,7959,vocab-thinker,Intermediate,antonyms; antonymNote; wordFamily,0,2
+thinking,7960,vocab-thinking,Intermediate,antonyms; antonymNote; wordFamily,0,2
+third-party,7961,vocab-third-party,Intermediate,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,0
+threatening,7962,vocab-threatening,Advanced,wordFamily,2,2
+threefold,7963,vocab-threefold,Intermediate,antonyms; antonymNote; synonyms; collocations; wordFamily,0,1
+thrifty,7964,vocab-thrifty,Advanced,wordFamily,2,3
+thrived,7965,vocab-thrived,Intermediate,wordFamily,2,2
+thunder,7966,vocab-thunder,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+thwart,7967,vocab-thwart,Advanced,wordFamily,2,2
+thyme,7968,vocab-thyme,Intermediate,antonyms; antonymNote; synonyms; urduMeaning; usageNotes; wordFamily; wordFamilyNote,0,0
+tidal,7969,vocab-tidal,Advanced,antonyms; antonymNote; synonyms; collocations; wordFamily,0,1
+timidly,7970,vocab-timidly,Advanced,wordFamily,2,2
+tolerance,7971,vocab-tolerance,Foundation,antonyms,1,3
+tone,7972,vocab-tone,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; wordFamily,0,1
+tool,7973,vocab-tool,Foundation,antonyms; antonymNote; synonyms; wordFamily,0,1
+topic,7974,vocab-topic,Advanced,antonyms; antonymNote; wordFamily,0,1
+torment,7975,vocab-torment,Advanced,wordFamily,2,1
+tourism,7976,vocab-tourism,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,2
+trace,7977,vocab-trace,Advanced,antonyms; antonymNote; synonyms; collocations; example; wordFamily,0,1
+tracked,7978,vocab-tracked,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations; wordFamily,0,2
+tracker,7979,vocab-tracker,Intermediate,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations; wordFamily,0,2
+tradition,7980,vocab-tradition,Advanced,wordFamily,2,1
+traditional,7981,vocab-traditional,Intermediate,wordFamily,2,3
+traditionalist,7982,vocab-traditionalist,Advanced,wordFamily,2,2
+traditionally,7983,vocab-traditionally,Intermediate,wordFamily,2,2
+trait,7984,vocab-trait,Foundation,antonyms; antonymNote; synonyms; wordFamily,0,1
+tranquil,7985,vocab-tranquil,Advanced,wordFamily,2,1
+transcend,7986,vocab-transcend,Advanced,,2,3
+transcendentalist,7987,vocab-transcendentalist,Challenging,antonyms; antonymNote; synonyms; wordFamily,0,2
+transformative,7988,vocab-transformative,Challenging,wordFamily,2,2
+transfusion,7989,vocab-transfusion,Challenging,antonyms; antonymNote; synonyms; wordFamily,0,1
+transistor,7990,vocab-transistor,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+transport,7991,vocab-transport,Advanced,antonyms; wordFamily,1,2
+transportation,7992,vocab-transportation,Advanced,antonyms; wordFamily,1,1
+traumatic,7993,vocab-traumatic,Intermediate,antonyms; wordFamily,1,1
+treacherous,7994,vocab-treacherous,Advanced,antonyms; meaning; urduMeaning; collocations; wordFamily,1,1
+treachery,7995,vocab-treachery,Advanced,wordFamily,2,1
+treason,7996,vocab-treason,Advanced,antonyms; antonymNote; synonyms; usageNotes; wordFamily,0,1
+tremulous,7997,vocab-tremulous,Advanced,wordFamily,2,1
+trickling,7998,vocab-trickling,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+trivial,7999,vocab-trivial,Challenging,wordFamily,2,1
+trouble,8000,vocab-trouble,Intermediate,wordFamily,2,1
+truism,8001,vocab-truism,Intermediate,antonyms; antonymNote; wordFamily,0,1
+truncated,8002,vocab-truncated,Intermediate,synonyms; antonyms; wordFamily,1,2
+trustworthy,8003,vocab-trustworthy,Advanced,wordFamily,2,2
+turmoil,8004,vocab-turmoil,Advanced,antonyms; wordFamily; wordFamilyNote,2,0
+tyrant,8005,vocab-tyrant,Advanced,antonyms; antonymNote; wordFamily,0,2
+unambiguous,8006,vocab-unambiguous,Intermediate,antonyms; wordFamily,1,2
+unanimous,8007,vocab-unanimous,Advanced,antonyms; wordFamily,1,1
+unanticipated,8008,vocab-unanticipated,Advanced,antonyms; wordFamily,1,1
+unattainable,8009,vocab-unattainable,Advanced,wordFamily,2,2
+unavoidably,8010,vocab-unavoidably,Advanced,antonyms; wordFamily,1,2
+unawares,8011,vocab-unawares,Challenging,antonyms; antonymNote; synonyms; wordFamily,0,1
+unbiased,8012,vocab-unbiased,Intermediate,wordFamily,2,1
+uncanny,8013,vocab-uncanny,Advanced,wordFamily; wordFamilyNote,2,0
+uncomfortable,8014,vocab-uncomfortable,Advanced,antonyms; wordFamily,1,1
+unconditional,8015,vocab-unconditional,Advanced,synonyms; antonyms; wordFamily,1,2
+unconnected,8016,vocab-unconnected,Intermediate,wordFamily,2,1
+uncontested,8017,vocab-uncontested,Intermediate,synonyms; antonyms; wordFamily,1,1
+uncritical,8018,vocab-uncritical,Intermediate,wordFamily,2,1
+undefined,8019,vocab-undefined,Intermediate,wordFamily,2,1
+underdeveloped,8020,vocab-underdeveloped,Advanced,antonyms; wordFamily,1,2
+understandable,8021,vocab-understandable,Advanced,wordFamily,2,2
+understood,8022,vocab-understood,Advanced,antonyms; wordFamily,1,2
+undervalue,8023,vocab-undervalue,Intermediate,synonyms; antonyms; wordFamily,1,1
+undifferentiated,8024,vocab-undifferentiated,Advanced,synonyms; antonyms; wordFamily,1,1
+unequivocally,8025,vocab-unequivocally,Advanced,antonyms; wordFamily,1,2
+unexpected,8026,vocab-unexpected,Advanced,antonyms; wordFamily,1,2
+unfamiliar,8027,vocab-unfamiliar,Advanced,antonyms; wordFamily,1,2
+unfathomable,8028,vocab-unfathomable,Advanced,synonyms; antonyms; wordFamily,1,1
+unfavorable,8029,vocab-unfavorable,Intermediate,antonyms; wordFamily,1,1
+unhelpful,8030,vocab-unhelpful,Intermediate,antonyms; wordFamily,1,1
+unhesitatingly,8031,vocab-unhesitatingly,Challenging,antonyms; wordFamily,1,2
+unified,8032,vocab-unified,Intermediate,antonyms; wordFamily,1,2
+uniform,8033,vocab-uniform,Challenging,wordFamily,2,2
+uniformly,8034,vocab-uniformly,Intermediate,wordFamily,2,2
+unimpeded,8035,vocab-unimpeded,Intermediate,antonyms; wordFamily,1,1
+unique,8036,vocab-unique,Advanced,antonyms; antonymNote,0,2
+unity,8037,vocab-unity,Intermediate,wordFamily,2,2
+university,8038,vocab-university,Foundation,antonyms; antonymNote; synonyms; wordFamily,0,1
+unknowable,8039,vocab-unknowable,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+unpredictability,8040,vocab-unpredictability,Advanced,wordFamily,2,2
+unpredictable,8041,vocab-unpredictable,Challenging,wordFamily,2,2
+unquestionably,8042,vocab-unquestionably,Advanced,antonyms; wordFamily,1,2
+unrelated,8043,vocab-unrelated,Intermediate,synonyms; wordFamily,2,1
+unrolled,8044,vocab-unrolled,Intermediate,wordFamily,2,2
+unsurprisingly,8045,vocab-unsurprisingly,Advanced,wordFamily,2,2
+unsustainable,8046,vocab-unsustainable,Advanced,antonyms; wordFamily,1,2
+untrained,8047,vocab-untrained,Intermediate,antonyms; wordFamily,1,1
+unwarranted,8048,vocab-unwarranted,Intermediate,antonyms; wordFamily,1,1
+unwavering,8049,vocab-unwavering,Advanced,wordFamily,2,1
+unwieldy,8050,vocab-unwieldy,Advanced,wordFamily,2,1
+uprooted,8051,vocab-uprooted,Advanced,wordFamily,2,2
+urbanized,8052,vocab-urbanized,Intermediate,antonyms; antonymNote; wordFamily,0,2
+urgent,8053,vocab-urgent,Intermediate,antonyms; wordFamily,1,2
+usable,8054,vocab-usable,Intermediate,antonyms; wordFamily,1,2
+usage,8055,vocab-usage,Foundation,antonyms; antonymNote; synonyms; wordFamily,0,2
+use,8056,vocab-use,Foundation,antonyms; antonymNote; wordFamily,0,2
+useful,8057,vocab-useful,Foundation,antonyms; wordFamily,1,2
+usefully,8058,vocab-usefully,Intermediate,antonyms; wordFamily,1,2
+usefulness,8059,vocab-usefulness,Intermediate,antonyms; wordFamily,1,2
+user,8060,vocab-user,Foundation,antonyms; antonymNote; synonyms; wordFamily,0,2
+utilization,8061,vocab-utilization,Intermediate,synonyms; antonyms; wordFamily,1,2
+utopian,8062,vocab-utopian,Advanced,antonyms; antonymNote; wordFamily,0,1
+vacillation,8063,vocab-vacillation,Challenging,wordFamily,2,1
+vacuous,8064,vocab-vacuous,Challenging,antonyms; wordFamily,1,1
+vagrant,8065,vocab-vagrant,Advanced,antonyms; antonymNote; wordFamily,0,1
+vale,8066,vocab-vale,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+valiant,8067,vocab-valiant,Advanced,wordFamily,2,1
+valid,8068,vocab-valid,Foundation,wordFamily,2,2
+validity,8069,vocab-validity,Advanced,synonyms; antonyms; meaning; urduMeaning; collocations; wordFamily,1,3
+valley,8070,vocab-valley,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+valuable,8071,vocab-valuable,Foundation,,2,3
+value,8072,vocab-value,Foundation,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations; wordFamily,0,3
+vanquish,8073,vocab-vanquish,Advanced,synonyms; antonyms; antonymNote; wordFamily,0,1
+variant,8074,vocab-variant,Intermediate,antonyms; antonymNote; wordFamily,0,2
+various,8075,vocab-various,Foundation,antonyms; antonymNote; wordFamily,0,2
+vary,8076,vocab-vary,Foundation,synonyms; antonyms; antonymNote; wordFamily,0,2
+varying,8077,vocab-varying,Foundation,wordFamily,2,2
+vehicle,8078,vocab-vehicle,Challenging,antonyms; antonymNote; synonyms; collocations,0,1
+velvet,8079,vocab-velvet,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,1
+venerable,8080,vocab-venerable,Advanced,wordFamily,2,2
+venerate,8081,vocab-venerate,Intermediate,wordFamily,2,2
+verbose,8082,vocab-verbose,Advanced,wordFamily,2,1
+vessel,8083,vocab-vessel,Foundation,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations; wordFamily,0,1
+vested,8084,vocab-vested,Intermediate,synonyms; antonyms; antonymNote; meaning; urduMeaning; collocations; wordFamily,0,2
+vexatious,8085,vocab-vexatious,Advanced,antonyms; antonymNote; wordFamily,0,1
+vexing,8086,vocab-vexing,Intermediate,wordFamily,2,2
+via,8087,vocab-via,Challenging,antonyms; antonymNote; synonyms; wordFamily; wordFamilyNote,0,0
+vibrant,8088,vocab-vibrant,Intermediate,wordFamily,2,1
+vicious,8089,vocab-vicious,Advanced,wordFamily,2,2
+victory,8090,vocab-victory,Intermediate,wordFamily,2,1
+view,8091,vocab-view,Foundation,antonyms; antonymNote; synonyms; meaning; urduMeaning; collocations; wordFamily,0,2
+viewpoint,8092,vocab-viewpoint,Intermediate,antonymNote; wordFamily,0,2
+vigilant,8093,vocab-vigilant,Challenging,antonyms; wordFamily,1,1
+violent,8094,vocab-violent,Intermediate,wordFamily,2,2
+virtue,8095,vocab-virtue,Advanced,wordFamily,2,2
+visible,8096,vocab-visible,Advanced,wordFamily,2,2
+visual,8097,vocab-visual,Challenging,antonyms; antonymNote; synonyms; collocations; wordFamily,0,2
+vitally,8098,vocab-vitally,Intermediate,antonyms; antonymNote; wordFamily,0,2
+vivid,8099,vocab-vivid,Advanced,wordFamily,2,2
+waiting,8100,vocab-waiting,Intermediate,antonyms; antonymNote; synonyms; collocations; example; wordFamily,0,1
+wan,8101,vocab-wan,Advanced,synonyms; antonyms; wordFamily,1,1
+wandering,8102,vocab-wandering,Advanced,synonyms; antonyms; antonymNote; wordFamily,0,1
+wangle,8103,vocab-wangle,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,2
+wares,8104,vocab-wares,Intermediate,antonyms; antonymNote; synonyms; collocations; wordFamily,0,1
+warming,8105,vocab-warming,Intermediate,synonyms; wordFamily,2,2
+wary,8106,vocab-wary,Challenging,wordFamily,2,2
+waste,8107,vocab-waste,Foundation,synonyms; antonyms; meaning; urduMeaning; wordFamily,2,2
+wastebasket,8108,vocab-wastebasket,Advanced,antonyms; antonymNote; wordFamily,0,1
+watcher,8109,vocab-watcher,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,2
+water-rat,8110,vocab-water-rat,Advanced,antonyms; antonymNote; synonyms; meaning; collocations; wordFamily; wordFamilyNote,0,0
+weakness,8111,vocab-weakness,Foundation,wordFamily,2,2
+wealth,8112,vocab-wealth,Foundation,wordFamily,2,1
+weathered,8113,vocab-weathered,Advanced,synonyms; antonyms; antonymNote; meaning; urduMeaning; wordFamily,0,1
+wedding,8114,vocab-wedding,Intermediate,antonyms; antonymNote; synonyms; wordFamily,0,2
+well-designed,8115,vocab-well-designed,Advanced,synonyms; wordFamily; wordFamilyNote,2,0
+well-developed,8116,vocab-well-developed,Advanced,synonyms; wordFamily; wordFamilyNote,2,0
+wheelbarrow,8117,vocab-wheelbarrow,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+whereby,8118,vocab-whereby,Challenging,antonyms; antonymNote; synonyms; collocations; wordFamily; wordFamilyNote,0,0
+whiff,8119,vocab-whiff,Advanced,antonyms; antonymNote; synonyms; collocations; wordFamily,0,1
+whisper,8120,vocab-whisper,Intermediate,synonyms; wordFamily,2,2
+whispered,8121,vocab-whispered,Advanced,synonyms; antonyms; collocations; wordFamily,1,2
+whole,8122,vocab-whole,Foundation,wordFamily,2,2
+wholly,8123,vocab-wholly,Intermediate,wordFamily,2,2
+widely,8124,vocab-widely,Foundation,antonyms; wordFamily,1,2
+willingness,8125,vocab-willingness,Intermediate,wordFamily,2,2
+wistful,8126,vocab-wistful,Advanced,antonyms; antonymNote; wordFamily,0,2
+withdrew,8127,vocab-withdrew,Intermediate,synonyms; antonyms; antonymNote; meaning; wordFamily,0,2
+within,8128,vocab-within,Foundation,synonyms; antonyms; collocations; wordFamily; wordFamilyNote,1,0
+workshop,8129,vocab-workshop,Foundation,antonyms; antonymNote; synonyms; wordFamily,0,1
+wrangle,8130,vocab-wrangle,Advanced,synonyms; antonyms; collocations; wordFamily,1,2
+wrapped,8131,vocab-wrapped,Intermediate,wordFamily,2,2
+wry,8132,vocab-wry,Advanced,synonyms; antonyms; antonymNote; wordFamily,0,2
+yearn,8133,vocab-yearn,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+zeal,8134,vocab-zeal,Advanced,wordFamily,2,2
+zealous,8135,vocab-zealous,Challenging,wordFamily,2,2
+zephyr,8136,vocab-zephyr,Advanced,antonyms; antonymNote; synonyms; wordFamily,0,1
+zest,8137,vocab-zest,Advanced,synonyms; antonyms; meaning; urduMeaning; collocations; wordFamily,1,1

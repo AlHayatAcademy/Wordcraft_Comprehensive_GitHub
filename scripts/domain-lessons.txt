@@ -1,0 +1,225 @@
+# Everyday life|🏠|Describe routines, household tasks and practical needs.
+errand|noun|ضروری کام کے لیے باہر جانا|A short trip made to complete a practical task.|run an errand|I need to run an errand before I return home.
+chore|noun|گھر کا روزمرہ کام|A routine task, especially one done at home.|household chore|Washing the dishes is a household chore we share.
+laundry|noun|دھونے کے کپڑے|Clothes and other washable fabric that need washing or have been washed.|do the laundry|I do the laundry on Saturday morning.
+utensil|noun|برتن یا کام کا آلہ|A tool used for a practical task, especially preparing or eating food.|cooking utensil|Keep each cooking utensil near the stove.
+pantry|noun|کھانے کا سامان رکھنے کی جگہ|A cupboard or small room used to store food.|pantry shelf|Put the rice on the pantry shelf.
+clutter|noun|بے ترتیب پڑا سامان|Things gathered in an untidy way that make a space difficult to use.|clear the clutter|We need to clear the clutter from the desk.
+commute|verb|روزانہ کام یا تعلیم کے لیے سفر کرنا|To travel regularly between home and a place of work or study.|commute to work|She commutes to work by bus.
+leak|noun|رساؤ|An opening through which liquid or gas escapes, or the escaping substance itself.|water leak|The plumber repaired the water leak under the sink.
+# Shopping and services|🛒|Ask about prices, returns, payments and customer services.
+receipt|noun|رسید|A written or electronic record showing that payment has been made.|keep a receipt|Keep the receipt in case you return the shoes.
+refund|noun|رقم کی واپسی|Money returned to someone after a payment.|request a refund|I requested a refund because the item was damaged.
+warranty|noun|ضمانت|A written promise to repair or replace a product under stated conditions.|under warranty|The refrigerator is still under warranty.
+checkout|noun|ادائیگی کی جگہ یا مرحلہ|The place or process where a customer pays for purchases.|checkout counter|Please take your basket to the checkout counter.
+retailer|noun|خوردہ فروش|A business that sells goods directly to customers.|online retailer|The online retailer sent the wrong size.
+stock|noun|دستیاب سامان|Goods that a shop or business has available to sell.|in stock|The smaller size is currently in stock.
+installment|noun|قسط|One of several payments made at agreed times toward a total amount.|monthly installment|The final monthly installment is due in June.
+subscription|noun|باقاعدہ فیس دے کر حاصل کی جانے والی سہولت|An arrangement to receive a service or publication through regular payment.|cancel a subscription|You can cancel the subscription in your account settings.
+# Travel and transport|✈️|Plan journeys, navigate stations and explain travel problems.
+itinerary|noun|سفر کا منصوبہ|A plan listing the places and activities included in a journey.|travel itinerary|Our travel itinerary includes two nights in Lahore.
+layover|noun|سفر کے دوران عارضی قیام|A short stop between stages of a journey, often between flights.|three-hour layover|We have a three-hour layover before the connecting flight.
+boarding|noun|سواری میں سوار ہونے کا عمل|The process of entering an aircraft, ship or other vehicle.|boarding pass|Show your boarding pass at the gate.
+baggage|noun|سفر کا سامان|Bags and cases carried by a traveller.|baggage allowance|Check the baggage allowance before packing.
+fare|noun|کرایہ|The price paid for a journey on public transport.|bus fare|The bus fare is lower than the taxi fare.
+detour|noun|متبادل راستہ|A different, usually longer route taken to avoid an obstruction.|take a detour|We had to take a detour because the bridge was closed.
+platform|noun|ریلوے اسٹیشن پر سوار ہونے کی جگہ|The area beside railway tracks where passengers board and leave trains.|station platform|Wait on the station platform until the train stops.
+reservation|noun|پیشگی بکنگ|An arrangement to keep a room, seat or service available for someone.|hotel reservation|Please confirm my hotel reservation for Friday.
+# Food and hospitality|🍽️|Discuss meals, ingredients and service politely.
+ingredient|noun|کھانے میں شامل جزو|One of the substances used to prepare a dish.|main ingredient|Lentils are the main ingredient in this soup.
+portion|noun|کھانے کی مقدار|An amount of food served to one person.|small portion|Could I have a small portion of rice?
+allergen|noun|الرجی پیدا کرنے والی چیز|A substance that can cause an allergic reaction.|food allergen|The menu identifies common food allergens.
+utensils|noun|کھانے یا پکانے کے برتن|Tools used to prepare, serve or eat food.|serving utensils|Use clean serving utensils for each dish.
+simmer|verb|ہلکی آنچ پر پکانا|To cook a liquid just below boiling, with small bubbles appearing.|simmer gently|Let the sauce simmer gently for ten minutes.
+gratuity|noun|بخشش|Money given voluntarily for a service, especially in hospitality.|leave a gratuity|The guest chose to leave a gratuity for the waiter.
+buffet|noun|خود لے کر کھانے کا انتظام|A meal arranged so that guests serve themselves from several dishes.|breakfast buffet|The breakfast buffet opens at seven.
+dietary|adjective|غذا سے متعلق|Related to the food a person eats or needs.|dietary requirements|Tell the hotel about your dietary requirements.
+# Workplace and careers|💼|Discuss duties, schedules and professional development.
+onboarding|noun|نئے ملازم کو کام سے متعارف کرانا|The process of helping a new employee understand a workplace and role.|employee onboarding|Employee onboarding includes training on the booking system.
+deadline|noun|آخری مقررہ وقت|The latest time by which a task must be completed.|meet a deadline|We worked together to meet the deadline.
+delegate|verb|کام یا اختیار سونپنا|To give a task or responsibility to another person.|delegate a task|The manager delegated the task to an experienced colleague.
+appraisal|noun|کارکردگی کا جائزہ|A formal assessment of an employee's performance.|performance appraisal|Her performance appraisal included goals for the next year.
+resignation|noun|استعفیٰ|The act of formally leaving a job or position.|submit a resignation|He submitted his resignation after accepting another position.
+vacancy|noun|خالی آسامی|A job or position that is available.|job vacancy|The school advertised a job vacancy for an English teacher.
+probation|noun|آزمائشی مدت|An initial period during which a new employee's suitability is assessed.|probation period|The probation period lasts three months under this contract.
+reimbursement|noun|خرچ کی واپسی|Money paid back to someone who has spent it on an approved expense.|travel reimbursement|Attach the tickets when applying for travel reimbursement.
+# Business and entrepreneurship|📊|Describe customers, operations and business decisions.
+revenue|noun|آمدنی|Money received by a business from its activities before expenses are deducted.|annual revenue|The shop's annual revenue increased, but its expenses also rose.
+overhead|noun|کاروبار کا عمومی خرچ|An ongoing business cost that is not directly tied to one product or job.|overhead costs|Rent and electricity contribute to overhead costs.
+inventory|noun|سامان کی فہرست یا ذخیرہ|The goods a business holds, or a detailed list of those goods.|manage inventory|The retailer uses software to manage inventory.
+procurement|noun|سامان یا خدمات کی خریداری|The process of obtaining goods or services for an organization.|procurement process|The procurement process requires quotations from suppliers.
+stakeholder|noun|متعلقہ مفاد رکھنے والا فرد یا ادارہ|A person or group affected by, or having an interest in, an activity.|stakeholder consultation|Stakeholder consultation included employees and local residents.
+outsourcing|noun|کام باہر کی کمپنی سے کرانا|Arranging for another business to perform work previously or otherwise done internally.|outsourcing agreement|The outsourcing agreement covers customer support.
+franchise|noun|کاروباری نام استعمال کرنے کا حق|An arrangement allowing a business to use another company's name and operating model.|franchise agreement|Read the franchise agreement before opening the outlet.
+turnover|noun|ملازمین کے آنے جانے کی شرح|The rate at which employees leave an organization and are replaced.|staff turnover|High staff turnover increased training costs.
+# Money and personal finance|💳|Understand common banking and budgeting terms.
+budget|noun|آمدنی اور خرچ کا منصوبہ|A plan for how money will be received and spent.|monthly budget|Our monthly budget includes rent, food and transport.
+deposit|noun|جمع کرائی گئی رقم|Money placed in a bank account or paid in advance for an arrangement.|bank deposit|The bank deposit appeared in her account the next morning.
+withdrawal|noun|رقم نکالنا|The act of taking money out of an account.|cash withdrawal|The cash withdrawal appears on the statement.
+interest|noun|سود یا رقم کے استعمال کی ادائیگی|Money charged for borrowing money or paid on certain savings.|interest rate|Compare the interest rate and other fees before signing.
+collateral|noun|قرض کے لیے رہن رکھا گیا اثاثہ|Property offered as security for a loan.|provide collateral|The lender asked the business to provide collateral.
+liquidity|noun|اثاثے کو نقد رقم میں بدلنے کی سہولت|The ease with which an asset can be converted into cash without a substantial loss.|maintain liquidity|The company kept cash available to maintain liquidity.
+premium|noun|بیمے کی قسط|The amount paid for insurance coverage.|insurance premium|The insurance premium is paid once a year.
+deductible|noun|بیمے میں خود ادا کی جانے والی رقم|The amount a policyholder pays toward a covered loss before the insurer pays its share.|policy deductible|Check the policy deductible as well as the premium.
+# Health and healthcare|🩺|Communicate about symptoms and healthcare appointments.
+symptom|noun|علامت|A change experienced by a person that may indicate illness.|describe a symptom|Describe each symptom clearly to the clinician.
+prescription|noun|ڈاکٹر کا نسخہ|A clinician's written instruction for medicine or treatment.|fill a prescription|The pharmacist filled the prescription.
+dosage|noun|دوا کی مقررہ مقدار اور طریقہ|The amount of medicine and schedule specified for its use.|prescribed dosage|The label states the prescribed dosage.
+referral|noun|دوسرے ماہر کے پاس بھیجنا|An arrangement for a patient to see another healthcare professional.|specialist referral|The clinic arranged a specialist referral.
+outpatient|noun|بغیر داخلے کے علاج کرانے والا مریض|A patient who receives care without staying overnight in hospital.|outpatient clinic|She has an appointment at the outpatient clinic.
+triage|noun|ضرورت کے مطابق علاج کی ترجیح طے کرنا|Assessing patients to determine the urgency of their care.|triage assessment|A nurse performed a triage assessment on arrival.
+contraindication|noun|دوا یا علاج سے منع کرنے والی طبی وجہ|A condition or factor that makes a particular treatment inadvisable.|possible contraindication|The clinician checked for a possible contraindication.
+consent|noun|رضامندی|Permission given after a person understands what is proposed.|informed consent|The clinician explained the procedure before seeking informed consent.
+# Digital life and cybersecurity|💻|Use devices and describe common online security issues.
+authentication|noun|شناخت کی تصدیق|The process of checking that a user or system is who it claims to be.|two-factor authentication|Enable two-factor authentication on your email account.
+phishing|noun|دھوکے سے معلومات حاصل کرنے کی کوشش|A deceptive message or website designed to obtain private information.|phishing email|The phishing email asked for her password.
+malware|noun|نقصان دہ سافٹ ویئر|Software designed to damage, disrupt or gain unauthorized access to a system.|malware detection|Malware detection identified a suspicious file.
+encryption|noun|معلومات کو خفیہ شکل میں بدلنا|Converting information into a form that requires a key to read.|data encryption|The service uses data encryption when sending files.
+backup|noun|محفوظ اضافی نقل|An additional copy of data kept for recovery.|create a backup|Create a backup before replacing your computer.
+bandwidth|noun|ڈیٹا کی ترسیل کی گنجائش|The capacity of a connection to transfer data in a given time.|limited bandwidth|Video calls may be difficult with limited bandwidth.
+permission|noun|اجازت|Authorization to access something or perform an action.|app permission|Review each app permission before granting access.
+interface|noun|استعمال اور رابطے کا ذریعہ|The controls through which a user interacts with a program or device.|user interface|The user interface has clear buttons and readable labels.
+# Programming and data|⌨️|Understand common software and data terminology.
+algorithm|noun|مسئلہ حل کرنے کے مرحلہ وار اصول|A defined sequence of steps for carrying out a task or solving a problem.|sorting algorithm|The sorting algorithm arranges the names alphabetically.
+database|noun|منظم معلومات کا ذخیرہ|An organized collection of data that can be stored and retrieved.|database query|The database query returned all matching records.
+debug|verb|پروگرام کی خرابی تلاش کرکے درست کرنا|To find and correct errors in a computer program.|debug a program|We used the error message to debug the program.
+variable|noun|بدلنے والی قدر رکھنے والا نام|A named item in a program whose value can change.|declare a variable|Declare a variable to store the current score.
+deployment|noun|سافٹ ویئر کو استعمال کے لیے جاری کرنا|Making software available in the environment where it will be used.|software deployment|The software deployment followed the final checks.
+repository|noun|فائلوں اور تبدیلیوں کا منظم ذخیرہ|A storage location for project files and their recorded changes.|source repository|The source repository includes the application code.
+schema|noun|ڈیٹا کی ساخت کا خاکہ|A specification describing how data is organized.|database schema|The database schema defines the fields in each table.
+latency|noun|جواب آنے میں تاخیر|The delay between an action or request and the resulting response.|network latency|High network latency delayed the response.
+# Education and teaching|🎓|Discuss learning, assessment and classroom practice.
+curriculum|noun|نصاب|The subjects and learning content planned for a course or programme.|school curriculum|The school curriculum includes language and science.
+rubric|noun|جانچ کے معیار کا جدول|A set of criteria describing how work will be assessed.|assessment rubric|The assessment rubric explains how examples support an argument.
+scaffolding|noun|سیکھنے کے لیے عارضی مدد|Temporary support that helps a learner perform a task before working independently.|learning scaffolding|A model paragraph provides learning scaffolding for beginners.
+formative|adjective|سیکھنے کے دوران رہنمائی دینے والا|Used during learning to identify progress and guide improvement.|formative assessment|The teacher used formative assessment to plan the next lesson.
+summative|adjective|آخر میں مجموعی کارکردگی جانچنے والا|Used at the end of a learning period to evaluate achievement.|summative assessment|The final project serves as a summative assessment.
+feedback|noun|اصلاح کے لیے رائے|Information about performance intended to guide improvement.|constructive feedback|Constructive feedback explains both strengths and next steps.
+literacy|noun|پڑھنے اور لکھنے کی صلاحیت|The ability to read and write, or competence in a specified area.|digital literacy|Digital literacy includes evaluating online information.
+prerequisite|noun|پہلے سے درکار شرط|A requirement that must be met before something else can happen.|course prerequisite|Basic statistics is a course prerequisite.
+# Research and academic writing|🔬|Describe research design, evidence and responsible reporting.
+methodology|noun|تحقیقی طریقۂ کار|The approach and rationale governing the methods used in research.|research methodology|The research methodology explains why interviews were selected.
+corpus|noun|تجزیے کے لیے متون کا مجموعہ|A collection of spoken or written language assembled for study.|language corpus|The language corpus contains interviews and newspaper reports.
+triangulation|noun|مختلف ذرائع سے نتائج کا جائزہ|Using different sources or methods to examine a research issue.|data triangulation|Data triangulation compared interviews with legal texts.
+paraphrase|verb|اپنے الفاظ میں بیان کرنا|To restate another person's meaning in different words.|paraphrase a source|Paraphrase the source accurately and provide a citation.
+citation|noun|متن میں ماخذ کا حوالہ|A reference identifying the source of information or an idea.|in-text citation|An in-text citation identifies the author and year in this style.
+plagiarism|noun|دوسروں کے کام کو اپنا ظاہر کرنا|Presenting another person's words or ideas as one's own without appropriate acknowledgment.|avoid plagiarism|Accurate attribution helps avoid plagiarism.
+replication|noun|تحقیق کو دوبارہ انجام دینا|Repeating a study to examine whether its findings can be obtained again.|replication study|The replication study used a new sample.
+confounder|noun|نتیجے پر اثر ڈالنے والا اضافی عامل|A factor related to both an explanatory variable and an outcome that can distort their apparent relationship.|potential confounder|The researchers considered age as a potential confounder.
+# Law and rights|⚖️|Read general legal language and discuss rights precisely.
+jurisdiction|noun|قانونی اختیار کا دائرہ|The authority of a court or body to decide matters within a defined area or subject.|court jurisdiction|The lawyers discussed whether the case fell within the court's jurisdiction.
+affidavit|noun|حلفیہ بیان|A written statement confirmed by oath or affirmation.|submit an affidavit|The applicant was asked to submit an affidavit.
+litigation|noun|عدالتی کارروائی|The process of pursuing or defending a case in court.|civil litigation|The dispute led to civil litigation.
+statute|noun|قانون ساز ادارے کا بنایا ہوا قانون|A law formally enacted by a legislative body.|relevant statute|The judgment refers to the relevant statute.
+liability|noun|قانونی ذمہ داری|Legal responsibility for an act, loss or obligation.|legal liability|The contract explains how legal liability is allocated.
+appeal|noun|فیصلے کے خلاف درخواست|A request for a higher authority to review a decision.|file an appeal|The party decided to file an appeal against the decision.
+defendant|noun|مدعا علیہ یا ملزم|A person or organization against whom a legal claim or charge is brought.|named defendant|The document identifies the named defendant.
+plaintiff|noun|مدعی|The person or organization bringing a civil claim in court.|civil plaintiff|The civil plaintiff sought compensation for the loss.
+# Government and civic life|🏛️|Understand public institutions and civic participation.
+constituency|noun|انتخابی حلقہ|An electoral area whose voters choose a representative.|electoral constituency|She met residents across her electoral constituency.
+ballot|noun|ووٹ ڈالنے کا طریقہ یا پرچی|A means of recording a vote, or the voting process itself.|secret ballot|The members elected their chair by secret ballot.
+ordinance|noun|قانونی حکم یا ضابطہ|A rule or law issued by an authority, with its exact status depending on the jurisdiction.|local ordinance|The local ordinance regulates noise in residential streets.
+municipal|adjective|بلدیاتی|Related to a town or city and its local government.|municipal services|Municipal services include waste collection in this area.
+petition|noun|اجتماعی درخواست|A formal written request, often supported by signatures.|sign a petition|Residents signed a petition asking for a safer crossing.
+accountability|noun|جواب دہی|The obligation to explain decisions and accept responsibility for them.|public accountability|Public accountability requires clear reporting of spending.
+transparency|noun|شفافیت|Openness that allows decisions and processes to be understood and examined.|financial transparency|Financial transparency helps residents examine the budget.
+bureaucracy|noun|دفتری انتظامی نظام|A system of administration based on official procedures and departments.|administrative bureaucracy|The reform aimed to simplify administrative bureaucracy.
+# Environment and climate|🌿|Discuss environmental processes and conservation.
+biodiversity|noun|حیاتیاتی تنوع|The variety of living organisms in an area or on Earth.|protect biodiversity|Protecting wetlands can help protect biodiversity.
+ecosystem|noun|ماحولیاتی نظام|Living organisms and their physical surroundings interacting as a system.|forest ecosystem|The forest ecosystem supports insects, birds and mammals.
+emissions|noun|خارج ہونے والی گیسیں یا مادے|Substances released into the environment, especially gases.|carbon emissions|The report compares carbon emissions from different activities.
+renewable|adjective|قدرتی طور پر دوبارہ حاصل ہونے والا|Replenished by natural processes, especially when describing an energy source.|renewable energy|The school installed equipment that uses renewable energy.
+landfill|noun|کچرا دفن کرنے کی جگہ|A site where waste is deposited and covered.|landfill waste|Reusing materials can reduce landfill waste.
+compost|noun|نامیاتی کھاد|Decayed organic material used to improve soil.|garden compost|The gardener added garden compost to the soil.
+drought|noun|خشک سالی|A prolonged period with unusually little rainfall.|severe drought|The severe drought reduced the water available for crops.
+conservation|noun|تحفظ|The protection and careful management of natural resources or wildlife.|wildlife conservation|Wildlife conservation includes protecting habitats.
+# Science and laboratory work|🧪|Describe observations, measurements and experiments.
+specimen|noun|جانچ کے لیے نمونہ|A sample used for scientific examination.|laboratory specimen|The laboratory specimen was labelled before examination.
+calibration|noun|پیمائش کے آلے کی درستگی جانچنا|Checking and adjusting an instrument against a known standard.|instrument calibration|Instrument calibration was completed before measurements began.
+reagent|noun|کیمیائی جانچ میں استعمال ہونے والا مادہ|A substance used to produce or detect a chemical reaction.|chemical reagent|The technician added a chemical reagent to the sample.
+solvent|noun|حل کرنے والا مادہ|A substance, usually a liquid, in which another substance dissolves.|suitable solvent|The procedure specifies a suitable solvent.
+control|noun|موازنے کے لیے معیاری حالت یا گروہ|A reference condition or group used to compare the effect of a tested factor.|control group|The control group did not receive the experimental intervention.
+hypothesis|noun|قابلِ جانچ مفروضہ|A proposed explanation or prediction that can be tested.|test a hypothesis|The experiment was designed to test a hypothesis.
+precision|noun|بار بار پیمائش میں یکسانیت|The closeness of repeated measurements to one another.|measurement precision|Repeated readings helped assess measurement precision.
+accuracy|noun|درست قدر سے قربت|The closeness of a measurement to the accepted or true value.|measurement accuracy|A reliable reference is needed to evaluate measurement accuracy.
+# Mathematics and reasoning|🧮|Explain quantities, relationships and logical claims.
+denominator|noun|مخرج|The number below the line in a fraction.|common denominator|Rewrite the fractions with a common denominator.
+numerator|noun|صورت|The number above the line in a fraction.|fraction numerator|The fraction numerator shows how many parts are being considered.
+ratio|noun|نسبت|A comparison of two quantities by division.|mixing ratio|The mixing ratio is two parts water to one part concentrate.
+proportion|noun|تناسب یا حصہ|A part considered in relation to the whole.|sample proportion|The sample proportion was three out of ten.
+median|noun|ترتیب میں درمیانی قدر|The middle value in ordered data, or the mean of the two middle values when the count is even.|median value|The median value is less affected by an extreme outlier than the mean.
+outlier|noun|دوسری قدروں سے بہت مختلف قدر|A data value that differs markedly from the others.|statistical outlier|The unusually high reading was examined as a statistical outlier.
+premise|noun|دلیل کی بنیادی بات|A statement used as a starting point in an argument.|central premise|The central premise needs supporting evidence.
+inference|noun|شواہد سے اخذ کیا گیا نتیجہ|A conclusion drawn from evidence or reasoning.|draw an inference|Readers can draw an inference from the speaker's hesitation.
+# Engineering and construction|🛠️|Discuss structures, equipment and maintenance.
+blueprint|noun|تفصیلی تعمیراتی نقشہ|A detailed plan showing how something is to be built.|building blueprint|The engineer checked the building blueprint.
+load|noun|بوجھ|A force or weight carried by a structure or component.|structural load|The design must account for the structural load.
+tolerance|noun|قابلِ قبول انحراف کی حد|The permitted variation in a dimension or other specified measurement.|manufacturing tolerance|The part must remain within the manufacturing tolerance.
+maintenance|noun|دیکھ بھال اور مرمت|Work done to keep equipment or structures in usable condition.|routine maintenance|Routine maintenance keeps the equipment working reliably.
+insulation|noun|حرارت یا بجلی کی ترسیل روکنے والا مادہ|Material used to reduce the transfer of heat, sound or electricity.|thermal insulation|Thermal insulation helps reduce heat loss.
+ventilation|noun|ہوا کی آمد و رفت|The movement of fresh air into and out of a space.|adequate ventilation|The workshop requires adequate ventilation.
+scaffold|noun|تعمیراتی کام کے لیے عارضی ڈھانچا|A temporary structure that supports workers and materials during construction.|temporary scaffold|The workers inspected the temporary scaffold before use.
+corrosion|noun|دھات کا کیمیائی طور پر خراب ہونا|The gradual deterioration of a material through chemical reactions with its surroundings.|metal corrosion|The coating helps limit metal corrosion.
+# Agriculture and rural life|🌾|Describe crops, soil and farming activities.
+irrigation|noun|آب پاشی|Supplying water to land or crops through an arranged system.|drip irrigation|The farm uses drip irrigation to deliver water near the roots.
+seedling|noun|ننھا پودا|A young plant grown from a seed.|healthy seedling|Each healthy seedling was planted in a separate row.
+harvest|noun|فصل کی کٹائی|The gathering of a crop when it is ready.|wheat harvest|The wheat harvest began after the fields dried.
+fertilizer|noun|کھاد|A substance added to soil or plants to supply nutrients.|organic fertilizer|The farmer applied organic fertilizer before planting.
+livestock|noun|مویشی|Farm animals kept for products or work.|livestock feed|The store supplies livestock feed.
+arable|adjective|قابلِ کاشت|Suitable for growing crops.|arable land|The map identifies the region's arable land.
+yield|noun|پیداوار|The amount of a crop or product obtained.|crop yield|The crop yield varied between fields.
+pesticide|noun|کیڑے یا دوسری ضرر رساں چیزیں ختم کرنے کا مادہ|A substance used to control organisms that damage crops or other resources.|pesticide application|The record states when pesticide application took place.
+# Media and communication|📰|Evaluate information and communicate clearly.
+headline|noun|خبر کی سرخی|The title of a news story.|news headline|The news headline summarizes the main event.
+editorial|noun|اداریہ|An article presenting a publication's opinion on an issue.|newspaper editorial|The newspaper editorial argued for better public transport.
+attribution|noun|بات کو اس کے ماخذ سے منسوب کرنا|Identifying the source of a statement, idea or piece of work.|clear attribution|Clear attribution distinguishes a reporter's account from a witness's claim.
+misinformation|noun|غلط معلومات|False or inaccurate information, regardless of whether it is shared deliberately.|spread misinformation|An incorrect caption can spread misinformation.
+disinformation|noun|جان بوجھ کر پھیلائی گئی غلط معلومات|False information deliberately created or shared to mislead.|disinformation campaign|The report examined a disinformation campaign.
+corroborate|verb|مزید شواہد سے تائید کرنا|To support a claim with additional evidence.|corroborate a claim|A second recording helped corroborate the claim.
+nuance|noun|معنی کا باریک فرق|A small but significant difference in meaning or expression.|subtle nuance|The translation preserved the subtle nuance of the reply.
+assertive|adjective|اعتماد سے اپنی بات کہنے والا|Expressing needs or views clearly and confidently while respecting others.|assertive communication|Assertive communication helped her explain the problem calmly.
+# Emotions and relationships|💬|Describe feelings and handle social situations thoughtfully.
+overwhelmed|adjective|دباؤ یا جذبات سے مغلوب|Feeling unable to manage the amount of work, difficulty or emotion faced.|feel overwhelmed|He began to feel overwhelmed by the unfinished tasks.
+reassurance|noun|تسلی|Words or actions that reduce another person's worry.|offer reassurance|Her calm explanation offered reassurance to the children.
+resentment|noun|رنجش|A lasting feeling of anger about perceived unfair treatment.|deep resentment|The unequal workload caused deep resentment.
+empathy|noun|دوسرے کے احساسات کو سمجھنے کی صلاحیت|The ability to understand another person's feelings or experience.|show empathy|Listening carefully helped him show empathy.
+boundary|noun|ذاتی حد|A limit defining what a person accepts in a relationship or situation.|personal boundary|She explained her personal boundary without insulting anyone.
+compromise|noun|باہمی رعایت سے اتفاق|An agreement reached when each side gives up part of what it wants.|reach a compromise|The neighbours reached a compromise about parking.
+reconcile|verb|صلح کرنا|To restore a friendly relationship after disagreement.|reconcile with someone|He hoped to reconcile with his brother.
+gratitude|noun|شکر گزاری|A feeling of appreciation for help or kindness.|express gratitude|She wrote a note to express gratitude for their support.
+# Arts and literature|🎨|Discuss stories, performance and artistic expression.
+metaphor|noun|استعارہ|A figure of speech describing one thing in terms of another without a literal identity.|extended metaphor|The poem uses an extended metaphor of a journey.
+imagery|noun|لفظی منظر نگاری|Language that evokes sensory impressions.|sensory imagery|The sensory imagery suggests the heat of the afternoon.
+protagonist|noun|مرکزی کردار|The main character in a story.|story protagonist|The story protagonist must choose between loyalty and ambition.
+motif|noun|بار بار آنے والا عنصر|An image, idea or pattern that recurs in a work.|recurring motif|The locked door is a recurring motif in the novel.
+satire|noun|طنز|A form of writing or art that exposes faults through humour, irony or exaggeration.|political satire|The play uses political satire to question public promises.
+allusion|noun|اشارہ یا تلمیح|An indirect reference to a person, event or work.|literary allusion|The literary allusion connects the passage to an older tale.
+rehearsal|noun|پیشگی مشق|Practice for a performance or event.|dress rehearsal|The dress rehearsal revealed a problem with the lighting.
+curator|noun|نمائش یا مجموعے کا نگران|A person responsible for a museum collection or exhibition.|museum curator|The museum curator selected objects for the exhibition.
+# Culture and religious studies|📚|Discuss beliefs, traditions and communities respectfully.
+ritual|noun|مقررہ مذہبی یا رسمی عمل|An action or sequence performed according to an established tradition.|religious ritual|The researcher described the religious ritual in its local context.
+doctrine|noun|باقاعدہ عقیدہ یا اصول|A set of beliefs or principles taught by a group or institution.|religious doctrine|The chapter compares interpretations of religious doctrine.
+scripture|noun|مقدس متن|Writing regarded as sacred within a religious tradition.|interpret scripture|The course examines how communities interpret scripture.
+pilgrimage|noun|مقدس مقام کی زیارت کا سفر|A journey to a place regarded as sacred or spiritually significant.|undertake a pilgrimage|The family planned to undertake a pilgrimage.
+interfaith|adjective|مختلف مذاہب کے درمیان|Involving people or traditions from different religions.|interfaith dialogue|Interfaith dialogue gave participants time to explain their beliefs.
+heritage|noun|ثقافتی ورثہ|Traditions, objects or places inherited from earlier generations.|cultural heritage|The archive helps preserve cultural heritage.
+custom|noun|رواج|A practice commonly followed by a community.|local custom|The guide explained the local custom to visitors.
+secular|adjective|غیر مذہبی|Not specifically religious or connected with religious institutions.|secular institution|The study compares religious and secular institutions.
+# Geography and global affairs|🌍|Describe places, populations and international movement.
+estuary|noun|دریا کا سمندر سے ملنے کا علاقہ|The coastal area where river water meets seawater.|river estuary|Several bird species feed near the river estuary.
+archipelago|noun|جزائر کا مجموعہ|A group or chain of islands.|island archipelago|The island archipelago stretches across the warm sea.
+plateau|noun|سطح مرتفع|A broad area of relatively flat land at a high elevation.|high plateau|The road climbs toward a high plateau.
+urbanization|noun|شہری آبادی میں اضافہ|The process by which a growing share of a population lives in urban areas.|rapid urbanization|Rapid urbanization increased demand for housing.
+migration|noun|نقل مکانی|Movement of people or animals from one region to another.|seasonal migration|Seasonal migration brings workers to the agricultural district.
+diplomacy|noun|سفارت کاری|Managing relations between states or groups through discussion and negotiation.|international diplomacy|International diplomacy helped reopen the negotiations.
+demography|noun|آبادی کا مطالعہ|The study of populations, including their size, structure and change.|population demography|Population demography helps explain changes in the age distribution.
+sovereignty|noun|خود مختاری|The authority of a state to govern itself.|national sovereignty|The discussion considered national sovereignty and regional cooperation.
+# Grammar and connecting words|🔗|Connect ideas and express conditions, contrasts and relationships.
+although|conjunction|اگرچہ|Introduces a contrast between two facts.|although it rained|Although it rained, the match continued.
+unless|conjunction|جب تک ایسا نہ ہو|Introduces the condition under which a statement would not apply.|unless you agree|We will not change the date unless you agree.
+whereas|conjunction|جب کہ|Introduces a contrasting fact or situation.|whereas the other|One route is short, whereas the other avoids heavy traffic.
+despite|preposition|کے باوجود|Shows that something happens even though a stated fact might prevent it.|despite the delay|Despite the delay, we arrived before the meeting began.
+within|preposition|کے اندر|Indicates a position inside a boundary or a time before a limit ends.|within a week|The office replied within a week.
+across|preposition|کے پار یا مختلف حصوں میں|Indicates movement from one side to another or distribution over an area.|across the road|Use the crossing to walk across the road.
+whether|conjunction|آیا|Introduces alternatives or uncertainty about a possibility.|whether to attend|She has not decided whether to attend.
+otherwise|adverb|ورنہ یا دوسری صورت میں|Indicates what happens if a stated condition is not met.|otherwise we will|Leave now; otherwise we will miss the train.
